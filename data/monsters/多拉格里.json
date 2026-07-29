@@ -1,0 +1,31 @@
+{
+  "id": "monster:12f2ada560",
+  "type": "monster",
+  "name_zh": "多拉格里",
+  "name_en": "",
+  "aliases": [
+    "多拉格里"
+  ],
+  "image": "assets/monsters/多拉格里/portrait.webp",
+  "image_original": "assets/monsters/多拉格里/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "蛾超兽。凶暴，擅长撕裂其他怪兽和进行空中追击。",
+  "summary": "外观特征：蛾类翅膀、长臂、鲜艳生体纹路；习性：凶暴，擅长撕裂其他怪兽和进行空中追击；主要攻击方式：飞行、怪力撕扯、火焰、光线和近身压制。",
+  "notable_history": [
+    "原作定位为蛾超兽。",
+    "其典型习性为凶暴，擅长撕裂其他怪兽和进行空中追击。",
+    "常用战法包括飞行、怪力撕扯、火焰、光线和近身压制。"
+  ],
+  "hunter_contract_rating": "B-",
+  "sources": [
+    {
+      "title": "Doragory",
+      "url": "https://ultra.fandom.com/wiki/Doragory",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/0/0c/Doragory_movie_I.png/revision/latest?cb=20200531010850"
+    }
+  ]
+}

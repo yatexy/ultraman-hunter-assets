@@ -1,0 +1,31 @@
+{
+  "id": "monster:f214c367dd",
+  "type": "monster",
+  "name_zh": "佐加",
+  "name_en": "",
+  "aliases": [
+    "佐加"
+  ],
+  "image": "assets/monsters/佐加/portrait.webp",
+  "image_original": "assets/monsters/佐加/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "超古代尖兵怪兽。成群活动，服从黑暗支配者并攻击文明设施。",
+  "summary": "外观特征：黑色翼兽、尖喙、利爪和流线飞行体；习性：成群活动，服从黑暗支配者并攻击文明设施；主要攻击方式：高速飞行、俯冲、火球、爪击和群体空袭。",
+  "notable_history": [
+    "原作定位为超古代尖兵怪兽。",
+    "其典型习性为成群活动，服从黑暗支配者并攻击文明设施。",
+    "常用战法包括高速飞行、俯冲、火球、爪击和群体空袭。"
+  ],
+  "hunter_contract_rating": "B",
+  "sources": [
+    {
+      "title": "Zoiger",
+      "url": "https://ultra.fandom.com/wiki/Zoiger",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/5/5b/Zoiger_HD_007.jpg/revision/latest?cb=20231205133511"
+    }
+  ]
+}

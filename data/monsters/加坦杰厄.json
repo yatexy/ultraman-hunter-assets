@@ -1,0 +1,31 @@
+{
+  "id": "monster:364b915630",
+  "type": "monster",
+  "name_zh": "加坦杰厄",
+  "name_en": "",
+  "aliases": [
+    "加坦杰厄"
+  ],
+  "image": "assets/monsters/加坦杰厄/portrait.webp",
+  "image_original": "assets/monsters/加坦杰厄/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "邪神、超古代黑暗支配者。从深海扩散黑暗，压制光与文明后维持长期支配。",
+  "summary": "外观特征：倒置螺壳、巨大触手、钳状肢与深海软体结构；习性：从深海扩散黑暗，压制光与文明后维持长期支配；主要攻击方式：石化光线、黑雾、触手、巨钳、强力屏障和广域压制。",
+  "notable_history": [
+    "原作定位为邪神、超古代黑暗支配者。",
+    "其典型习性为从深海扩散黑暗，压制光与文明后维持长期支配。",
+    "常用战法包括石化光线、黑雾、触手、巨钳、强力屏障和广域压制。"
+  ],
+  "hunter_contract_rating": "A+",
+  "sources": [
+    {
+      "title": "Gatanothor",
+      "url": "https://ultra.fandom.com/wiki/Gatanothor",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/a/a8/GatanothorInfo.png/revision/latest?cb=20191023012337"
+    }
+  ]
+}

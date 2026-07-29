@@ -1,0 +1,12 @@
+{
+  "query": "Thunder Killer",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Thunder+Killer&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/b/b3/IMG_1043.jpeg/revision/latest?cb=20170924063011",
+  "page_url": "https://ultra.fandom.com/wiki/Thunder_Killer",
+  "title": "Thunder Killer",
+  "width": 1013,
+  "height": 1369,
+  "relevance": 2000,
+  "downloaded_width": 1013,
+  "downloaded_height": 1369
+}

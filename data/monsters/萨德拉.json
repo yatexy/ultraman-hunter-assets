@@ -1,0 +1,31 @@
+{
+  "id": "monster:cd029c7e04",
+  "type": "monster",
+  "name_zh": "萨德拉",
+  "name_en": "",
+  "aliases": [
+    "萨德拉"
+  ],
+  "image": "assets/monsters/萨德拉/portrait.webp",
+  "image_original": "assets/monsters/萨德拉/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "岩石怪兽。利用雾与山谷伏击经过目标。",
+  "summary": "外观特征：岩石色皮肤、钳状双手、尖锐头部；习性：利用雾与山谷伏击经过目标；主要攻击方式：伸缩钳臂、夹击、拖拽、咬合和隐蔽突袭。",
+  "notable_history": [
+    "原作定位为岩石怪兽。",
+    "其典型习性为利用雾与山谷伏击经过目标。",
+    "常用战法包括伸缩钳臂、夹击、拖拽、咬合和隐蔽突袭。"
+  ],
+  "hunter_contract_rating": "D",
+  "sources": [
+    {
+      "title": "Sadolar",
+      "url": "https://ultra.fandom.com/wiki/Sadolar",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/b/b2/Sadola_movie_I.png/revision/latest?cb=20200520035005"
+    }
+  ]
+}

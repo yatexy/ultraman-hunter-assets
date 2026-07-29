@@ -1,0 +1,31 @@
+{
+  "id": "monster:6a786b7a08",
+  "type": "monster",
+  "name_zh": "黑暗扎基",
+  "name_en": "",
+  "aliases": [
+    "黑暗扎基"
+  ],
+  "image": "assets/monsters/黑暗扎基/portrait.webp",
+  "image_original": "assets/monsters/黑暗扎基/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "黑暗巨人、诺亚之暗。追求压倒与毁灭，会利用异生兽和恐惧扩大黑暗。",
+  "summary": "外观特征：黑红巨人、尖锐头冠、胸部黑暗核心；习性：追求压倒与毁灭，会利用异生兽和恐惧扩大黑暗；主要攻击方式：黑暗光线、高速格斗、能量吸收、空间移动和异生兽操纵。",
+  "notable_history": [
+    "原作定位为黑暗巨人、诺亚之暗。",
+    "其典型习性为追求压倒与毁灭，会利用异生兽和恐惧扩大黑暗。",
+    "常用战法包括黑暗光线、高速格斗、能量吸收、空间移动和异生兽操纵。"
+  ],
+  "hunter_contract_rating": "S",
+  "sources": [
+    {
+      "title": "Dark Zagi",
+      "url": "https://ultra.fandom.com/wiki/Dark_Zagi",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/7/7f/Dark_Zagi_Full.png/revision/latest?cb=20191106042058"
+    }
+  ]
+}

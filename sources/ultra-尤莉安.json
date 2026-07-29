@@ -1,0 +1,12 @@
+{
+  "query": "Yullian",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&generator=search&gsrsearch=Yullian&gsrlimit=4&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/d/d8/Yullian_Infobox.png/revision/latest?cb=20191225190408",
+  "page_url": "https://ultra.fandom.com/wiki/Yullian",
+  "title": "Yullian",
+  "width": 334,
+  "height": 900,
+  "relevance": 999,
+  "downloaded_width": 334,
+  "downloaded_height": 900
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ultra:2fde5401ae",
+  "type": "ultra",
+  "name_zh": "艾斯奥特曼",
+  "name_en": "",
+  "aliases": [
+    "艾斯奥特曼",
+    "艾斯"
+  ],
+  "image": "assets/ultras/艾斯奥特曼/portrait.webp",
+  "image_original": "assets/ultras/艾斯奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "为对抗亚波人与超兽而战的奥特兄弟成员。",
+  "summary": "主要能力：梅塔利姆光线、垂直断头刀、奥特断头刀与多种切割光线。；战斗特点：针对超兽的高耐久和武装器官使用分解、切割与精确终结。。",
+  "notable_history": [
+    "为对抗亚波人与超兽而战的奥特兄弟成员。",
+    "主要能力包括梅塔利姆光线、垂直断头刀、奥特断头刀与多种切割光线。。",
+    "战斗特点为针对超兽的高耐久和武装器官使用分解、切割与精确终结。。"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": [
+    {
+      "title": "Ultraman Ace (character)",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Ace_(character)",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/9/9e/Ultraman_Ace.png/revision/latest?cb=20230822161519"
+    }
+  ]
+}

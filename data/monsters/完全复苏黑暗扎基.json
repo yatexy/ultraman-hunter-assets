@@ -1,0 +1,31 @@
+{
+  "id": "monster:ccf128ea88",
+  "type": "monster",
+  "name_zh": "完全复苏黑暗扎基",
+  "name_en": "",
+  "aliases": [
+    "完全复苏黑暗扎基"
+  ],
+  "image": "assets/monsters/完全复苏黑暗扎基/portrait.webp",
+  "image_original": "assets/monsters/完全复苏黑暗扎基/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "原作敌怪。否定人工生命成为光的可能性，并培养可供吸收的恐惧生态。",
+  "summary": "外观特征：黑红巨人、稳定黑暗核心和扩张的能量翼纹；习性：否定人工生命成为光的可能性，并培养可供吸收的恐惧生态；主要攻击方式：完整黑暗光线、空间移动、异生兽网络、吸收和高速格斗。",
+  "notable_history": [
+    "原作定位为原作敌怪。",
+    "其典型习性为否定人工生命成为光的可能性，并培养可供吸收的恐惧生态。",
+    "常用战法包括完整黑暗光线、空间移动、异生兽网络、吸收和高速格斗。"
+  ],
+  "hunter_contract_rating": "S",
+  "sources": [
+    {
+      "title": "Dark Zagi",
+      "url": "https://ultra.fandom.com/wiki/Dark_Zagi",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/7/7f/Dark_Zagi_Full.png/revision/latest?cb=20191106042058"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "monster:d64db9dc06",
+  "type": "monster",
+  "name_zh": "布莱克王",
+  "name_en": "",
+  "aliases": [
+    "布莱克王"
+  ],
+  "image": "assets/monsters/布莱克王/portrait.webp",
+  "image_original": "assets/monsters/布莱克王/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "保镖怪兽。常受纳克尔星人操纵，擅长针对已研究的对手。",
+  "summary": "外观特征：黑色重甲、巨大角、粗壮四肢；习性：常受纳克尔星人操纵，擅长针对已研究的对手；主要攻击方式：头角冲撞、怪力、火焰、尾击和协同伏击。",
+  "notable_history": [
+    "原作定位为保镖怪兽。",
+    "其典型习性为常受纳克尔星人操纵，擅长针对已研究的对手。",
+    "常用战法包括头角冲撞、怪力、火焰、尾击和协同伏击。"
+  ],
+  "hunter_contract_rating": "B-",
+  "sources": [
+    {
+      "title": "Black King",
+      "url": "https://ultra.fandom.com/wiki/Black_King",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/a/a0/Ultrmn_Glxy_lgnds_blck_kng.png/revision/latest?cb=20200617034618"
+    }
+  ]
+}

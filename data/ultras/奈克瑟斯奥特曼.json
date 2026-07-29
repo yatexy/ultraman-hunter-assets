@@ -1,0 +1,32 @@
+{
+  "id": "ultra:beda278f4d",
+  "type": "ultra",
+  "name_zh": "奈克瑟斯奥特曼",
+  "name_en": "",
+  "aliases": [
+    "奈克瑟斯奥特曼",
+    "奈克瑟斯"
+  ],
+  "image": "assets/ultras/奈克瑟斯奥特曼/portrait.webp",
+  "image_original": "assets/ultras/奈克瑟斯奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "可由适能者继承的光之战士。",
+  "summary": "主要能力：十字风暴、层叠光线、梅塔领域与适能者成长。；战斗特点：通过适能者的经历、意志和战斗逐步提高完成度。。",
+  "notable_history": [
+    "可由适能者继承的光之战士。",
+    "主要能力包括十字风暴、层叠光线、梅塔领域与适能者成长。。",
+    "战斗特点为通过适能者的经历、意志和战斗逐步提高完成度。。"
+  ],
+  "hunter_contract_rating": "未评级",
+  "sources": [
+    {
+      "title": "Ultraman Nexus (character)",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Nexus_(character)",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/c/c8/Ultraman_Nexus.png/revision/latest?cb=20191226050428"
+    }
+  ]
+}

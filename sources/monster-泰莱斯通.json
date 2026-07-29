@@ -1,0 +1,12 @@
+{
+  "query": "Telesdon",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Telesdon&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/a/ab/Telesdon_data.png/revision/latest?cb=20150729062850",
+  "page_url": "https://ultra.fandom.com/wiki/Telesdon",
+  "title": "Telesdon",
+  "width": 598,
+  "height": 798,
+  "relevance": 2000,
+  "downloaded_width": 598,
+  "downloaded_height": 798
+}

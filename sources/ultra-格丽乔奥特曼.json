@@ -1,0 +1,12 @@
+{
+  "query": "Ultrawoman Grigio",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Ultrawoman+Grigio&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/4/4d/Ultra-woman-grigio.png/revision/latest?cb=20220116162526",
+  "page_url": "https://ultra.fandom.com/wiki/Ultrawoman_Grigio",
+  "title": "Ultrawoman Grigio",
+  "width": 803,
+  "height": 1929,
+  "relevance": 2000,
+  "downloaded_width": 749,
+  "downloaded_height": 1800
+}

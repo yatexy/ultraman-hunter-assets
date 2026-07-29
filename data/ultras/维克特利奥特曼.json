@@ -1,0 +1,32 @@
+{
+  "id": "ultra:e15c92aa1b",
+  "type": "ultra",
+  "name_zh": "维克特利奥特曼",
+  "name_en": "",
+  "aliases": [
+    "维克特利奥特曼",
+    "维克特利"
+  ],
+  "image": "assets/ultras/维克特利奥特曼/portrait.webp",
+  "image_original": "assets/ultras/维克特利奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "维克特利安守护者，与翔共同活动。",
+  "summary": "主要能力：维克特利姆射线、怪兽武装、谢帕顿圣剑与地底能量。；战斗特点：根据怪兽武装和地底环境改变近战方式。。",
+  "notable_history": [
+    "维克特利安守护者，与翔共同活动。",
+    "主要能力包括维克特利姆射线、怪兽武装、谢帕顿圣剑与地底能量。。",
+    "战斗特点为根据怪兽武装和地底环境改变近战方式。。"
+  ],
+  "hunter_contract_rating": "B",
+  "sources": [
+    {
+      "title": "Ultraman Victory",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Victory",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/e/ee/Ultraman_Victory_full.png/revision/latest?cb=20191117224934"
+    }
+  ]
+}

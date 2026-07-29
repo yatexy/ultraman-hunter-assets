@@ -1,0 +1,32 @@
+{
+  "id": "ultra:6b35ab57ca",
+  "type": "ultra",
+  "name_zh": "布莱泽奥特曼",
+  "name_en": "",
+  "aliases": [
+    "布莱泽奥特曼",
+    "布莱泽"
+  ],
+  "image": "assets/ultras/布莱泽奥特曼/portrait.webp",
+  "image_original": "assets/ultras/布莱泽奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "来历特殊的宇宙光之巨人，与比留间弦人共同活动。",
+  "summary": "主要能力：螺旋光刃、法德兰装甲、野性格斗、跳跃与非常规投掷。；战斗特点：以本能、地形和身体动作快速适应怪兽。。",
+  "notable_history": [
+    "来历特殊的宇宙光之巨人，与比留间弦人共同活动。",
+    "主要能力包括螺旋光刃、法德兰装甲、野性格斗、跳跃与非常规投掷。。",
+    "战斗特点为以本能、地形和身体动作快速适应怪兽。。"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": [
+    {
+      "title": "Ultraman Blazar (character)",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Blazar_(character)",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/2/20/UltramanBlazar.png/revision/latest?cb=20230421040757"
+    }
+  ]
+}

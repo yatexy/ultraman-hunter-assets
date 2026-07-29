@@ -1,0 +1,31 @@
+{
+  "id": "monster:398e9f6da9",
+  "type": "monster",
+  "name_zh": "安培拉完全力量体",
+  "name_en": "",
+  "aliases": [
+    "安培拉完全力量体"
+  ],
+  "image": "assets/monsters/安培拉完全力量体/portrait.webp",
+  "image_original": "assets/monsters/安培拉完全力量体/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "原作敌怪。试图把混乱的强敌生态重组为服从帝国。",
+  "summary": "外观特征：帝王甲胄完整展开，披风形成广域黑暗场；习性：试图把混乱的强敌生态重组为服从帝国；主要攻击方式：强化雷佐利姆光线、暗黑领域、帝王剑、军团增援和封锁。",
+  "notable_history": [
+    "原作定位为原作敌怪。",
+    "其典型习性为试图把混乱的强敌生态重组为服从帝国。",
+    "常用战法包括强化雷佐利姆光线、暗黑领域、帝王剑、军团增援和封锁。"
+  ],
+  "hunter_contract_rating": "S",
+  "sources": [
+    {
+      "title": "Alien Empera",
+      "url": "https://ultra.fandom.com/wiki/Alien_Empera",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/d/d8/Alien_Empera.png/revision/latest?cb=20201013150558"
+    }
+  ]
+}

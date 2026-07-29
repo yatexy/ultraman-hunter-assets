@@ -1,0 +1,33 @@
+{
+  "id": "monster:f3f0a45202",
+  "type": "monster",
+  "name_zh": "加库玛贝塔",
+  "name_en": "",
+  "aliases": [
+    "加库玛贝塔",
+    "加库玛",
+    "加库玛β"
+  ],
+  "image": "assets/monsters/加库玛贝塔/portrait.webp",
+  "image_original": "assets/monsters/加库玛贝塔/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "矿区地底怪兽。与同类共享矿区资源，对采掘震动反应强烈。",
+  "summary": "外观特征：与阿尔法同类，角部结构和面部轮廓不同；习性：与同类共享矿区资源，对采掘震动反应强烈；主要攻击方式：石化光线、冲撞、爪击与岩层伏击。",
+  "notable_history": [
+    "原作定位为矿区地底怪兽。",
+    "其典型习性为与同类共享矿区资源，对采掘震动反应强烈。",
+    "常用战法包括石化光线、冲撞、爪击与岩层伏击。"
+  ],
+  "hunter_contract_rating": "D",
+  "sources": [
+    {
+      "title": "Gakuma",
+      "url": "https://ultra.fandom.com/wiki/Gakuma",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/4/47/Gakuma_HD_21.png/revision/latest?cb=20240914101339"
+    }
+  ]
+}

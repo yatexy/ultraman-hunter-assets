@@ -1,0 +1,12 @@
+{
+  "query": "Jobarieh",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Jobarieh&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/7/7c/Jobarieh_HD_001.jpg/revision/latest?cb=20231205134222",
+  "page_url": "https://ultra.fandom.com/wiki/Jobarieh",
+  "title": "Jobarieh",
+  "width": 2724,
+  "height": 4082,
+  "relevance": 2000,
+  "downloaded_width": 1201,
+  "downloaded_height": 1800
+}

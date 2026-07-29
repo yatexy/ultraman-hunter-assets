@@ -1,0 +1,12 @@
+{
+  "query": "Maga-Basser",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&generator=search&gsrsearch=Maga-Basser&gsrlimit=4&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/4/4c/Maga-Basser.png/revision/latest?cb=20170506192229",
+  "page_url": "https://ultra.fandom.com/wiki/Basser",
+  "title": "Basser",
+  "width": 360,
+  "height": 455,
+  "relevance": 999,
+  "downloaded_width": 360,
+  "downloaded_height": 455
+}

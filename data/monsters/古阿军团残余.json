@@ -1,0 +1,32 @@
+{
+  "id": "monster:9d5a824284",
+  "type": "monster",
+  "name_zh": "古阿军团残余",
+  "name_en": "",
+  "aliases": [
+    "古阿军团残余",
+    "古阿军团"
+  ],
+  "image": "assets/monsters/古阿军团残余/portrait.webp",
+  "image_original": "assets/monsters/古阿军团残余/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "古阿体系黑暗军团残部。争夺旧军团武器和合法性，可能互相吞并。",
+  "summary": "外观特征：由不同宇宙人、机械兵与怪兽组成，无统一外形；习性：争夺旧军团武器和合法性，可能互相吞并；主要攻击方式：小队协同、黑暗能量、机械武装、怪兽投放和空间转移。",
+  "notable_history": [
+    "原作定位为古阿体系黑暗军团残部。",
+    "其典型习性为争夺旧军团武器和合法性，可能互相吞并。",
+    "常用战法包括小队协同、黑暗能量、机械武装、怪兽投放和空间转移。"
+  ],
+  "hunter_contract_rating": "B",
+  "sources": [
+    {
+      "title": "GUARD (Geocentric Universal Alliance against the Radical Destruction)",
+      "url": "https://ultra.fandom.com/wiki/GUARD_(Geocentric_Universal_Alliance_against_the_Radical_Destruction)",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/9/96/GUARD_logo.jpeg/revision/latest?cb=20221219103617"
+    }
+  ]
+}

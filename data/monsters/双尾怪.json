@@ -1,0 +1,31 @@
+{
+  "id": "monster:8626e9828a",
+  "type": "monster",
+  "name_zh": "双尾怪",
+  "name_en": "",
+  "aliases": [
+    "双尾怪"
+  ],
+  "image": "assets/monsters/双尾怪/portrait.webp",
+  "image_original": "assets/monsters/双尾怪/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "古代地底怪兽。依靠地下环境伏击，对古敦存在捕食链关系。",
+  "summary": "外观特征：倒立式长躯、两条鞭状尾部、头部贴近地面；习性：依靠地下环境伏击，对古敦存在捕食链关系；主要攻击方式：双尾抽击、缠绕、咬合和地底突袭。",
+  "notable_history": [
+    "原作定位为古代地底怪兽。",
+    "其典型习性为依靠地下环境伏击，对古敦存在捕食链关系。",
+    "常用战法包括双尾抽击、缠绕、咬合和地底突袭。"
+  ],
+  "hunter_contract_rating": "D",
+  "sources": [
+    {
+      "title": "Twin Tail",
+      "url": "https://ultra.fandom.com/wiki/Twin_Tail",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/8/87/Twin_Tail_movie.png/revision/latest?cb=20251118190651"
+    }
+  ]
+}

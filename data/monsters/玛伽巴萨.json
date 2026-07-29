@@ -1,0 +1,31 @@
+{
+  "id": "monster:ff62a22758",
+  "type": "monster",
+  "name_zh": "玛伽巴萨",
+  "name_en": "",
+  "aliases": [
+    "玛伽巴萨"
+  ],
+  "image": "assets/monsters/玛伽巴萨/portrait.webp",
+  "image_original": "assets/monsters/玛伽巴萨/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "风之魔王兽。以风暴扩大活动区，依赖空中机动。",
+  "summary": "外观特征：蓝色巨鸟、宽大双翼和锐利喙爪；习性：以风暴扩大活动区，依赖空中机动；主要攻击方式：飓风、飞行俯冲、爪击、风压和龙卷。",
+  "notable_history": [
+    "原作定位为风之魔王兽。",
+    "其典型习性为以风暴扩大活动区，依赖空中机动。",
+    "常用战法包括飓风、飞行俯冲、爪击、风压和龙卷。"
+  ],
+  "hunter_contract_rating": "B",
+  "sources": [
+    {
+      "title": "Basser",
+      "url": "https://ultra.fandom.com/wiki/Basser",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/4/4c/Maga-Basser.png/revision/latest?cb=20170506192229"
+    }
+  ]
+}

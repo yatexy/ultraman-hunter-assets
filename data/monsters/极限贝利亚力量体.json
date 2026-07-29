@@ -1,0 +1,31 @@
+{
+  "id": "monster:ad68aec00c",
+  "type": "monster",
+  "name_zh": "极限贝利亚力量体",
+  "name_en": "",
+  "aliases": [
+    "极限贝利亚力量体"
+  ],
+  "image": "assets/monsters/极限贝利亚力量体/portrait.webp",
+  "image_original": "assets/monsters/极限贝利亚力量体/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "原作敌怪。寻找能承受自身意志的载体，吞并失败者力量。",
+  "summary": "外观特征：贝利亚轮廓覆盖黑银裂纹与过载核心；习性：寻找能承受自身意志的载体，吞并失败者力量；主要攻击方式：雷布朗多支配、极限光线、怪力、能量吞噬和怪兽军团。",
+  "notable_history": [
+    "原作定位为原作敌怪。",
+    "其典型习性为寻找能承受自身意志的载体，吞并失败者力量。",
+    "常用战法包括雷布朗多支配、极限光线、怪力、能量吞噬和怪兽军团。"
+  ],
+  "hunter_contract_rating": "S",
+  "sources": [
+    {
+      "title": "Ultraman Belial",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Belial",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/2/2c/Ultraman_Belial_infobox.png/revision/latest?cb=20200104204021"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "monster:91e27fb88b",
+  "type": "monster",
+  "name_zh": "斯菲亚合成兽",
+  "name_en": "",
+  "aliases": [
+    "斯菲亚合成兽",
+    "斯菲亚怪兽"
+  ],
+  "image": "assets/monsters/斯菲亚合成兽/portrait.webp",
+  "image_original": "assets/monsters/斯菲亚合成兽/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "斯菲亚同化怪兽统称。连接群体意识，吸收宿主结构并执行包围与同化。",
+  "summary": "外观特征：宿主怪兽外形上覆盖白色球体组织与发光纹路；习性：连接群体意识，吸收宿主结构并执行包围与同化；主要攻击方式：宿主原有能力、斯菲亚屏障、能量弹和群体协同。",
+  "notable_history": [
+    "原作定位为斯菲亚同化怪兽统称。",
+    "其典型习性为连接群体意识，吸收宿主结构并执行包围与同化。",
+    "常用战法包括宿主原有能力、斯菲亚屏障、能量弹和群体协同。"
+  ],
+  "hunter_contract_rating": "B",
+  "sources": [
+    {
+      "title": "Spheresaurus",
+      "url": "https://ultra.fandom.com/wiki/Spheresaurus",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/f/f5/Spheresaurus_pfp.jpg/revision/latest?cb=20220709021815"
+    }
+  ]
+}

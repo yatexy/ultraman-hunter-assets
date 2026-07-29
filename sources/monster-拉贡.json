@@ -1,0 +1,12 @@
+{
+  "query": "Ragon",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Ragon&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/0/0b/Ultra_Zone_Ragon_render.png/revision/latest?cb=20201030055058",
+  "page_url": "https://ultra.fandom.com/wiki/Ragon",
+  "title": "Ragon",
+  "width": 513,
+  "height": 1027,
+  "relevance": 2000,
+  "downloaded_width": 513,
+  "downloaded_height": 1027
+}

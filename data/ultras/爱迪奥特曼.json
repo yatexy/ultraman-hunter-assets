@@ -1,0 +1,33 @@
+{
+  "id": "ultra:aad75a2e46",
+  "type": "ultra",
+  "name_zh": "爱迪奥特曼",
+  "name_en": "",
+  "aliases": [
+    "爱迪奥特曼",
+    "爱迪",
+    "矢的猛"
+  ],
+  "image": "assets/ultras/爱迪奥特曼/portrait.webp",
+  "image_original": "assets/ultras/爱迪奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "光之国战士，以矢的猛身份担任教师并加入UGM。",
+  "summary": "主要能力：沙库修姆光线、扣带光束、瞬移、念力与多种辅助技。；战斗特点：技能种类多，重视怪兽事件背后的社会和情绪原因。。",
+  "notable_history": [
+    "光之国战士，以矢的猛身份担任教师并加入UGM。",
+    "主要能力包括沙库修姆光线、扣带光束、瞬移、念力与多种辅助技。。",
+    "战斗特点为技能种类多，重视怪兽事件背后的社会和情绪原因。。"
+  ],
+  "hunter_contract_rating": "B",
+  "sources": [
+    {
+      "title": "Ultraman 80 (character)",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_80_(character)",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/1/10/Ultraman_80.png/revision/latest?cb=20210919010646"
+    }
+  ]
+}

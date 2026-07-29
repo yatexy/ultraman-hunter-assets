@@ -1,0 +1,31 @@
+{
+  "id": "monster:74570e135f",
+  "type": "monster",
+  "name_zh": "泰兰特强化体",
+  "name_en": "",
+  "aliases": [
+    "泰兰特强化体"
+  ],
+  "image": "assets/monsters/泰兰特强化体/portrait.webp",
+  "image_original": "assets/monsters/泰兰特强化体/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "原作敌怪。根据制造者写入的优先级寻找高能目标。",
+  "summary": "外观特征：保留镰刀、链锤和复合器官，装甲存在人工缝合痕迹；习性：根据制造者写入的优先级寻找高能目标；主要攻击方式：复合火焰、冷气、链锤、镰刀、吸收与人工强化炮。",
+  "notable_history": [
+    "原作定位为原作敌怪。",
+    "其典型习性为根据制造者写入的优先级寻找高能目标。",
+    "常用战法包括复合火焰、冷气、链锤、镰刀、吸收与人工强化炮。"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": [
+    {
+      "title": "Tyrant",
+      "url": "https://ultra.fandom.com/wiki/Tyrant",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/3/3a/Tyrant_info.png/revision/latest?cb=20191214021604"
+    }
+  ]
+}

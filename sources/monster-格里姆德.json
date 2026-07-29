@@ -1,0 +1,12 @@
+{
+  "query": "Grimdo",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Grimdo&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/2/29/Grimdo.png/revision/latest?cb=20200428005945",
+  "page_url": "https://ultra.fandom.com/wiki/Grimdo",
+  "title": "Grimdo",
+  "width": 1309,
+  "height": 1868,
+  "relevance": 2000,
+  "downloaded_width": 1261,
+  "downloaded_height": 1800
+}

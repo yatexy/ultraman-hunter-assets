@@ -1,0 +1,12 @@
+{
+  "query": "Absolute Tartarus",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Absolute+Tartarus&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/b/b1/Absolute_Tartarus.png/revision/latest?cb=20200924160213",
+  "page_url": "https://ultra.fandom.com/wiki/Absolute_Tartarus",
+  "title": "Absolute Tartarus",
+  "width": 783,
+  "height": 1246,
+  "relevance": 2000,
+  "downloaded_width": 783,
+  "downloaded_height": 1246
+}

@@ -1,0 +1,31 @@
+{
+  "id": "monster:5839552f78",
+  "type": "monster",
+  "name_zh": "黑暗路基艾尔最终形态",
+  "name_en": "",
+  "aliases": [
+    "黑暗路基艾尔最终形态"
+  ],
+  "image": "assets/monsters/黑暗路基艾尔最终形态/portrait.webp",
+  "image_original": "assets/monsters/黑暗路基艾尔最终形态/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "原作敌怪。封存一切变化，把所有生命转为不会继续成长的记录。",
+  "summary": "外观特征：黑红结晶巨人，与猎星罗盘形成相反的静止纹路；习性：封存一切变化，把所有生命转为不会继续成长的记录；主要攻击方式：大范围人偶化、时间停滞、黑暗火花、长枪和因果封锁。",
+  "notable_history": [
+    "原作定位为原作敌怪。",
+    "其典型习性为封存一切变化，把所有生命转为不会继续成长的记录。",
+    "常用战法包括大范围人偶化、时间停滞、黑暗火花、长枪和因果封锁。"
+  ],
+  "hunter_contract_rating": "S",
+  "sources": [
+    {
+      "title": "Dark Lugiel",
+      "url": "https://ultra.fandom.com/wiki/Dark_Lugiel",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/e/e4/Dark_Lugiel-removebg.png/revision/latest?cb=20221218033821"
+    }
+  ]
+}

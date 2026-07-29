@@ -1,0 +1,31 @@
+{
+  "id": "ultra:e92c232e28",
+  "type": "ultra",
+  "name_zh": "佐菲",
+  "name_en": "",
+  "aliases": [
+    "佐菲"
+  ],
+  "image": "assets/ultras/佐菲/portrait.webp",
+  "image_original": "assets/ultras/佐菲/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "宇宙警备队队长、奥特兄弟长兄。",
+  "summary": "主要能力：M87光线、指挥、飞行、能量支援与奥特兄弟协同。；战斗特点：高光线输出与战场统筹并重，擅长组织救援和多单位作战。。",
+  "notable_history": [
+    "宇宙警备队队长、奥特兄弟长兄。",
+    "主要能力包括M87光线、指挥、飞行、能量支援与奥特兄弟协同。。",
+    "战斗特点为高光线输出与战场统筹并重，擅长组织救援和多单位作战。。"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": [
+    {
+      "title": "Zoffy",
+      "url": "https://ultra.fandom.com/wiki/Zoffy",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/7/75/Ultraman_Z0ffy_by_zer0stylinx.png/revision/latest?cb=20240529062609"
+    }
+  ]
+}

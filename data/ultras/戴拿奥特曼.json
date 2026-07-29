@@ -1,0 +1,33 @@
+{
+  "id": "ultra:3be8fca468",
+  "type": "ultra",
+  "name_zh": "戴拿奥特曼",
+  "name_en": "",
+  "aliases": [
+    "戴拿奥特曼",
+    "戴拿",
+    "飞鸟信"
+  ],
+  "image": "assets/ultras/戴拿奥特曼/portrait.webp",
+  "image_original": "assets/ultras/戴拿奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "与超级胜利队队员飞鸟信一体化的光之巨人。",
+  "summary": "主要能力：索尔捷特光线、加尔奈特轰炸、立波留姆光波与类型切换。；战斗特点：闪亮型均衡，强壮型强化力量，奇迹型强化速度和特殊能力。。",
+  "notable_history": [
+    "与超级胜利队队员飞鸟信一体化的光之巨人。",
+    "主要能力包括索尔捷特光线、加尔奈特轰炸、立波留姆光波与类型切换。。",
+    "战斗特点为闪亮型均衡，强壮型强化力量，奇迹型强化速度和特殊能力。。"
+  ],
+  "hunter_contract_rating": "未评级",
+  "sources": [
+    {
+      "title": "Ultraman Dyna (character)",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Dyna_(character)",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/2/2f/Dyna_profile_I.png/revision/latest?cb=20200428192426"
+    }
+  ]
+}

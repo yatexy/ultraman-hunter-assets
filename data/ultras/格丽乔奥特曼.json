@@ -1,0 +1,32 @@
+{
+  "id": "ultra:153a881018",
+  "type": "ultra",
+  "name_zh": "格丽乔奥特曼",
+  "name_en": "",
+  "aliases": [
+    "格丽乔奥特曼",
+    "格丽乔"
+  ],
+  "image": "assets/ultras/格丽乔奥特曼/portrait.webp",
+  "image_original": "assets/ultras/格丽乔奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "凑朝阳的光之战士形态。",
+  "summary": "主要能力：治疗、防护、能量补给与协同强化。；战斗特点：以保护、恢复和支援同伴为主要定位。。",
+  "notable_history": [
+    "凑朝阳的光之战士形态。",
+    "主要能力包括治疗、防护、能量补给与协同强化。。",
+    "战斗特点为以保护、恢复和支援同伴为主要定位。。"
+  ],
+  "hunter_contract_rating": "C+",
+  "sources": [
+    {
+      "title": "Ultrawoman Grigio",
+      "url": "https://ultra.fandom.com/wiki/Ultrawoman_Grigio",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/4/4d/Ultra-woman-grigio.png/revision/latest?cb=20220116162526"
+    }
+  ]
+}

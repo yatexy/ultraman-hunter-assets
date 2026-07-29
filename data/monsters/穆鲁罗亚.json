@@ -1,0 +1,31 @@
+{
+  "id": "monster:e668c568e0",
+  "type": "monster",
+  "name_zh": "穆鲁罗亚",
+  "name_en": "",
+  "aliases": [
+    "穆鲁罗亚"
+  ],
+  "image": "assets/monsters/穆鲁罗亚/portrait.webp",
+  "image_original": "assets/monsters/穆鲁罗亚/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "宇宙大怪兽。通过黑烟改变环境，使猎物失去光照和呼吸条件。",
+  "summary": "外观特征：暗色巨大躯体、口部与背部烟雾器官；习性：通过黑烟改变环境，使猎物失去光照和呼吸条件；主要攻击方式：有毒黑烟、火焰、冲撞和广域污染。",
+  "notable_history": [
+    "原作定位为宇宙大怪兽。",
+    "其典型习性为通过黑烟改变环境，使猎物失去光照和呼吸条件。",
+    "常用战法包括有毒黑烟、火焰、冲撞和广域污染。"
+  ],
+  "hunter_contract_rating": "B-",
+  "sources": [
+    {
+      "title": "Mururoa",
+      "url": "https://ultra.fandom.com/wiki/Mururoa",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/0/04/Mururoa_HD_003.png/revision/latest?cb=20231207163303"
+    }
+  ]
+}

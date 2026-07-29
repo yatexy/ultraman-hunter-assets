@@ -1,0 +1,32 @@
+{
+  "id": "monster:257dc19b6b",
+  "type": "monster",
+  "name_zh": "马格马星人",
+  "name_en": "",
+  "aliases": [
+    "马格马星人",
+    "马格马"
+  ],
+  "image": "assets/monsters/马格马星人/portrait.webp",
+  "image_original": "assets/monsters/马格马星人/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "佩刀暴君。侵略、奴役怪兽和掠夺资源，内部个体立场存在差异。",
+  "summary": "外观特征：黑银战斗甲、单刃武器和醒目头冠；习性：侵略、奴役怪兽和掠夺资源，内部个体立场存在差异；主要攻击方式：佩刀、钩爪、光线、格斗和怪兽操纵。",
+  "notable_history": [
+    "原作定位为佩刀暴君。",
+    "其典型习性为侵略、奴役怪兽和掠夺资源，内部个体立场存在差异。",
+    "常用战法包括佩刀、钩爪、光线、格斗和怪兽操纵。"
+  ],
+  "hunter_contract_rating": "B-",
+  "sources": [
+    {
+      "title": "Alien Magma",
+      "url": "https://ultra.fandom.com/wiki/Alien_Magma",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/a/a1/Alein_Magma_info.png/revision/latest?cb=20201012012116"
+    }
+  ]
+}

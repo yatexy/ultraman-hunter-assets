@@ -1,0 +1,31 @@
+{
+  "id": "monster:b6a7f74e6c",
+  "type": "monster",
+  "name_zh": "古维拉",
+  "name_en": "",
+  "aliases": [
+    "古维拉"
+  ],
+  "image": "assets/monsters/古维拉/portrait.webp",
+  "image_original": "assets/monsters/古维拉/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "海底原始怪兽。在海底和沿岸觅食，受到声呐与污染刺激后靠近港区。",
+  "summary": "外观特征：鲸鲨状身体、鼻端钻头、鳍状肢体；习性：在海底和沿岸觅食，受到声呐与污染刺激后靠近港区；主要攻击方式：钻头穿刺、水下冲撞、甩尾和地面掘进。",
+  "notable_history": [
+    "原作定位为海底原始怪兽。",
+    "其典型习性为在海底和沿岸觅食，受到声呐与污染刺激后靠近港区。",
+    "常用战法包括钻头穿刺、水下冲撞、甩尾和地面掘进。"
+  ],
+  "hunter_contract_rating": "D",
+  "sources": [
+    {
+      "title": "Gubila",
+      "url": "https://ultra.fandom.com/wiki/Gubila",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/f/f9/Gubila.png/revision/latest?cb=20200908193430"
+    }
+  ]
+}

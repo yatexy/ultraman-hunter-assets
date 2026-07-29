@@ -1,0 +1,31 @@
+{
+  "id": "monster:03175e93c0",
+  "type": "monster",
+  "name_zh": "完全体格利扎",
+  "name_en": "",
+  "aliases": [
+    "完全体格利扎"
+  ],
+  "image": "assets/monsters/完全体格利扎/portrait.webp",
+  "image_original": "assets/monsters/完全体格利扎/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "原作敌怪。吞噬物质、能量与坐标，试图让自身空洞扩展为世界规则。",
+  "summary": "外观特征：保留扭曲彩色轮廓，核心周围形成稳定黑银空洞；习性：吞噬物质、能量与坐标，试图让自身空洞扩展为世界规则；主要攻击方式：虚无化、坐标吞噬、空间断层、能量吸收和不规则光线。",
+  "notable_history": [
+    "原作定位为原作敌怪。",
+    "其典型习性为吞噬物质、能量与坐标，试图让自身空洞扩展为世界规则。",
+    "常用战法包括虚无化、坐标吞噬、空间断层、能量吸收和不规则光线。"
+  ],
+  "hunter_contract_rating": "S",
+  "sources": [
+    {
+      "title": "Greeza",
+      "url": "https://ultra.fandom.com/wiki/Greeza",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/5/5f/Greeza_render_I.png/revision/latest?cb=20201001192221"
+    }
+  ]
+}

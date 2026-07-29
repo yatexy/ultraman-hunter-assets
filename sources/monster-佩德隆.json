@@ -1,0 +1,12 @@
+{
+  "query": "Pedoleon",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Pedoleon&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/7/7c/Pedoleon_HD_071.png/revision/latest?cb=20241003160443",
+  "page_url": "https://ultra.fandom.com/wiki/Pedoleon",
+  "title": "Pedoleon",
+  "width": 1240,
+  "height": 1184,
+  "relevance": 2000,
+  "downloaded_width": 1240,
+  "downloaded_height": 1184
+}

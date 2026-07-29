@@ -1,0 +1,12 @@
+{
+  "query": "Maga-Zetton",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&generator=search&gsrsearch=Maga-Zetton&gsrlimit=4&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/2/25/Zetton.png/revision/latest?cb=20181220224456",
+  "page_url": "https://ultra.fandom.com/wiki/Zetton",
+  "title": "Zetton",
+  "width": 789,
+  "height": 1297,
+  "relevance": 999,
+  "downloaded_width": 789,
+  "downloaded_height": 1297
+}

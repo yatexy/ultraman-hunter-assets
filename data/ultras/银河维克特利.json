@@ -1,0 +1,31 @@
+{
+  "id": "ultra:c10279afad",
+  "type": "ultra",
+  "name_zh": "银河维克特利",
+  "name_en": "",
+  "aliases": [
+    "银河维克特利"
+  ],
+  "image": "assets/ultras/银河维克特利/portrait.webp",
+  "image_original": "assets/ultras/银河维克特利/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "银河奥特曼与维克特利奥特曼的合体战士。",
+  "summary": "主要能力：银河与维克特利的基础技能、新生代战士与奥特兄弟力量组合。；战斗特点：依靠两名组成者同步与多种既有力量组合应战。。",
+  "notable_history": [
+    "银河奥特曼与维克特利奥特曼的合体战士。",
+    "主要能力包括银河与维克特利的基础技能、新生代战士与奥特兄弟力量组合。。",
+    "战斗特点为依靠两名组成者同步与多种既有力量组合应战。。"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": [
+    {
+      "title": "Ultraman Gingavictory",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Gingavictory",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/6/62/Ginga_Victory.png/revision/latest?cb=20191226052131"
+    }
+  ]
+}

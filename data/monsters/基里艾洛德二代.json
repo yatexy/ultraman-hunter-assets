@@ -1,0 +1,32 @@
+{
+  "id": "monster:c8ef3b35c7",
+  "type": "monster",
+  "name_zh": "基里艾洛德二代",
+  "name_en": "",
+  "aliases": [
+    "基里艾洛德二代",
+    "基里艾洛德"
+  ],
+  "image": "assets/monsters/基里艾洛德二代/portrait.webp",
+  "image_original": "assets/monsters/基里艾洛德二代/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "强化炎魔战士。利用宗教式宣传制造人类对守护者的不信任。",
+  "summary": "外观特征：暗色人形、翼状结构和火焰纹路；习性：利用宗教式宣传制造人类对守护者的不信任；主要攻击方式：高热火焰、飞行、格斗、能量弹和异次元门。",
+  "notable_history": [
+    "原作定位为强化炎魔战士。",
+    "其典型习性为利用宗教式宣传制造人类对守护者的不信任。",
+    "常用战法包括高热火焰、飞行、格斗、能量弹和异次元门。"
+  ],
+  "hunter_contract_rating": "A",
+  "sources": [
+    {
+      "title": "Kyrieloid",
+      "url": "https://ultra.fandom.com/wiki/Kyrieloid",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/9/97/Kyrieloid_Data.png/revision/latest?cb=20210712055323"
+    }
+  ]
+}

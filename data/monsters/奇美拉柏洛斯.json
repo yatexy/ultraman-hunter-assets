@@ -1,0 +1,31 @@
+{
+  "id": "monster:eb6e52dd42",
+  "type": "monster",
+  "name_zh": "奇美拉柏洛斯",
+  "name_en": "",
+  "aliases": [
+    "奇美拉柏洛斯"
+  ],
+  "image": "assets/monsters/奇美拉柏洛斯/portrait.webp",
+  "image_original": "assets/monsters/奇美拉柏洛斯/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "贝利亚融合兽。由高阶意志控制时执行融合与吞噬，不具普通野兽生态。",
+  "summary": "外观特征：巨大翼兽、多重怪兽器官和暗黑核心；习性：由高阶意志控制时执行融合与吞噬，不具普通野兽生态；主要攻击方式：飞行、能量光线、怪力、吸收融合和范围冲击。",
+  "notable_history": [
+    "原作定位为贝利亚融合兽。",
+    "其典型习性为由高阶意志控制时执行融合与吞噬，不具普通野兽生态。",
+    "常用战法包括飞行、能量光线、怪力、吸收融合和范围冲击。"
+  ],
+  "hunter_contract_rating": "A",
+  "sources": [
+    {
+      "title": "Ultraman Belial",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Belial",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/2/2c/Ultraman_Belial_infobox.png/revision/latest?cb=20200104204021"
+    }
+  ]
+}

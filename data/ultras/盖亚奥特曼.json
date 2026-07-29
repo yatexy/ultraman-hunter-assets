@@ -1,0 +1,33 @@
+{
+  "id": "ultra:8fa0dd14f3",
+  "type": "ultra",
+  "name_zh": "盖亚奥特曼",
+  "name_en": "",
+  "aliases": [
+    "盖亚奥特曼",
+    "盖亚",
+    "高山我梦"
+  ],
+  "image": "assets/ultras/盖亚奥特曼/portrait.webp",
+  "image_original": "assets/ultras/盖亚奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "地球大地之光，与高山我梦结合。",
+  "summary": "主要能力：光子冰刀、量子流线、光子流线与大地能量。；战斗特点：重视地球生命整体与环境承受能力，V2后能力完成度显著提升。。",
+  "notable_history": [
+    "地球大地之光，与高山我梦结合。",
+    "主要能力包括光子冰刀、量子流线、光子流线与大地能量。。",
+    "战斗特点为重视地球生命整体与环境承受能力，V2后能力完成度显著提升。。"
+  ],
+  "hunter_contract_rating": "未评级",
+  "sources": [
+    {
+      "title": "Ultraman Gaia (character)",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Gaia_(character)",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/6/65/Ultraman_Gaia.png/revision/latest?cb=20190926164202"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "query": "Skull Gomora",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Skull+Gomora&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/e/e3/Skull_Gomora_render_2.png/revision/latest?cb=20200917142452",
+  "page_url": "https://ultra.fandom.com/wiki/Skull_Gomora",
+  "title": "Skull Gomora",
+  "width": 1040,
+  "height": 1130,
+  "relevance": 2000,
+  "downloaded_width": 1040,
+  "downloaded_height": 1130
+}

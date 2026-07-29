@@ -1,0 +1,31 @@
+{
+  "id": "monster:74f6c14c84",
+  "type": "monster",
+  "name_zh": "戈尔巴",
+  "name_en": "",
+  "aliases": [
+    "戈尔巴"
+  ],
+  "image": "assets/monsters/戈尔巴/portrait.webp",
+  "image_original": "assets/monsters/戈尔巴/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "哥尔赞与美尔巴融合怪兽。作为融合战兽服从召唤或控制，缺少稳定自然生态。",
+  "summary": "外观特征：哥尔赞重体与美尔巴翼部、头角结合；习性：作为融合战兽服从召唤或控制，缺少稳定自然生态；主要攻击方式：超音波光线、火球、飞行、掘进和怪力。",
+  "notable_history": [
+    "原作定位为哥尔赞与美尔巴融合怪兽。",
+    "其典型习性为作为融合战兽服从召唤或控制，缺少稳定自然生态。",
+    "常用战法包括超音波光线、火球、飞行、掘进和怪力。"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": [
+    {
+      "title": "Golba",
+      "url": "https://ultra.fandom.com/wiki/Golba",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/0/0a/Golba_profile_render.png/revision/latest?cb=20210711160035"
+    }
+  ]
+}

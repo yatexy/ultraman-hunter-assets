@@ -1,0 +1,12 @@
+{
+  "query": "Ultraman Cosmos",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&generator=search&gsrsearch=Ultraman+Cosmos&gsrlimit=4&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/4/41/Ultraman_Cosmos.png/revision/latest?cb=20200924152156",
+  "page_url": "https://ultra.fandom.com/wiki/Ultraman_Cosmos_(character)",
+  "title": "Ultraman Cosmos (character)",
+  "width": 614,
+  "height": 1373,
+  "relevance": 999,
+  "downloaded_width": 614,
+  "downloaded_height": 1373
+}

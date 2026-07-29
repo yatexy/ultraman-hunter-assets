@@ -1,0 +1,31 @@
+{
+  "id": "monster:1212cec431",
+  "type": "monster",
+  "name_zh": "格罗扎姆",
+  "name_en": "",
+  "aliases": [
+    "格罗扎姆"
+  ],
+  "image": "assets/monsters/格罗扎姆/portrait.webp",
+  "image_original": "assets/monsters/格罗扎姆/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "豪将、暗黑四天王之一。自信于再生和低温能力，偏好正面压制。",
+  "summary": "外观特征：冰蓝金属人形、全身尖锐冻结结构；习性：自信于再生和低温能力，偏好正面压制；主要攻击方式：冷冻气体、冰剑、再生、怪力和冻结领域。",
+  "notable_history": [
+    "原作定位为豪将、暗黑四天王之一。",
+    "其典型习性为自信于再生和低温能力，偏好正面压制。",
+    "常用战法包括冷冻气体、冰剑、再生、怪力和冻结领域。"
+  ],
+  "hunter_contract_rating": "A",
+  "sources": [
+    {
+      "title": "Grozam",
+      "url": "https://ultra.fandom.com/wiki/Grozam",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/d/dd/Grozam.png/revision/latest?cb=20191129003854"
+    }
+  ]
+}

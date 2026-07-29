@@ -1,0 +1,32 @@
+{
+  "id": "monster:d3c0ef6f30",
+  "type": "monster",
+  "name_zh": "基里艾洛德人",
+  "name_en": "",
+  "aliases": [
+    "基里艾洛德人",
+    "基里艾洛德"
+  ],
+  "image": "assets/monsters/基里艾洛德人/portrait.webp",
+  "image_original": "assets/monsters/基里艾洛德人/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "异次元精神生命。以神权话术争夺人类服从，通过恐惧与奇迹建立统治。",
+  "summary": "外观特征：巨大化后为暗色人形，头部与胸部有发光纹路；习性：以神权话术争夺人类服从，通过恐惧与奇迹建立统治；主要攻击方式：火焰、精神投影、巨大化格斗、能量弹和空间门。",
+  "notable_history": [
+    "原作定位为异次元精神生命。",
+    "其典型习性为以神权话术争夺人类服从，通过恐惧与奇迹建立统治。",
+    "常用战法包括火焰、精神投影、巨大化格斗、能量弹和空间门。"
+  ],
+  "hunter_contract_rating": "B-",
+  "sources": [
+    {
+      "title": "Kyrieloid",
+      "url": "https://ultra.fandom.com/wiki/Kyrieloid",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/9/97/Kyrieloid_Data.png/revision/latest?cb=20210712055323"
+    }
+  ]
+}

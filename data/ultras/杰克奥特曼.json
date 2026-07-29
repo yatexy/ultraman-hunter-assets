@@ -1,0 +1,33 @@
+{
+  "id": "ultra:4bc804056f",
+  "type": "ultra",
+  "name_zh": "杰克奥特曼",
+  "name_en": "",
+  "aliases": [
+    "杰克奥特曼",
+    "杰克",
+    "乡秀树"
+  ],
+  "image": "assets/ultras/杰克奥特曼/portrait.webp",
+  "image_original": "assets/ultras/杰克奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "与MAT队员乡秀树一体化的奥特战士。",
+  "summary": "主要能力：斯派修姆光线、奥特手镯、手镯长枪、盾与切割技。；战斗特点：依靠奥特手镯快速改变武器和应对方式。。",
+  "notable_history": [
+    "与MAT队员乡秀树一体化的奥特战士。",
+    "主要能力包括斯派修姆光线、奥特手镯、手镯长枪、盾与切割技。。",
+    "战斗特点为依靠奥特手镯快速改变武器和应对方式。。"
+  ],
+  "hunter_contract_rating": "B",
+  "sources": [
+    {
+      "title": "Ultraman Jack",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Jack",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/9/98/Ultraman_Jack_data.png/revision/latest?cb=20180603040258"
+    }
+  ]
+}

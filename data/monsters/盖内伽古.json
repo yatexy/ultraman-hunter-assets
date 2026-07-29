@@ -1,0 +1,31 @@
+{
+  "id": "monster:4411a31504",
+  "type": "monster",
+  "name_zh": "盖内伽古",
+  "name_en": "",
+  "aliases": [
+    "盖内伽古"
+  ],
+  "image": "assets/monsters/盖内伽古/portrait.webp",
+  "image_original": "assets/monsters/盖内伽古/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "凶暴宇宙鲛。吞噬能量和高价值物体，攻击路线受猎物能量吸引。",
+  "summary": "外观特征：巨大鲨形甲兽、尖角、厚重蓝黑装甲；习性：吞噬能量和高价值物体，攻击路线受猎物能量吸引；主要攻击方式：能量吞噬、腹部光弹、冲撞、咬合和空间飞行。",
+  "notable_history": [
+    "原作定位为凶暴宇宙鲛。",
+    "其典型习性为吞噬能量和高价值物体，攻击路线受猎物能量吸引。",
+    "常用战法包括能量吞噬、腹部光弹、冲撞、咬合和空间飞行。"
+  ],
+  "hunter_contract_rating": "B",
+  "sources": [
+    {
+      "title": "Genegarg",
+      "url": "https://ultra.fandom.com/wiki/Genegarg",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/7/72/Genegarg_info.png/revision/latest?cb=20210120061718"
+    }
+  ]
+}

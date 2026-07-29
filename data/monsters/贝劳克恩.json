@@ -1,0 +1,31 @@
+{
+  "id": "monster:8f398d5279",
+  "type": "monster",
+  "name_zh": "贝劳克恩",
+  "name_en": "",
+  "aliases": [
+    "贝劳克恩"
+  ],
+  "image": "assets/monsters/贝劳克恩/portrait.webp",
+  "image_original": "assets/monsters/贝劳克恩/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "导弹超兽。服从亚波人指令，以城市火力覆盖和消耗防卫力量为主。",
+  "summary": "外观特征：红蓝生体装甲，全身分布导弹孔与武器器官；习性：服从亚波人指令，以城市火力覆盖和消耗防卫力量为主；主要攻击方式：全身导弹、火焰、光线、近战和广域轰炸。",
+  "notable_history": [
+    "原作定位为导弹超兽。",
+    "其典型习性为服从亚波人指令，以城市火力覆盖和消耗防卫力量为主。",
+    "常用战法包括全身导弹、火焰、光线、近战和广域轰炸。"
+  ],
+  "hunter_contract_rating": "B",
+  "sources": [
+    {
+      "title": "Verokron",
+      "url": "https://ultra.fandom.com/wiki/Verokron",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/7/7f/Verokron_movie_I.png/revision/latest?cb=20200804213117"
+    }
+  ]
+}

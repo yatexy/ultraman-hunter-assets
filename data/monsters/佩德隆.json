@@ -1,0 +1,31 @@
+{
+  "id": "monster:d42d7afa7c",
+  "type": "monster",
+  "name_zh": "佩德隆",
+  "name_en": "",
+  "aliases": [
+    "佩德隆"
+  ],
+  "image": "assets/monsters/佩德隆/portrait.webp",
+  "image_original": "assets/monsters/佩德隆/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "液态异生兽。以恐惧和有机物为食，可由小型个体融合成长。",
+  "summary": "外观特征：半透明软体组织、触手和可改变轮廓的身体；习性：以恐惧和有机物为食，可由小型个体融合成长；主要攻击方式：溶解液、触手、捕食、形态变化和伏击。",
+  "notable_history": [
+    "原作定位为液态异生兽。",
+    "其典型习性为以恐惧和有机物为食，可由小型个体融合成长。",
+    "常用战法包括溶解液、触手、捕食、形态变化和伏击。"
+  ],
+  "hunter_contract_rating": "C+",
+  "sources": [
+    {
+      "title": "Pedoleon",
+      "url": "https://ultra.fandom.com/wiki/Pedoleon",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/7/7c/Pedoleon_HD_071.png/revision/latest?cb=20241003160443"
+    }
+  ]
+}

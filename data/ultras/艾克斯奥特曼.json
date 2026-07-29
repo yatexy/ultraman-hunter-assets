@@ -1,0 +1,32 @@
+{
+  "id": "ultra:506544aa4a",
+  "type": "ultra",
+  "name_zh": "艾克斯奥特曼",
+  "name_en": "",
+  "aliases": [
+    "艾克斯奥特曼",
+    "艾克斯"
+  ],
+  "image": "assets/ultras/艾克斯奥特曼/portrait.webp",
+  "image_original": "assets/ultras/艾克斯奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "数据化奥特战士，与大空大地一体化并和XIO协作。",
+  "summary": "主要能力：扎纳帝姆光线、怪兽装甲、数据分析与超越切割。；战斗特点：通过扫描、数据分析和装备适配改变战法。。",
+  "notable_history": [
+    "数据化奥特战士，与大空大地一体化并和XIO协作。",
+    "主要能力包括扎纳帝姆光线、怪兽装甲、数据分析与超越切割。。",
+    "战斗特点为通过扫描、数据分析和装备适配改变战法。。"
+  ],
+  "hunter_contract_rating": "未评级",
+  "sources": [
+    {
+      "title": "Ultraman X (character)",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_X_(character)",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/f/f0/Ultraman_X.png/revision/latest?cb=20230731220619"
+    }
+  ]
+}

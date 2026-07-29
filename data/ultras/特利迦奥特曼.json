@@ -1,0 +1,32 @@
+{
+  "id": "ultra:b875fe1010",
+  "type": "ultra",
+  "name_zh": "特利迦奥特曼",
+  "name_en": "",
+  "aliases": [
+    "特利迦奥特曼",
+    "特利迦"
+  ],
+  "image": "assets/ultras/特利迦奥特曼/portrait.webp",
+  "image_original": "assets/ultras/特利迦奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "超古代光之巨人，与真中剑悟共同活动。",
+  "summary": "主要能力：哉佩利敖光线、类型切换、圆环武装与永恒核心力量。；战斗特点：通过类型切换和圆环武装适应力量、速度与复合战况。。",
+  "notable_history": [
+    "超古代光之巨人，与真中剑悟共同活动。",
+    "主要能力包括哉佩利敖光线、类型切换、圆环武装与永恒核心力量。。",
+    "战斗特点为通过类型切换和圆环武装适应力量、速度与复合战况。。"
+  ],
+  "hunter_contract_rating": "未评级",
+  "sources": [
+    {
+      "title": "Ultraman Trigger",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Trigger",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/0/0e/Trigger_Full.png/revision/latest?cb=20210721014344"
+    }
+  ]
+}

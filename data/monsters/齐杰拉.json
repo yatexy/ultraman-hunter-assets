@@ -1,0 +1,31 @@
+{
+  "id": "monster:a53f5c3f0d",
+  "type": "monster",
+  "name_zh": "齐杰拉",
+  "name_en": "",
+  "aliases": [
+    "齐杰拉"
+  ],
+  "image": "assets/monsters/齐杰拉/portrait.webp",
+  "image_original": "assets/monsters/齐杰拉/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "超古代植物怪兽。以花粉让高等生命沉溺幻觉并放弃抵抗，夜间活动减弱。",
+  "summary": "外观特征：巨大花体、根系触手和黄色花粉器官；习性：以花粉让高等生命沉溺幻觉并放弃抵抗，夜间活动减弱；主要攻击方式：精神性花粉、根系缠绕、巨体撞击和群体扩散。",
+  "notable_history": [
+    "原作定位为超古代植物怪兽。",
+    "其典型习性为以花粉让高等生命沉溺幻觉并放弃抵抗，夜间活动减弱。",
+    "常用战法包括精神性花粉、根系缠绕、巨体撞击和群体扩散。"
+  ],
+  "hunter_contract_rating": "B-",
+  "sources": [
+    {
+      "title": "Gijera",
+      "url": "https://ultra.fandom.com/wiki/Gijera",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/8/86/Gijera_HD_003.png/revision/latest?cb=20240910131438"
+    }
+  ]
+}

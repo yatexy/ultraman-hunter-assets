@@ -1,0 +1,32 @@
+{
+  "id": "monster:a6bc9a422c",
+  "type": "monster",
+  "name_zh": "巴尔基星人",
+  "name_en": "",
+  "aliases": [
+    "巴尔基星人",
+    "巴尔基"
+  ],
+  "image": "assets/monsters/巴尔基星人/portrait.webp",
+  "image_original": "assets/monsters/巴尔基星人/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "宇宙海人。借混乱牟利，擅长利用怪兽和身份伪装。",
+  "summary": "外观特征：黑色人形、海兽式头部与战斗甲；习性：借混乱牟利，擅长利用怪兽和身份伪装；主要攻击方式：光线、格斗、武器、巨大化和操纵代理。",
+  "notable_history": [
+    "原作定位为宇宙海人。",
+    "其典型习性为借混乱牟利，擅长利用怪兽和身份伪装。",
+    "常用战法包括光线、格斗、武器、巨大化和操纵代理。"
+  ],
+  "hunter_contract_rating": "C+",
+  "sources": [
+    {
+      "title": "Alien Valky",
+      "url": "https://ultra.fandom.com/wiki/Alien_Valky",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/5/57/Alien_Valky.png/revision/latest?cb=20251008005750"
+    }
+  ]
+}

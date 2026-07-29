@@ -1,0 +1,31 @@
+{
+  "id": "monster:25bfa5e6b7",
+  "type": "monster",
+  "name_zh": "格里姆德",
+  "name_en": "",
+  "aliases": [
+    "格里姆德"
+  ],
+  "image": "assets/monsters/格里姆德/portrait.webp",
+  "image_original": "assets/monsters/格里姆德/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "邪神魔兽。与负面能量和宿主相互影响，可被释放或重新封印。",
+  "summary": "外观特征：巨大角、复合恶魔躯体和混沌能量核心；习性：与负面能量和宿主相互影响，可被释放或重新封印；主要攻击方式：混沌光线、能量吸收、巨体格斗、空间冲击和宿主强化。",
+  "notable_history": [
+    "原作定位为邪神魔兽。",
+    "其典型习性为与负面能量和宿主相互影响，可被释放或重新封印。",
+    "常用战法包括混沌光线、能量吸收、巨体格斗、空间冲击和宿主强化。"
+  ],
+  "hunter_contract_rating": "S",
+  "sources": [
+    {
+      "title": "Grimdo",
+      "url": "https://ultra.fandom.com/wiki/Grimdo",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/2/29/Grimdo.png/revision/latest?cb=20200428005945"
+    }
+  ]
+}

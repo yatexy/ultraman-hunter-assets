@@ -1,0 +1,32 @@
+{
+  "id": "monster:d0a81a5188",
+  "type": "monster",
+  "name_zh": "极恶贝利亚",
+  "name_en": "",
+  "aliases": [
+    "极恶贝利亚",
+    "贝利亚"
+  ],
+  "image": "assets/monsters/极恶贝利亚/portrait.webp",
+  "image_original": "assets/monsters/极恶贝利亚/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "贝利亚高阶强化形态。以支配、复仇和力量证明自身，倾向吞并怪兽与宇宙资源。",
+  "summary": "外观特征：黑红重装巨人、弯曲双角和恶魔式躯体；习性：以支配、复仇和力量证明自身，倾向吞并怪兽与宇宙资源；主要攻击方式：极恶光线、怪力、能量吸收、雷布朗多力量和范围冲击。",
+  "notable_history": [
+    "原作定位为贝利亚高阶强化形态。",
+    "其典型习性为以支配、复仇和力量证明自身，倾向吞并怪兽与宇宙资源。",
+    "常用战法包括极恶光线、怪力、能量吸收、雷布朗多力量和范围冲击。"
+  ],
+  "hunter_contract_rating": "S",
+  "sources": [
+    {
+      "title": "Ultraman Belial",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Belial",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/2/2c/Ultraman_Belial_infobox.png/revision/latest?cb=20200104204021"
+    }
+  ]
+}

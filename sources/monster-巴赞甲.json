@@ -1,0 +1,12 @@
+{
+  "query": "Bazanga",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Bazanga&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/e/e1/Bazanga.png/revision/latest?cb=20230709064008",
+  "page_url": "https://ultra.fandom.com/wiki/Bazanga",
+  "title": "Bazanga",
+  "width": 1223,
+  "height": 1200,
+  "relevance": 2000,
+  "downloaded_width": 1223,
+  "downloaded_height": 1200
+}

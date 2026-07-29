@@ -1,0 +1,32 @@
+{
+  "id": "monster:04030620cd",
+  "type": "monster",
+  "name_zh": "安培拉星人",
+  "name_en": "",
+  "aliases": [
+    "安培拉星人",
+    "安培拉"
+  ],
+  "image": "assets/monsters/安培拉星人/portrait.webp",
+  "image_original": "assets/monsters/安培拉星人/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "黑暗宇宙大皇帝。建立军团与统治体系，重视服从、恐惧和对光之国的战争。",
+  "summary": "外观特征：黑色帝王甲胄、披风、剑与发光眼部；习性：建立军团与统治体系，重视服从、恐惧和对光之国的战争；主要攻击方式：雷佐利姆光线、暗黑纹布、安培拉之刃、念力和黑暗领域。",
+  "notable_history": [
+    "原作定位为黑暗宇宙大皇帝。",
+    "其典型习性为建立军团与统治体系，重视服从、恐惧和对光之国的战争。",
+    "常用战法包括雷佐利姆光线、暗黑纹布、安培拉之刃、念力和黑暗领域。"
+  ],
+  "hunter_contract_rating": "S",
+  "sources": [
+    {
+      "title": "Alien Empera",
+      "url": "https://ultra.fandom.com/wiki/Alien_Empera",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/d/d8/Alien_Empera.png/revision/latest?cb=20201013150558"
+    }
+  ]
+}

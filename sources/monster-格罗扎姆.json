@@ -1,0 +1,12 @@
+{
+  "query": "Grozam",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Grozam&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/d/dd/Grozam.png/revision/latest?cb=20191129003854",
+  "page_url": "https://ultra.fandom.com/wiki/Grozam",
+  "title": "Grozam",
+  "width": 430,
+  "height": 688,
+  "relevance": 2000,
+  "downloaded_width": 430,
+  "downloaded_height": 688
+}

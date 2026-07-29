@@ -1,0 +1,12 @@
+{
+  "query": "Ultraman Jack",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Ultraman+Jack&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/9/98/Ultraman_Jack_data.png/revision/latest?cb=20180603040258",
+  "page_url": "https://ultra.fandom.com/wiki/Ultraman_Jack",
+  "title": "Ultraman Jack",
+  "width": 472,
+  "height": 864,
+  "relevance": 1000,
+  "downloaded_width": 472,
+  "downloaded_height": 864
+}

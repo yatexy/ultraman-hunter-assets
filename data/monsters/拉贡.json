@@ -1,0 +1,31 @@
+{
+  "id": "monster:437a0c0bab",
+  "type": "monster",
+  "name_zh": "拉贡",
+  "name_en": "",
+  "aliases": [
+    "拉贡"
+  ],
+  "image": "assets/monsters/拉贡/portrait.webp",
+  "image_original": "assets/monsters/拉贡/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "海底原人。具有族群与亲子行为，核辐射等外因可造成巨大化和狂暴。",
+  "summary": "外观特征：人形鱼类轮廓、鳞片、鳃与蹼状手足；习性：具有族群与亲子行为，核辐射等外因可造成巨大化和狂暴；主要攻击方式：水下力量、爪击、摔投；巨大化个体可释放放射性光线。",
+  "notable_history": [
+    "原作定位为海底原人。",
+    "其典型习性为具有族群与亲子行为，核辐射等外因可造成巨大化和狂暴。",
+    "常用战法包括水下力量、爪击、摔投；巨大化个体可释放放射性光线。"
+  ],
+  "hunter_contract_rating": "D",
+  "sources": [
+    {
+      "title": "Ragon",
+      "url": "https://ultra.fandom.com/wiki/Ragon",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/0/0b/Ultra_Zone_Ragon_render.png/revision/latest?cb=20201030055058"
+    }
+  ]
+}

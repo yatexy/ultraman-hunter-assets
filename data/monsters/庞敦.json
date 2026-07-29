@@ -1,0 +1,31 @@
+{
+  "id": "monster:976aef7c5f",
+  "type": "monster",
+  "name_zh": "庞敦",
+  "name_en": "",
+  "aliases": [
+    "庞敦"
+  ],
+  "image": "assets/monsters/庞敦/portrait.webp",
+  "image_original": "assets/monsters/庞敦/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "双头怪兽。具有攻击性，适合被侵略者投放为战斗怪兽。",
+  "summary": "外观特征：红色双头鸟兽轮廓、翼状上肢、尖锐喙部；习性：具有攻击性，适合被侵略者投放为战斗怪兽；主要攻击方式：双头火焰、飞行俯冲、啄击、爪击和撞击。",
+  "notable_history": [
+    "原作定位为双头怪兽。",
+    "其典型习性为具有攻击性，适合被侵略者投放为战斗怪兽。",
+    "常用战法包括双头火焰、飞行俯冲、啄击、爪击和撞击。"
+  ],
+  "hunter_contract_rating": "B-",
+  "sources": [
+    {
+      "title": "Pandon",
+      "url": "https://ultra.fandom.com/wiki/Pandon",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/2/2e/Pandon_fll.png/revision/latest?cb=20191126001436"
+    }
+  ]
+}

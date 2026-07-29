@@ -1,0 +1,32 @@
+{
+  "id": "ultra:41e3ff1153",
+  "type": "ultra",
+  "name_zh": "德凯奥特曼",
+  "name_en": "",
+  "aliases": [
+    "德凯奥特曼",
+    "德凯"
+  ],
+  "image": "assets/ultras/德凯奥特曼/portrait.webp",
+  "image_original": "assets/ultras/德凯奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "与明日见奏大共同战斗、关联未来与斯菲亚危机的光之巨人。",
+  "summary": "主要能力：赛尔捷特光线、加尔奈特轰炸、立波留姆光波与德凯盾剑。；战斗特点：闪亮型均衡，强壮型强化力量，奇迹型强化特殊能力，动态型综合强化。。",
+  "notable_history": [
+    "与明日见奏大共同战斗、关联未来与斯菲亚危机的光之巨人。",
+    "主要能力包括赛尔捷特光线、加尔奈特轰炸、立波留姆光波与德凯盾剑。。",
+    "战斗特点为闪亮型均衡，强壮型强化力量，奇迹型强化特殊能力，动态型综合强化。。"
+  ],
+  "hunter_contract_rating": "未评级",
+  "sources": [
+    {
+      "title": "Ultraman Decker (character)",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Decker_(character)",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/6/69/DeckerRender.png/revision/latest?cb=20220331065836"
+    }
+  ]
+}

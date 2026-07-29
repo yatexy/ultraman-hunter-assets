@@ -1,0 +1,12 @@
+{
+  "query": "Sphere Red King",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&generator=search&gsrsearch=Sphere+Red+King&gsrlimit=4&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/f/ff/Red_King_Info.png/revision/latest?cb=20210919022616",
+  "page_url": "https://ultra.fandom.com/wiki/Red_King",
+  "title": "Red King",
+  "width": 900,
+  "height": 1530,
+  "relevance": 999,
+  "downloaded_width": 900,
+  "downloaded_height": 1530
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ultra:ceeea99b5d",
+  "type": "ultra",
+  "name_zh": "麦克斯奥特曼",
+  "name_en": "",
+  "aliases": [
+    "麦克斯奥特曼",
+    "麦克斯"
+  ],
+  "image": "assets/ultras/麦克斯奥特曼/portrait.webp",
+  "image_original": "assets/ultras/麦克斯奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "来自M78星云的文明监视员，与东马快斗一体化。",
+  "summary": "主要能力：马库修姆加农、银河巨剑、头镖、高速移动与巨大化。；战斗特点：高速、武器切换与强光线输出突出。。",
+  "notable_history": [
+    "来自M78星云的文明监视员，与东马快斗一体化。",
+    "主要能力包括马库修姆加农、银河巨剑、头镖、高速移动与巨大化。。",
+    "战斗特点为高速、武器切换与强光线输出突出。。"
+  ],
+  "hunter_contract_rating": "未评级",
+  "sources": [
+    {
+      "title": "Ultraman Max (character)",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Max_(character)",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/3/38/Max_Info.png/revision/latest?cb=20191223224355"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "monster:676fec4b86",
+  "type": "monster",
+  "name_zh": "泰兰特",
+  "name_en": "",
+  "aliases": [
+    "泰兰特"
+  ],
+  "image": "assets/monsters/泰兰特/portrait.webp",
+  "image_original": "assets/monsters/泰兰特/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "暴君怪兽、多怪兽合成体。以战斗与破坏为主，能适应多种奥特战士技能。",
+  "summary": "外观特征：多种怪兽器官拼合，双臂为镰刀与流星锤；习性：以战斗与破坏为主，能适应多种奥特战士技能；主要攻击方式：火焰、冷气、镰刀、链锤、能量吸收和怪力。",
+  "notable_history": [
+    "原作定位为暴君怪兽、多怪兽合成体。",
+    "其典型习性为以战斗与破坏为主，能适应多种奥特战士技能。",
+    "常用战法包括火焰、冷气、镰刀、链锤、能量吸收和怪力。"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": [
+    {
+      "title": "Tyrant",
+      "url": "https://ultra.fandom.com/wiki/Tyrant",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/3/3a/Tyrant_info.png/revision/latest?cb=20191214021604"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ultra:f1403bc81f",
+  "type": "ultra",
+  "name_zh": "雷杰多奥特曼",
+  "name_en": "",
+  "aliases": [
+    "雷杰多奥特曼",
+    "雷杰多"
+  ],
+  "image": "assets/ultras/雷杰多奥特曼/portrait.webp",
+  "image_original": "assets/ultras/雷杰多奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "高斯奥特曼与杰斯提斯奥特曼在宇宙重置危机中融合诞生的传说战士。",
+  "summary": "高斯奥特曼与杰斯提斯奥特曼在宇宙重置危机中融合诞生的传说战士；其出现依赖两名战士、共同意志和对应的宇宙级条件；战斗特点：- 优先正面处理危机核心，不以消耗战为主要方式。",
+  "notable_history": [
+    "高斯奥特曼与杰斯提斯奥特曼在宇宙重置危机中融合诞生的传说战士",
+    "其出现依赖两名战士、共同意志和对应的宇宙级条件"
+  ],
+  "hunter_contract_rating": "SS",
+  "sources": []
+}

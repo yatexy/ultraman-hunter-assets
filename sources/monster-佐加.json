@@ -1,0 +1,12 @@
+{
+  "query": "Zoiger",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Zoiger&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/5/5b/Zoiger_HD_007.jpg/revision/latest?cb=20231205133511",
+  "page_url": "https://ultra.fandom.com/wiki/Zoiger",
+  "title": "Zoiger",
+  "width": 3342,
+  "height": 4000,
+  "relevance": 2000,
+  "downloaded_width": 1504,
+  "downloaded_height": 1800
+}

@@ -1,0 +1,12 @@
+{
+  "query": "Sphere Gomora",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&generator=search&gsrsearch=Sphere+Gomora&gsrlimit=4&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/b/bd/Gomora.png/revision/latest?cb=20201021042313",
+  "page_url": "https://ultra.fandom.com/wiki/Gomora",
+  "title": "Gomora",
+  "width": 441,
+  "height": 565,
+  "relevance": 999,
+  "downloaded_width": 441,
+  "downloaded_height": 565
+}

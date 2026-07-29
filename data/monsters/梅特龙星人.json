@@ -1,0 +1,32 @@
+{
+  "id": "monster:60babb7686",
+  "type": "monster",
+  "name_zh": "梅特龙星人",
+  "name_en": "",
+  "aliases": [
+    "梅特龙星人",
+    "梅特龙"
+  ],
+  "image": "assets/monsters/梅特龙星人/portrait.webp",
+  "image_original": "assets/monsters/梅特龙星人/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "幻觉宇宙人。偏好从社会内部制造互相猜疑与暴力。",
+  "summary": "外观特征：红蓝对称身体、细长头部和大型复眼；习性：偏好从社会内部制造互相猜疑与暴力；主要攻击方式：幻觉诱导、精神干扰、光线、拟态与巨大化格斗。",
+  "notable_history": [
+    "原作定位为幻觉宇宙人。",
+    "其典型习性为偏好从社会内部制造互相猜疑与暴力。",
+    "常用战法包括幻觉诱导、精神干扰、光线、拟态与巨大化格斗。"
+  ],
+  "hunter_contract_rating": "C+",
+  "sources": [
+    {
+      "title": "Alien Metron",
+      "url": "https://ultra.fandom.com/wiki/Alien_Metron",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/e/e0/Alien_Metron_Fixed.png/revision/latest?cb=20210313181738"
+    }
+  ]
+}

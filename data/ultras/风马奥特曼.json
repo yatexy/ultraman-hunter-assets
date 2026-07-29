@@ -1,0 +1,32 @@
+{
+  "id": "ultra:023086575b",
+  "type": "ultra",
+  "name_zh": "风马奥特曼",
+  "name_en": "",
+  "aliases": [
+    "风马奥特曼",
+    "风马"
+  ],
+  "image": "assets/ultras/风马奥特曼/portrait.webp",
+  "image_original": "assets/ultras/风马奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "来自O-50的速度战士、三人小队成员。",
+  "summary": "主要能力：极星光波手里剑、高速移动、风属性攻击与侦察。；战斗特点：以速度、轨迹变化和快速侦察建立优势。。",
+  "notable_history": [
+    "来自O-50的速度战士、三人小队成员。",
+    "主要能力包括极星光波手里剑、高速移动、风属性攻击与侦察。。",
+    "战斗特点为以速度、轨迹变化和快速侦察建立优势。。"
+  ],
+  "hunter_contract_rating": "B",
+  "sources": [
+    {
+      "title": "Ultraman Fuma",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Fuma",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/8/82/Ultraman_Fuma_Info.png/revision/latest?cb=20191225212608"
+    }
+  ]
+}

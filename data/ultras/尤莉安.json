@@ -1,0 +1,31 @@
+{
+  "id": "ultra:cf73f9bd05",
+  "type": "ultra",
+  "name_zh": "尤莉安",
+  "name_en": "",
+  "aliases": [
+    "尤莉安"
+  ],
+  "image": "assets/ultras/尤莉安/portrait.webp",
+  "image_original": "assets/ultras/尤莉安/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "光之国王族成员，与爱迪共同守护地球。",
+  "summary": "主要能力：基础光线、格斗、飞行、治疗与能量支援。；战斗特点：支援、保护和协同优于正面高输出。。",
+  "notable_history": [
+    "光之国王族成员，与爱迪共同守护地球。",
+    "主要能力包括基础光线、格斗、飞行、治疗与能量支援。。",
+    "战斗特点为支援、保护和协同优于正面高输出。。"
+  ],
+  "hunter_contract_rating": "C+",
+  "sources": [
+    {
+      "title": "Yullian",
+      "url": "https://ultra.fandom.com/wiki/Yullian",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/d/d8/Yullian_Infobox.png/revision/latest?cb=20191225190408"
+    }
+  ]
+}

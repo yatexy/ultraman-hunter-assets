@@ -1,0 +1,12 @@
+{
+  "query": "Ultraman Taiga",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&generator=search&gsrsearch=Ultraman+Taiga&gsrlimit=4&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/6/69/Ultraman_Taiga_Info.png/revision/latest?cb=20191127232010",
+  "page_url": "https://ultra.fandom.com/wiki/Ultraman_Taiga_(character)",
+  "title": "Ultraman Taiga (character)",
+  "width": 508,
+  "height": 1268,
+  "relevance": 999,
+  "downloaded_width": 508,
+  "downloaded_height": 1268
+}

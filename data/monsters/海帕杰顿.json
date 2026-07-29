@@ -1,0 +1,31 @@
+{
+  "id": "monster:291be995e1",
+  "type": "monster",
+  "name_zh": "海帕杰顿",
+  "name_en": "",
+  "aliases": [
+    "海帕杰顿"
+  ],
+  "image": "assets/monsters/海帕杰顿/portrait.webp",
+  "image_original": "assets/monsters/海帕杰顿/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "宇宙恐龙、究极生命兵器。在控制者或自身战斗本能驱动下追求高速歼灭。",
+  "summary": "外观特征：黑黄昆虫人形、翼部、尖角和发光胸部；习性：在控制者或自身战斗本能驱动下追求高速歼灭；主要攻击方式：瞬移、暗黑火球、屏障、能量吸收、高速格斗和反射。",
+  "notable_history": [
+    "原作定位为宇宙恐龙、究极生命兵器。",
+    "其典型习性为在控制者或自身战斗本能驱动下追求高速歼灭。",
+    "常用战法包括瞬移、暗黑火球、屏障、能量吸收、高速格斗和反射。"
+  ],
+  "hunter_contract_rating": "A+",
+  "sources": [
+    {
+      "title": "Zetton",
+      "url": "https://ultra.fandom.com/wiki/Zetton",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/2/25/Zetton.png/revision/latest?cb=20181220224456"
+    }
+  ]
+}

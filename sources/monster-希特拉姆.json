@@ -1,0 +1,12 @@
+{
+  "query": "Hudram",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Hudram&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/3/33/Hudram_render_5.png/revision/latest?cb=20220115135513",
+  "page_url": "https://ultra.fandom.com/wiki/Hudram",
+  "title": "Hudram",
+  "width": 400,
+  "height": 898,
+  "relevance": 2000,
+  "downloaded_width": 400,
+  "downloaded_height": 898
+}

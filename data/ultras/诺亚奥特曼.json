@@ -1,0 +1,32 @@
+{
+  "id": "ultra:5008f8e15c",
+  "type": "ultra",
+  "name_zh": "诺亚奥特曼",
+  "name_en": "",
+  "aliases": [
+    "诺亚奥特曼",
+    "诺亚"
+  ],
+  "image": "assets/ultras/诺亚奥特曼/portrait.webp",
+  "image_original": "assets/ultras/诺亚奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "奈克瑟斯体系中的传说超人。",
+  "summary": "奈克瑟斯体系中的传说超人；其光可以由适能者继承并以不同形态成长；与黑暗扎基等宇宙级黑暗存在直接关联；战斗特点：- 高速近战、能量攻击、空间控制和针对黑暗核心的直接压制。",
+  "notable_history": [
+    "奈克瑟斯体系中的传说超人",
+    "其光可以由适能者继承并以不同形态成长",
+    "与黑暗扎基等宇宙级黑暗存在直接关联"
+  ],
+  "hunter_contract_rating": "SS",
+  "sources": [
+    {
+      "title": "Ultraman Noa",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Noa",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/f/f8/Ultraman_Noa_Info.png/revision/latest?cb=20201002040422"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "monster:fa2fd08d82",
+  "type": "monster",
+  "name_zh": "格斯拉",
+  "name_en": "",
+  "aliases": [
+    "格斯拉"
+  ],
+  "image": "assets/monsters/格斯拉/portrait.webp",
+  "image_original": "assets/monsters/格斯拉/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "污染环境中巨大化的海兽。依赖水域和食物源，污染会改变其体型与攻击性。",
+  "summary": "外观特征：鱼类轮廓、背鳍、厚重鳞皮和突出的口部；习性：依赖水域和食物源，污染会改变其体型与攻击性；主要攻击方式：咬合、撞击、尾扫和水中突袭。",
+  "notable_history": [
+    "原作定位为污染环境中巨大化的海兽。",
+    "其典型习性为依赖水域和食物源，污染会改变其体型与攻击性。",
+    "常用战法包括咬合、撞击、尾扫和水中突袭。"
+  ],
+  "hunter_contract_rating": "D",
+  "sources": [
+    {
+      "title": "Guesra",
+      "url": "https://ultra.fandom.com/wiki/Guesra",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/1/1e/Guesra_render.png/revision/latest?cb=20200628052319"
+    }
+  ]
+}

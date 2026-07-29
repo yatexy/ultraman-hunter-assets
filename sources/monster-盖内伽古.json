@@ -1,0 +1,12 @@
+{
+  "query": "Genegarg",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Genegarg&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/7/72/Genegarg_info.png/revision/latest?cb=20210120061718",
+  "page_url": "https://ultra.fandom.com/wiki/Genegarg",
+  "title": "Genegarg",
+  "width": 851,
+  "height": 875,
+  "relevance": 2000,
+  "downloaded_width": 851,
+  "downloaded_height": 875
+}

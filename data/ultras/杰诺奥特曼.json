@@ -1,0 +1,32 @@
+{
+  "id": "ultra:3bc276c134",
+  "type": "ultra",
+  "name_zh": "杰诺奥特曼",
+  "name_en": "",
+  "aliases": [
+    "杰诺奥特曼",
+    "杰诺"
+  ],
+  "image": "assets/ultras/杰诺奥特曼/portrait.webp",
+  "image_original": "assets/ultras/杰诺奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "麦克斯同族支援战士。",
+  "summary": "主要能力：杰诺尼姆加农、飞行、格斗与能量支援。；战斗特点：以任务支援、能量补充和协同作战为主。。",
+  "notable_history": [
+    "麦克斯同族支援战士。",
+    "主要能力包括杰诺尼姆加农、飞行、格斗与能量支援。。",
+    "战斗特点为以任务支援、能量补充和协同作战为主。。"
+  ],
+  "hunter_contract_rating": "B",
+  "sources": [
+    {
+      "title": "Ultraman Xenon",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Xenon",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/f/ff/Ultraman_Xenon_info.png/revision/latest?cb=20191226050816"
+    }
+  ]
+}

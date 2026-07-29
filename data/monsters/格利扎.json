@@ -1,0 +1,31 @@
+{
+  "id": "monster:9ce6cda319",
+  "type": "monster",
+  "name_zh": "格利扎",
+  "name_en": "",
+  "aliases": [
+    "格利扎"
+  ],
+  "image": "assets/monsters/格利扎/portrait.webp",
+  "image_original": "assets/monsters/格利扎/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "虚空怪兽。作为宇宙空洞吞噬生命与物质，常规感知难以定位。",
+  "summary": "外观特征：形态不稳定，轮廓扭曲并呈现异常彩色能量；习性：作为宇宙空洞吞噬生命与物质，常规感知难以定位；主要攻击方式：虚无化、能量吞噬、空间扭曲、触手、光线和不可预测移动。",
+  "notable_history": [
+    "原作定位为虚空怪兽。",
+    "其典型习性为作为宇宙空洞吞噬生命与物质，常规感知难以定位。",
+    "常用战法包括虚无化、能量吞噬、空间扭曲、触手、光线和不可预测移动。"
+  ],
+  "hunter_contract_rating": "S",
+  "sources": [
+    {
+      "title": "Greeza",
+      "url": "https://ultra.fandom.com/wiki/Greeza",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/5/5f/Greeza_render_I.png/revision/latest?cb=20201001192221"
+    }
+  ]
+}

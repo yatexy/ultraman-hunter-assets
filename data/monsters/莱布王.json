@@ -1,0 +1,31 @@
+{
+  "id": "monster:8b7858c4f6",
+  "type": "monster",
+  "name_zh": "莱布王",
+  "name_en": "",
+  "aliases": [
+    "莱布王"
+  ],
+  "image": "assets/monsters/莱布王/portrait.webp",
+  "image_original": "assets/monsters/莱布王/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "地底怪兽。受地下震动刺激，依靠蛮力争夺地盘。",
+  "summary": "外观特征：粗壮躯体、角质头部和适合掘进的四肢；习性：受地下震动刺激，依靠蛮力争夺地盘；主要攻击方式：掘进、撞击、摔投、爪击和地形破坏。",
+  "notable_history": [
+    "原作定位为地底怪兽。",
+    "其典型习性为受地下震动刺激，依靠蛮力争夺地盘。",
+    "常用战法包括掘进、撞击、摔投、爪击和地形破坏。"
+  ],
+  "hunter_contract_rating": "D",
+  "sources": [
+    {
+      "title": "King Galactron",
+      "url": "https://ultra.fandom.com/wiki/King_Galactron",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/1/1c/GALAXTRON.png/revision/latest?cb=20170903164545"
+    }
+  ]
+}

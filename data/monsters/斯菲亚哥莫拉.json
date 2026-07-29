@@ -1,0 +1,31 @@
+{
+  "id": "monster:1be3b4c831",
+  "type": "monster",
+  "name_zh": "斯菲亚哥莫拉",
+  "name_en": "",
+  "aliases": [
+    "斯菲亚哥莫拉"
+  ],
+  "image": "assets/monsters/斯菲亚哥莫拉/portrait.webp",
+  "image_original": "assets/monsters/斯菲亚哥莫拉/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "斯菲亚强化哥莫拉。领地行为被同化目标覆盖，优先攻击阻断网络者。",
+  "summary": "外观特征：哥莫拉角与躯体覆盖白色同化组织；习性：领地行为被同化目标覆盖，优先攻击阻断网络者；主要攻击方式：强化超振动波、角撞、尾击、屏障和结晶光弹。",
+  "notable_history": [
+    "原作定位为斯菲亚强化哥莫拉。",
+    "其典型习性为领地行为被同化目标覆盖，优先攻击阻断网络者。",
+    "常用战法包括强化超振动波、角撞、尾击、屏障和结晶光弹。"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": [
+    {
+      "title": "Gomora",
+      "url": "https://ultra.fandom.com/wiki/Gomora",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/b/bd/Gomora.png/revision/latest?cb=20201021042313"
+    }
+  ]
+}

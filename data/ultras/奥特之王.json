@@ -1,0 +1,31 @@
+{
+  "id": "ultra:ff426dc977",
+  "type": "ultra",
+  "name_zh": "奥特之王",
+  "name_en": "",
+  "aliases": [
+    "奥特之王"
+  ],
+  "image": "assets/ultras/奥特之王/portrait.webp",
+  "image_original": "assets/ultras/奥特之王/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "居住于国王星的传说超人，与光之国有深厚联系。",
+  "summary": "居住于国王星的传说超人，与光之国有深厚联系；在光之国和宇宙遭遇常规奥特战士无法处理的灾难时介入；不以宇宙警备队日常成员的方式执行普通巡逻；战斗特点：- 不依赖固定连招，更常直接针对灾害根源、封印结构或宇宙法则采取行动。",
+  "notable_history": [
+    "居住于国王星的传说超人，与光之国有深厚联系",
+    "在光之国和宇宙遭遇常规奥特战士无法处理的灾难时介入",
+    "不以宇宙警备队日常成员的方式执行普通巡逻"
+  ],
+  "hunter_contract_rating": "SS",
+  "sources": [
+    {
+      "title": "Ultraman King",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_King",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/1/1c/King_Data.png/revision/latest?cb=20200512050229"
+    }
+  ]
+}

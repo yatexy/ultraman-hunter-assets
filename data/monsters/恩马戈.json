@@ -1,0 +1,31 @@
+{
+  "id": "monster:a7ad311f64",
+  "type": "monster",
+  "name_zh": "恩马戈",
+  "name_en": "",
+  "aliases": [
+    "恩马戈"
+  ],
+  "image": "assets/monsters/恩马戈/portrait.webp",
+  "image_original": "assets/monsters/恩马戈/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "阎魔怪兽。受古代封印约束，解封后优先攻击封印者和阻碍者。",
+  "summary": "外观特征：武者与妖怪结合的黑色甲胄形态；习性：受古代封印约束，解封后优先攻击封印者和阻碍者；主要攻击方式：长刀斩击、怪力、防御甲胄和特殊咒力。",
+  "notable_history": [
+    "原作定位为阎魔怪兽。",
+    "其典型习性为受古代封印约束，解封后优先攻击封印者和阻碍者。",
+    "常用战法包括长刀斩击、怪力、防御甲胄和特殊咒力。"
+  ],
+  "hunter_contract_rating": "C+",
+  "sources": [
+    {
+      "title": "Enmargo",
+      "url": "https://ultra.fandom.com/wiki/Enmargo",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/f/f6/Enmargo_1.png/revision/latest?cb=20130806194042"
+    }
+  ]
+}

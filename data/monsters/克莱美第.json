@@ -1,0 +1,31 @@
+{
+  "id": "monster:3fc5a31754",
+  "type": "monster",
+  "name_zh": "克莱美第",
+  "name_en": "",
+  "aliases": [
+    "克莱美第"
+  ],
+  "image": "assets/monsters/克莱美第/portrait.webp",
+  "image_original": "assets/monsters/克莱美第/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "海洋污染相关怪兽。在受污染海域觅食和变异，随洋流接近沿岸。",
+  "summary": "外观特征：海洋生物与软体组织结合的巨大轮廓；习性：在受污染海域觅食和变异，随洋流接近沿岸；主要攻击方式：触肢、冲撞、腐蚀性分泌物和水下突袭。",
+  "notable_history": [
+    "原作定位为海洋污染相关怪兽。",
+    "其典型习性为在受污染海域觅食和变异，随洋流接近沿岸。",
+    "常用战法包括触肢、冲撞、腐蚀性分泌物和水下突袭。"
+  ],
+  "hunter_contract_rating": "D",
+  "sources": [
+    {
+      "title": "Zazarn",
+      "url": "https://ultra.fandom.com/wiki/Zazarn",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/a/aa/Zazahn-0.png/revision/latest?cb=20140216130440"
+    }
+  ]
+}

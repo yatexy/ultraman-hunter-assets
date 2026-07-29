@@ -1,0 +1,31 @@
+{
+  "id": "monster:d9ed9e9fed",
+  "type": "monster",
+  "name_zh": "佩吉拉",
+  "name_en": "",
+  "aliases": [
+    "佩吉拉"
+  ],
+  "image": "assets/monsters/佩吉拉/portrait.webp",
+  "image_original": "assets/monsters/佩吉拉/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "冷冻怪兽。在低温地区休眠和迁徙，排斥高热环境。",
+  "summary": "外观特征：翼状前肢、象鼻式口部、适应寒地的白色体表；习性：在低温地区休眠和迁徙，排斥高热环境；主要攻击方式：冷冻气体、强风、飞行俯冲和身体撞击。",
+  "notable_history": [
+    "原作定位为冷冻怪兽。",
+    "其典型习性为在低温地区休眠和迁徙，排斥高热环境。",
+    "常用战法包括冷冻气体、强风、飞行俯冲和身体撞击。"
+  ],
+  "hunter_contract_rating": "D",
+  "sources": [
+    {
+      "title": "Peguila",
+      "url": "https://ultra.fandom.com/wiki/Peguila",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/6/69/Pegulia_Emage.png/revision/latest?cb=20240324140059"
+    }
+  ]
+}

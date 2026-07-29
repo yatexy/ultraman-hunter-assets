@@ -1,0 +1,12 @@
+{
+  "query": "Ultraman Dyna character",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&generator=search&gsrsearch=Ultraman+Dyna+character&gsrlimit=4&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/2/2f/Dyna_profile_I.png/revision/latest?cb=20200428192426",
+  "page_url": "https://ultra.fandom.com/wiki/Ultraman_Dyna_(character)",
+  "title": "Ultraman Dyna (character)",
+  "width": 524,
+  "height": 1437,
+  "relevance": 999,
+  "downloaded_width": 524,
+  "downloaded_height": 1437
+}

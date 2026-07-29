@@ -1,0 +1,31 @@
+{
+  "id": "monster:876a72f069",
+  "type": "monster",
+  "name_zh": "斯菲亚雷德王",
+  "name_en": "",
+  "aliases": [
+    "斯菲亚雷德王"
+  ],
+  "image": "assets/monsters/斯菲亚雷德王/portrait.webp",
+  "image_original": "assets/monsters/斯菲亚雷德王/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "斯菲亚强化雷德王。保留怪力冲动并受群体意识引导。",
+  "summary": "外观特征：雷德王身体覆盖斯菲亚结晶与能量纹路；习性：保留怪力冲动并受群体意识引导；主要攻击方式：强化拳击、冲击波、投掷、结晶能量和怪力。",
+  "notable_history": [
+    "原作定位为斯菲亚强化雷德王。",
+    "其典型习性为保留怪力冲动并受群体意识引导。",
+    "常用战法包括强化拳击、冲击波、投掷、结晶能量和怪力。"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": [
+    {
+      "title": "Red King",
+      "url": "https://ultra.fandom.com/wiki/Red_King",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/f/ff/Red_King_Info.png/revision/latest?cb=20210919022616"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "monster:f6974c8aea",
+  "type": "monster",
+  "name_zh": "圣物失控融合体",
+  "name_en": "",
+  "aliases": [
+    "圣物失控融合体"
+  ],
+  "image": "assets/monsters/圣物失控融合体/portrait.webp",
+  "image_original": "assets/monsters/圣物失控融合体/portrait.png",
+  "first_appearance": {
+    "work": "《奥特曼 猎星之契》",
+    "detail": "本线原创终局候选",
+    "year": null
+  },
+  "origin": "由失控圣物、残留光与多种生命资料互相冲突后形成的本线原创融合体。",
+  "summary": "外观特征：没有固定外形，会按主导圣物与被吸收对象重组；习性：反复执行互相矛盾的导航、支配、授权和吞噬指令；主要攻击方式：坐标改写、怪兽召回、伪造授权、能量融合和现实分区。",
+  "notable_history": [
+    "并非原作既有怪兽，而是《猎星之契》的终局候选之一。",
+    "其典型习性为反复执行互相矛盾的导航、支配、授权和吞噬指令。",
+    "常用战法包括坐标改写、怪兽召回、伪造授权、能量融合和现实分区。"
+  ],
+  "hunter_contract_rating": "S",
+  "sources": []
+}

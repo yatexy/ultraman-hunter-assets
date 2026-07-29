@@ -1,0 +1,31 @@
+{
+  "id": "monster:a4cd08bebb",
+  "type": "monster",
+  "name_zh": "斯卡鲁哥莫拉",
+  "name_en": "",
+  "aliases": [
+    "斯卡鲁哥莫拉"
+  ],
+  "image": "assets/monsters/斯卡鲁哥莫拉/portrait.webp",
+  "image_original": "assets/monsters/斯卡鲁哥莫拉/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "贝利亚融合兽。高攻击性，偏好正面冲撞和连续破坏。",
+  "summary": "外观特征：哥莫拉体型与雷德王特征融合，胸部带暗红能量纹路；习性：高攻击性，偏好正面冲撞和连续破坏；主要攻击方式：超振动波、怪力、冲撞、尾击和暗黑能量。",
+  "notable_history": [
+    "原作定位为贝利亚融合兽。",
+    "其典型习性为高攻击性，偏好正面冲撞和连续破坏。",
+    "常用战法包括超振动波、怪力、冲撞、尾击和暗黑能量。"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": [
+    {
+      "title": "Skull Gomora",
+      "url": "https://ultra.fandom.com/wiki/Skull_Gomora",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/e/e3/Skull_Gomora_render_2.png/revision/latest?cb=20200917142452"
+    }
+  ]
+}

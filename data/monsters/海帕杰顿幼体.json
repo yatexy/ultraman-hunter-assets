@@ -1,0 +1,31 @@
+{
+  "id": "monster:73c1973d1d",
+  "type": "monster",
+  "name_zh": "海帕杰顿幼体",
+  "name_en": "",
+  "aliases": [
+    "海帕杰顿幼体"
+  ],
+  "image": "assets/monsters/海帕杰顿幼体/portrait.webp",
+  "image_original": "assets/monsters/海帕杰顿幼体/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "海帕杰顿成长阶段。吸收生命与恐惧成长，寻找人口和高能目标。",
+  "summary": "外观特征：巨大昆虫幼体、触须、厚甲和吞噬口器；习性：吸收生命与恐惧成长，寻找人口和高能目标；主要攻击方式：触须捕食、能量吸收、幼体光弹、巨体撞击和孵化兵。",
+  "notable_history": [
+    "原作定位为海帕杰顿成长阶段。",
+    "其典型习性为吸收生命与恐惧成长，寻找人口和高能目标。",
+    "常用战法包括触须捕食、能量吸收、幼体光弹、巨体撞击和孵化兵。"
+  ],
+  "hunter_contract_rating": "A",
+  "sources": [
+    {
+      "title": "Zetton",
+      "url": "https://ultra.fandom.com/wiki/Zetton",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/2/25/Zetton.png/revision/latest?cb=20181220224456"
+    }
+  ]
+}

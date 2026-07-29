@@ -1,0 +1,12 @@
+{
+  "query": "Alien Chibull",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Alien+Chibull&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/9/95/AlienChibuRender.png/revision/latest?cb=20191007063728",
+  "page_url": "https://ultra.fandom.com/wiki/Alien_Chibull",
+  "title": "Alien Chibull",
+  "width": 510,
+  "height": 600,
+  "relevance": 2000,
+  "downloaded_width": 510,
+  "downloaded_height": 600
+}

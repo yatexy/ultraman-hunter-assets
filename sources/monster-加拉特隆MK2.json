@@ -1,0 +1,12 @@
+{
+  "query": "Galactron MK2",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&generator=search&gsrsearch=Galactron+MK2&gsrlimit=4&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/b/bb/Galaccc.png/revision/latest?cb=20191106023408",
+  "page_url": "https://ultra.fandom.com/wiki/Galactron",
+  "title": "Galactron",
+  "width": 604,
+  "height": 633,
+  "relevance": 999,
+  "downloaded_width": 604,
+  "downloaded_height": 633
+}

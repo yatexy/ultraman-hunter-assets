@@ -1,0 +1,33 @@
+{
+  "id": "ultra:48f7321eab",
+  "type": "ultra",
+  "name_zh": "雷欧奥特曼",
+  "name_en": "",
+  "aliases": [
+    "雷欧奥特曼",
+    "雷欧",
+    "凤源"
+  ],
+  "image": "assets/ultras/雷欧奥特曼/portrait.webp",
+  "image_original": "assets/ultras/雷欧奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "L77星云战士，以凤源身份在地球活动。",
+  "summary": "主要能力：雷欧飞踢、拳法、双截棍式武器与高强度体术。；战斗特点：通过训练、地形和身体技术弥补能力差距。。",
+  "notable_history": [
+    "L77星云战士，以凤源身份在地球活动。",
+    "主要能力包括雷欧飞踢、拳法、双截棍式武器与高强度体术。。",
+    "战斗特点为通过训练、地形和身体技术弥补能力差距。。"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": [
+    {
+      "title": "Ultraman Leo (character)",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Leo_(character)",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/7/70/Ultraman_Leo.png/revision/latest?cb=20230807213705"
+    }
+  ]
+}

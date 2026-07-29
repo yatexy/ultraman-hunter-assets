@@ -1,0 +1,31 @@
+{
+  "id": "monster:783be13e04",
+  "type": "monster",
+  "name_zh": "诺巴",
+  "name_en": "",
+  "aliases": [
+    "诺巴"
+  ],
+  "image": "assets/monsters/诺巴/portrait.webp",
+  "image_original": "assets/monsters/诺巴/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "圆盘生物。以红色气体扰乱城市并隐藏真实行动。",
+  "summary": "外观特征：红色布偶状身体、镰刀双臂和吊眼面部；习性：以红色气体扰乱城市并隐藏真实行动；主要攻击方式：红色毒气、镰刀、飞行、光线和缩小潜伏。",
+  "notable_history": [
+    "原作定位为圆盘生物。",
+    "其典型习性为以红色气体扰乱城市并隐藏真实行动。",
+    "常用战法包括红色毒气、镰刀、飞行、光线和缩小潜伏。"
+  ],
+  "hunter_contract_rating": "B-",
+  "sources": [
+    {
+      "title": "Nova",
+      "url": "https://ultra.fandom.com/wiki/Nova",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/f/f5/Novaa.png/revision/latest?cb=20200521215626"
+    }
+  ]
+}

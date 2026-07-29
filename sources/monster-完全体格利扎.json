@@ -1,0 +1,12 @@
+{
+  "query": "Greeza",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Greeza&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/5/5f/Greeza_render_I.png/revision/latest?cb=20201001192221",
+  "page_url": "https://ultra.fandom.com/wiki/Greeza",
+  "title": "Greeza",
+  "width": 432,
+  "height": 1068,
+  "relevance": 2000,
+  "downloaded_width": 432,
+  "downloaded_height": 1068
+}

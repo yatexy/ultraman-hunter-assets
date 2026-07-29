@@ -1,0 +1,12 @@
+{
+  "query": "Gan-Q",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Gan-Q&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/4/40/Gan_Q.png/revision/latest?cb=20190627014038",
+  "page_url": "https://ultra.fandom.com/wiki/Gan-Q",
+  "title": "Gan-Q",
+  "width": 580,
+  "height": 776,
+  "relevance": 2000,
+  "downloaded_width": 580,
+  "downloaded_height": 776
+}

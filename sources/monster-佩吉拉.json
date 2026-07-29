@@ -1,0 +1,12 @@
+{
+  "query": "Peguila",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Peguila&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/6/69/Pegulia_Emage.png/revision/latest?cb=20240324140059",
+  "page_url": "https://ultra.fandom.com/wiki/Peguila",
+  "title": "Peguila",
+  "width": 1756,
+  "height": 4724,
+  "relevance": 2000,
+  "downloaded_width": 669,
+  "downloaded_height": 1800
+}

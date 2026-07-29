@@ -1,0 +1,32 @@
+{
+  "id": "ultra:2cbe2c59d5",
+  "type": "ultra",
+  "name_zh": "泰罗奥特曼",
+  "name_en": "",
+  "aliases": [
+    "泰罗奥特曼",
+    "泰罗"
+  ],
+  "image": "assets/ultras/泰罗奥特曼/portrait.webp",
+  "image_original": "assets/ultras/泰罗奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "奥特之父与奥特之母之子、奥特兄弟成员。",
+  "summary": "主要能力：斯特利姆光线、奥特炸弹、燕式飞踢与高强度格斗。；战斗特点：爆发、耐久和近战能力突出。。",
+  "notable_history": [
+    "奥特之父与奥特之母之子、奥特兄弟成员。",
+    "主要能力包括斯特利姆光线、奥特炸弹、燕式飞踢与高强度格斗。。",
+    "战斗特点为爆发、耐久和近战能力突出。。"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": [
+    {
+      "title": "Ultraman Taro (character)",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Taro_(character)",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/3/39/Taro_Info.png/revision/latest?cb=20200217011355"
+    }
+  ]
+}

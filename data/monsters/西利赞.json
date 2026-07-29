@@ -1,0 +1,31 @@
+{
+  "id": "monster:daf315668f",
+  "type": "monster",
+  "name_zh": "西利赞",
+  "name_en": "",
+  "aliases": [
+    "西利赞"
+  ],
+  "image": "assets/monsters/西利赞/portrait.webp",
+  "image_original": "assets/monsters/西利赞/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "怪兽尸体异变。受高温和废弃物刺激，行动迟缓但难以用普通方式处理。",
+  "summary": "外观特征：腐败软组织、臃肿躯体和明显尸骸特征；习性：受高温和废弃物刺激，行动迟缓但难以用普通方式处理；主要攻击方式：吞咽吸附、腐败气体、体重压制和再活动。",
+  "notable_history": [
+    "原作定位为怪兽尸体异变。",
+    "其典型习性为受高温和废弃物刺激，行动迟缓但难以用普通方式处理。",
+    "常用战法包括吞咽吸附、腐败气体、体重压制和再活动。"
+  ],
+  "hunter_contract_rating": "D",
+  "sources": [
+    {
+      "title": "Sealizar",
+      "url": "https://ultra.fandom.com/wiki/Sealizar",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/e/e1/Sealizar_HD_001.png/revision/latest?cb=20231229033143"
+    }
+  ]
+}

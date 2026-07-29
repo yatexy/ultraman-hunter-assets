@@ -1,0 +1,31 @@
+{
+  "id": "monster:cbd3dad074",
+  "type": "monster",
+  "name_zh": "加佐特",
+  "name_en": "",
+  "aliases": [
+    "加佐特"
+  ],
+  "image": "assets/monsters/加佐特/portrait.webp",
+  "image_original": "assets/monsters/加佐特/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "闪电人变异怪兽。由电离层生命受电磁波影响形成，饥饿时会捕食同类与电磁源。",
+  "summary": "外观特征：蓝白飞行兽体、巨大口部和翼状肢体；习性：由电离层生命受电磁波影响形成，饥饿时会捕食同类与电磁源；主要攻击方式：飞行、等离子光弹、咬合、俯冲和电磁干扰。",
+  "notable_history": [
+    "原作定位为闪电人变异怪兽。",
+    "其典型习性为由电离层生命受电磁波影响形成，饥饿时会捕食同类与电磁源。",
+    "常用战法包括飞行、等离子光弹、咬合、俯冲和电磁干扰。"
+  ],
+  "hunter_contract_rating": "C+",
+  "sources": [
+    {
+      "title": "Gazort",
+      "url": "https://ultra.fandom.com/wiki/Gazort",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/0/0a/Gazort_1996_render.png/revision/latest?cb=20260217072017"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ultra:82f8878b0a",
+  "type": "ultra",
+  "name_zh": "罗布奥特曼",
+  "name_en": "",
+  "aliases": [
+    "罗布奥特曼",
+    "罗布"
+  ],
+  "image": "assets/ultras/罗布奥特曼/portrait.webp",
+  "image_original": "assets/ultras/罗布奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "罗索奥特曼与布鲁奥特曼的融合形态。",
+  "summary": "主要能力：罗比姆光线、罗布光轮与融合格斗。；战斗特点：结合罗索与布鲁的能力执行高同步战斗。。",
+  "notable_history": [
+    "罗索奥特曼与布鲁奥特曼的融合形态。",
+    "主要能力包括罗比姆光线、罗布光轮与融合格斗。。",
+    "战斗特点为结合罗索与布鲁的能力执行高同步战斗。。"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": [
+    {
+      "title": "Ultraman Ruebe",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Ruebe",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/f/fc/Ultramah_ruebe_render_by_zer0stylinx-dcom9ov.png/revision/latest?cb=20230731231848"
+    }
+  ]
+}

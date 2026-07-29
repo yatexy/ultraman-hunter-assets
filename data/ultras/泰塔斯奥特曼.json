@@ -1,0 +1,32 @@
+{
+  "id": "ultra:5f52857564",
+  "type": "ultra",
+  "name_zh": "泰塔斯奥特曼",
+  "name_en": "",
+  "aliases": [
+    "泰塔斯奥特曼",
+    "泰塔斯"
+  ],
+  "image": "assets/ultras/泰塔斯奥特曼/portrait.webp",
+  "image_original": "assets/ultras/泰塔斯奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "来自U40的贤者战士、三人小队成员。",
+  "summary": "主要能力：普拉尼姆爆球、怪力、摔投与防御。；战斗特点：正面力量、防御和稳定体术突出。。",
+  "notable_history": [
+    "来自U40的贤者战士、三人小队成员。",
+    "主要能力包括普拉尼姆爆球、怪力、摔投与防御。。",
+    "战斗特点为正面力量、防御和稳定体术突出。。"
+  ],
+  "hunter_contract_rating": "B",
+  "sources": [
+    {
+      "title": "Ultraman Titas",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Titas",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/4/48/Ultraman_Titas_Info.png/revision/latest?cb=20191225212639"
+    }
+  ]
+}

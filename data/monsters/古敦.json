@@ -1,0 +1,31 @@
+{
+  "id": "monster:efffc10f23",
+  "type": "monster",
+  "name_zh": "古敦",
+  "name_en": "",
+  "aliases": [
+    "古敦"
+  ],
+  "image": "assets/monsters/古敦/portrait.webp",
+  "image_original": "assets/monsters/古敦/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "地底怪兽。捕食双尾怪，沿地下猎物路线移动。",
+  "summary": "外观特征：两臂末端为长鞭、褐色甲壳、头部有角质突起；习性：捕食双尾怪，沿地下猎物路线移动；主要攻击方式：双鞭抽击、缠绕、拉扯和近身冲撞。",
+  "notable_history": [
+    "原作定位为地底怪兽。",
+    "其典型习性为捕食双尾怪，沿地下猎物路线移动。",
+    "常用战法包括双鞭抽击、缠绕、拉扯和近身冲撞。"
+  ],
+  "hunter_contract_rating": "D",
+  "sources": [
+    {
+      "title": "Gudon",
+      "url": "https://ultra.fandom.com/wiki/Gudon",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/e/e9/Gudon-removebg.png/revision/latest?cb=20220805054019"
+    }
+  ]
+}

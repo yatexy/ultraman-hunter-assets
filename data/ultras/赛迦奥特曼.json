@@ -1,0 +1,31 @@
+{
+  "id": "ultra:1213ccaccd",
+  "type": "ultra",
+  "name_zh": "赛迦奥特曼",
+  "name_en": "",
+  "aliases": [
+    "赛迦奥特曼",
+    "赛迦"
+  ],
+  "image": "assets/ultras/赛迦奥特曼/portrait.webp",
+  "image_original": "assets/ultras/赛迦奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "由赛罗奥特曼、戴拿奥特曼和高斯奥特曼在共同意志与人类希望中融合诞生。",
+  "summary": "由赛罗奥特曼、戴拿奥特曼和高斯奥特曼在共同意志与人类希望中融合诞生；在海帕杰顿造成的宇宙危机中出现；战斗特点：- 以超高速接近、连续格斗和光之能量压制夺取节奏。",
+  "notable_history": [
+    "由赛罗奥特曼、戴拿奥特曼和高斯奥特曼在共同意志与人类希望中融合诞生",
+    "在海帕杰顿造成的宇宙危机中出现"
+  ],
+  "hunter_contract_rating": "SS",
+  "sources": [
+    {
+      "title": "Ultraman Saga (character)",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Saga_(character)",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/2/24/Ultraman_Saga1.png/revision/latest?cb=20191226051734"
+    }
+  ]
+}

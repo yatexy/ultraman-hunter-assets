@@ -1,0 +1,12 @@
+{
+  "query": "Ultraman Ginga",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&generator=search&gsrsearch=Ultraman+Ginga&gsrlimit=4&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/c/c8/Ultraman_Ginga_full.png/revision/latest?cb=20191117225024",
+  "page_url": "https://ultra.fandom.com/wiki/Ultraman_Ginga_(character)",
+  "title": "Ultraman Ginga (character)",
+  "width": 326,
+  "height": 851,
+  "relevance": 999,
+  "downloaded_width": 326,
+  "downloaded_height": 851
+}

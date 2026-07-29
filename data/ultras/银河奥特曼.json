@@ -1,0 +1,32 @@
+{
+  "id": "ultra:5b46e68a2d",
+  "type": "ultra",
+  "name_zh": "银河奥特曼",
+  "name_en": "",
+  "aliases": [
+    "银河奥特曼",
+    "礼堂光"
+  ],
+  "image": "assets/ultras/银河奥特曼/portrait.webp",
+  "image_original": "assets/ultras/银河奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "来自未来的光之战士，与礼堂光共同活动。",
+  "summary": "主要能力：银河十字光线、水晶变化、火花人偶实体化与奥特兄弟技能。；战斗特点：水晶状态和能量运用提供多种攻击方式。。",
+  "notable_history": [
+    "来自未来的光之战士，与礼堂光共同活动。",
+    "主要能力包括银河十字光线、水晶变化、火花人偶实体化与奥特兄弟技能。。",
+    "战斗特点为水晶状态和能量运用提供多种攻击方式。。"
+  ],
+  "hunter_contract_rating": "未评级",
+  "sources": [
+    {
+      "title": "Ultraman Ginga (character)",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Ginga_(character)",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/c/c8/Ultraman_Ginga_full.png/revision/latest?cb=20191117225024"
+    }
+  ]
+}

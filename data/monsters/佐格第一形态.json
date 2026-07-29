@@ -1,0 +1,25 @@
+{
+  "id": "monster:804b02e4b8",
+  "type": "monster",
+  "name_zh": "佐格第一形态",
+  "name_en": "",
+  "aliases": [
+    "佐格第一形态"
+  ],
+  "image": "assets/monsters/佐格第一形态/portrait.webp",
+  "image_original": "assets/monsters/佐格第一形态/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "根源破灭天使。伪装为救援者，利用希望与误判接近目标。",
+  "summary": "外观特征：白色女性天使巨人、巨大翼部和柔和光芒；习性：伪装为救援者，利用希望与误判接近目标；主要攻击方式：能量波、治愈伪装、光线吸收、飞行和精神诱导。",
+  "notable_history": [
+    "原作定位为根源破灭天使。",
+    "其典型习性为伪装为救援者，利用希望与误判接近目标。",
+    "常用战法包括能量波、治愈伪装、光线吸收、飞行和精神诱导。"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": []
+}

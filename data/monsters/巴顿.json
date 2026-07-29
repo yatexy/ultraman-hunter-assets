@@ -1,0 +1,31 @@
+{
+  "id": "monster:382f8f4f75",
+  "type": "monster",
+  "name_zh": "巴顿",
+  "name_en": "",
+  "aliases": [
+    "巴顿"
+  ],
+  "image": "assets/monsters/巴顿/portrait.webp",
+  "image_original": "assets/monsters/巴顿/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "火山怪鸟。捕食性强，在火山与高热区筑巢。",
+  "summary": "外观特征：巨大双翼、尖锐毒喙、鸟兽混合体型；习性：捕食性强，在火山与高热区筑巢；主要攻击方式：毒喙啄击、高热火焰、高速飞行、爪击和翼风。",
+  "notable_history": [
+    "原作定位为火山怪鸟。",
+    "其典型习性为捕食性强，在火山与高热区筑巢。",
+    "常用战法包括毒喙啄击、高热火焰、高速飞行、爪击和翼风。"
+  ],
+  "hunter_contract_rating": "B-",
+  "sources": [
+    {
+      "title": "Birdon",
+      "url": "https://ultra.fandom.com/wiki/Birdon",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/9/98/Birdon_movie_II.png/revision/latest?cb=20181111222242"
+    }
+  ]
+}

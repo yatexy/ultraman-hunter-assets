@@ -1,0 +1,31 @@
+{
+  "id": "ultra:e6916333ee",
+  "type": "ultra",
+  "name_zh": "阿斯特拉",
+  "name_en": "",
+  "aliases": [
+    "阿斯特拉"
+  ],
+  "image": "assets/ultras/阿斯特拉/portrait.webp",
+  "image_original": "assets/ultras/阿斯特拉/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "L77星云战士、雷欧之弟。",
+  "summary": "主要能力：格斗、飞行、奥特双重闪光与雷欧协同技。；战斗特点：机动与兄弟配合突出。。",
+  "notable_history": [
+    "L77星云战士、雷欧之弟。",
+    "主要能力包括格斗、飞行、奥特双重闪光与雷欧协同技。。",
+    "战斗特点为机动与兄弟配合突出。。"
+  ],
+  "hunter_contract_rating": "B",
+  "sources": [
+    {
+      "title": "Astra",
+      "url": "https://ultra.fandom.com/wiki/Astra",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/1/10/Astra_movie_II.png/revision/latest?cb=20210919010839"
+    }
+  ]
+}

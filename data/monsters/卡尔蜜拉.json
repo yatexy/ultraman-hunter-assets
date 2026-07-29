@@ -1,0 +1,31 @@
+{
+  "id": "monster:5227b30466",
+  "type": "monster",
+  "name_zh": "卡尔蜜拉",
+  "name_en": "",
+  "aliases": [
+    "卡尔蜜拉"
+  ],
+  "image": "assets/monsters/卡尔蜜拉/portrait.webp",
+  "image_original": "assets/monsters/卡尔蜜拉/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "妖丽战士、黑暗巨人。情感强烈，围绕特利迦与黑暗同伴展开执着和支配。",
+  "summary": "外观特征：金黑女性巨人轮廓、鞭刃与发光黑暗纹路；习性：情感强烈，围绕特利迦与黑暗同伴展开执着和支配；主要攻击方式：光鞭、能量斩击、光弹、近战和黑暗强化。",
+  "notable_history": [
+    "原作定位为妖丽战士、黑暗巨人。",
+    "其典型习性为情感强烈，围绕特利迦与黑暗同伴展开执着和支配。",
+    "常用战法包括光鞭、能量斩击、光弹、近战和黑暗强化。"
+  ],
+  "hunter_contract_rating": "A",
+  "sources": [
+    {
+      "title": "Carmeara",
+      "url": "https://ultra.fandom.com/wiki/Carmeara",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/b/bf/Carmeara_render_3.png/revision/latest?cb=20220115135020"
+    }
+  ]
+}

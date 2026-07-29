@@ -1,0 +1,12 @@
+{
+  "query": "Sadola",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Sadola&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/b/b2/Sadola_movie_I.png/revision/latest?cb=20200520035005",
+  "page_url": "https://ultra.fandom.com/wiki/Sadolar",
+  "title": "Sadolar",
+  "width": 640,
+  "height": 746,
+  "relevance": 2000,
+  "downloaded_width": 640,
+  "downloaded_height": 746
+}

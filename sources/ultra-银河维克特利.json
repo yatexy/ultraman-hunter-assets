@@ -1,0 +1,12 @@
+{
+  "query": "Ultraman Gingavictory",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Ultraman+Gingavictory&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/6/62/Ginga_Victory.png/revision/latest?cb=20191226052131",
+  "page_url": "https://ultra.fandom.com/wiki/Ultraman_Gingavictory",
+  "title": "Ultraman Gingavictory",
+  "width": 356,
+  "height": 900,
+  "relevance": 2000,
+  "downloaded_width": 356,
+  "downloaded_height": 900
+}

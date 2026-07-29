@@ -1,0 +1,31 @@
+{
+  "id": "monster:15c8ae3dc0",
+  "type": "monster",
+  "name_zh": "帝斯雷姆",
+  "name_en": "",
+  "aliases": [
+    "帝斯雷姆"
+  ],
+  "image": "assets/monsters/帝斯雷姆/portrait.webp",
+  "image_original": "assets/monsters/帝斯雷姆/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "谋将、暗黑四天王之一。利用人质、舆论和绝望打击守护者判断。",
+  "summary": "外观特征：红黑人形甲胄、火焰状头冠；习性：利用人质、舆论和绝望打击守护者判断；主要攻击方式：火焰球、格斗、屏障、空间移动和心理战。",
+  "notable_history": [
+    "原作定位为谋将、暗黑四天王之一。",
+    "其典型习性为利用人质、舆论和绝望打击守护者判断。",
+    "常用战法包括火焰球、格斗、屏障、空间移动和心理战。"
+  ],
+  "hunter_contract_rating": "A",
+  "sources": [
+    {
+      "title": "Deathrem",
+      "url": "https://ultra.fandom.com/wiki/Deathrem",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/6/6c/Deathrem.png/revision/latest?cb=20150912102543"
+    }
+  ]
+}

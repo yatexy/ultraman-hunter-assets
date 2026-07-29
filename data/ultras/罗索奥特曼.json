@@ -1,0 +1,32 @@
+{
+  "id": "ultra:0594593efb",
+  "type": "ultra",
+  "name_zh": "罗索奥特曼",
+  "name_en": "",
+  "aliases": [
+    "罗索奥特曼",
+    "罗索"
+  ],
+  "image": "assets/ultras/罗索奥特曼/portrait.webp",
+  "image_original": "assets/ultras/罗索奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "凑活海使用罗布回旋闪光变身。",
+  "summary": "主要能力：罗索火焰、水、风、土等水晶属性变化与罗布头镖。；战斗特点：根据属性与兄弟配合改变攻击方式。。",
+  "notable_history": [
+    "凑活海使用罗布回旋闪光变身。",
+    "主要能力包括罗索火焰、水、风、土等水晶属性变化与罗布头镖。。",
+    "战斗特点为根据属性与兄弟配合改变攻击方式。。"
+  ],
+  "hunter_contract_rating": "B",
+  "sources": [
+    {
+      "title": "Ultraman Rosso",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Rosso",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/7/70/Ultraman_Rosso.png/revision/latest?cb=20180719120238"
+    }
+  ]
+}

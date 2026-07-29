@@ -1,0 +1,12 @@
+{
+  "query": "Mizunoeno Dragon",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Mizunoeno+Dragon&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/4/48/Mizunoeno_Dragon_Info.png/revision/latest?cb=20200928011407",
+  "page_url": "https://ultra.fandom.com/wiki/Mizunoeno_Dragon",
+  "title": "Mizunoeno Dragon",
+  "width": 1248,
+  "height": 1247,
+  "relevance": 2000,
+  "downloaded_width": 1248,
+  "downloaded_height": 1247
+}

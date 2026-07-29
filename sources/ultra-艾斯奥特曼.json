@@ -1,0 +1,12 @@
+{
+  "query": "Ultraman Ace",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&generator=search&gsrsearch=Ultraman+Ace&gsrlimit=4&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/9/9e/Ultraman_Ace.png/revision/latest?cb=20230822161519",
+  "page_url": "https://ultra.fandom.com/wiki/Ultraman_Ace_(character)",
+  "title": "Ultraman Ace (character)",
+  "width": 365,
+  "height": 900,
+  "relevance": 999,
+  "downloaded_width": 365,
+  "downloaded_height": 900
+}

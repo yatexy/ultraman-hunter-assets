@@ -1,0 +1,12 @@
+{
+  "query": "Sealizar",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Sealizar&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/e/e1/Sealizar_HD_001.png/revision/latest?cb=20231229033143",
+  "page_url": "https://ultra.fandom.com/wiki/Sealizar",
+  "title": "Sealizar",
+  "width": 1058,
+  "height": 1552,
+  "relevance": 2000,
+  "downloaded_width": 1058,
+  "downloaded_height": 1552
+}

@@ -1,0 +1,31 @@
+{
+  "id": "monster:93f0fa6846",
+  "type": "monster",
+  "name_zh": "戈尔德拉斯",
+  "name_en": "",
+  "aliases": [
+    "戈尔德拉斯"
+  ],
+  "image": "assets/monsters/戈尔德拉斯/portrait.webp",
+  "image_original": "assets/monsters/戈尔德拉斯/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "超力怪兽、时空界怪兽。活动会引发时空界与磁场异常，对大型能源点有反应。",
+  "summary": "外观特征：金色重甲、头部大角和厚重直立躯体；习性：活动会引发时空界与磁场异常，对大型能源点有反应；主要攻击方式：角部能量、强力屏障、时空扰动、怪力和尾击。",
+  "notable_history": [
+    "原作定位为超力怪兽、时空界怪兽。",
+    "其典型习性为活动会引发时空界与磁场异常，对大型能源点有反应。",
+    "常用战法包括角部能量、强力屏障、时空扰动、怪力和尾击。"
+  ],
+  "hunter_contract_rating": "B-",
+  "sources": [
+    {
+      "title": "Goldras",
+      "url": "https://ultra.fandom.com/wiki/Goldras",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/7/7c/Goldras_Info.png/revision/latest?cb=20210824200435"
+    }
+  ]
+}

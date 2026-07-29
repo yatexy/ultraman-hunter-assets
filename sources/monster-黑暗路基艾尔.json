@@ -1,0 +1,12 @@
+{
+  "query": "Dark Lugiel",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Dark+Lugiel&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/e/e4/Dark_Lugiel-removebg.png/revision/latest?cb=20221218033821",
+  "page_url": "https://ultra.fandom.com/wiki/Dark_Lugiel",
+  "title": "Dark Lugiel",
+  "width": 361,
+  "height": 690,
+  "relevance": 2000,
+  "downloaded_width": 361,
+  "downloaded_height": 690
+}

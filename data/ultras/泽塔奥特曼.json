@@ -1,0 +1,33 @@
+{
+  "id": "ultra:212a486248",
+  "type": "ultra",
+  "name_zh": "泽塔奥特曼",
+  "name_en": "",
+  "aliases": [
+    "泽塔奥特曼",
+    "泽塔",
+    "夏川遥辉"
+  ],
+  "image": "assets/ultras/泽塔奥特曼/portrait.webp",
+  "image_original": "assets/ultras/泽塔奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "宇宙警备队年轻战士、赛罗弟子，与夏川遥辉一体化。",
+  "summary": "主要能力：泽斯蒂姆光线、勋章融合、泽塔升华器与贝利亚黄昏。；战斗特点：通过勋章组合在速度、力量、特殊能力和武器之间切换。。",
+  "notable_history": [
+    "宇宙警备队年轻战士、赛罗弟子，与夏川遥辉一体化。",
+    "主要能力包括泽斯蒂姆光线、勋章融合、泽塔升华器与贝利亚黄昏。。",
+    "战斗特点为通过勋章组合在速度、力量、特殊能力和武器之间切换。。"
+  ],
+  "hunter_contract_rating": "未评级",
+  "sources": [
+    {
+      "title": "Ultraman Z (character)",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Z_(character)",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/6/6f/Zetto2render.png/revision/latest?cb=20200424165828"
+    }
+  ]
+}

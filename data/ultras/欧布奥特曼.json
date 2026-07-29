@@ -1,0 +1,33 @@
+{
+  "id": "ultra:c1e4314a56",
+  "type": "ultra",
+  "name_zh": "欧布奥特曼",
+  "name_en": "",
+  "aliases": [
+    "欧布奥特曼",
+    "欧布",
+    "红凯"
+  ],
+  "image": "assets/ultras/欧布奥特曼/portrait.webp",
+  "image_original": "assets/ultras/欧布奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "流浪战士红凯使用欧布圆环变身。",
+  "summary": "主要能力：欧利吉姆光线、欧布圣剑、融合升级与元素攻击。；战斗特点：根据敌人和环境选择融合形态或原生形态。。",
+  "notable_history": [
+    "流浪战士红凯使用欧布圆环变身。",
+    "主要能力包括欧利吉姆光线、欧布圣剑、融合升级与元素攻击。。",
+    "战斗特点为根据敌人和环境选择融合形态或原生形态。。"
+  ],
+  "hunter_contract_rating": "未评级",
+  "sources": [
+    {
+      "title": "Ultraman Orb (character)",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Orb_(character)",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/0/05/Orb_Origin.png/revision/latest?cb=20180317130742"
+    }
+  ]
+}

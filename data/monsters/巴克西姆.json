@@ -1,0 +1,31 @@
+{
+  "id": "monster:189fb93b60",
+  "type": "monster",
+  "name_zh": "巴克西姆",
+  "name_en": "",
+  "aliases": [
+    "巴克西姆"
+  ],
+  "image": "assets/monsters/巴克西姆/portrait.webp",
+  "image_original": "assets/monsters/巴克西姆/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "独角超兽。可通过天空裂缝突入，适合突然袭击和撤离。",
+  "summary": "外观特征：蓝黄重甲、巨大独角、肩背导弹器官；习性：可通过天空裂缝突入，适合突然袭击和撤离；主要攻击方式：导弹、火焰、独角射击、异次元移动和怪力。",
+  "notable_history": [
+    "原作定位为独角超兽。",
+    "其典型习性为可通过天空裂缝突入，适合突然袭击和撤离。",
+    "常用战法包括导弹、火焰、独角射击、异次元移动和怪力。"
+  ],
+  "hunter_contract_rating": "B",
+  "sources": [
+    {
+      "title": "Vakishim",
+      "url": "https://ultra.fandom.com/wiki/Vakishim",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/4/4b/Vakishimm.png/revision/latest?cb=20200216070402"
+    }
+  ]
+}

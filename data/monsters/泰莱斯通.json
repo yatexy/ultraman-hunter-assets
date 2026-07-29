@@ -1,0 +1,31 @@
+{
+  "id": "monster:2a438d18a9",
+  "type": "monster",
+  "name_zh": "泰莱斯通",
+  "name_en": "",
+  "aliases": [
+    "泰莱斯通"
+  ],
+  "image": "assets/monsters/泰莱斯通/portrait.webp",
+  "image_original": "assets/monsters/泰莱斯通/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "地底怪兽。栖息地下，受震动、光线和领地变化刺激后钻出地表。",
+  "summary": "外观特征：褐色厚皮、长吻、背部有分节状隆起；习性：栖息地下，受震动、光线和领地变化刺激后钻出地表；主要攻击方式：掘进突袭、头部撞击、撕咬、尾扫与高热火焰。",
+  "notable_history": [
+    "原作定位为地底怪兽。",
+    "其典型习性为栖息地下，受震动、光线和领地变化刺激后钻出地表。",
+    "常用战法包括掘进突袭、头部撞击、撕咬、尾扫与高热火焰。"
+  ],
+  "hunter_contract_rating": "D",
+  "sources": [
+    {
+      "title": "Telesdon",
+      "url": "https://ultra.fandom.com/wiki/Telesdon",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/a/ab/Telesdon_data.png/revision/latest?cb=20150729062850"
+    }
+  ]
+}

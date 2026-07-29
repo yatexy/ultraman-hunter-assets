@@ -1,0 +1,12 @@
+{
+  "query": "Mururoa",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Mururoa&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/0/04/Mururoa_HD_003.png/revision/latest?cb=20231207163303",
+  "page_url": "https://ultra.fandom.com/wiki/Mururoa",
+  "title": "Mururoa",
+  "width": 846,
+  "height": 1208,
+  "relevance": 2000,
+  "downloaded_width": 846,
+  "downloaded_height": 1208
+}

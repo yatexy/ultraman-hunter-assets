@@ -1,0 +1,12 @@
+{
+  "query": "Nova",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Nova&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/f/f5/Novaa.png/revision/latest?cb=20200521215626",
+  "page_url": "https://ultra.fandom.com/wiki/Nova",
+  "title": "Nova",
+  "width": 456,
+  "height": 556,
+  "relevance": 2000,
+  "downloaded_width": 456,
+  "downloaded_height": 556
+}

@@ -1,0 +1,12 @@
+{
+  "query": "Astra",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Astra&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/1/10/Astra_movie_II.png/revision/latest?cb=20210919010839",
+  "page_url": "https://ultra.fandom.com/wiki/Astra",
+  "title": "Astra",
+  "width": 1218,
+  "height": 2647,
+  "relevance": 1000,
+  "downloaded_width": 828,
+  "downloaded_height": 1800
+}

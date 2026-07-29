@@ -1,0 +1,31 @@
+{
+  "id": "monster:5b9d567119",
+  "type": "monster",
+  "name_zh": "黑暗路基艾尔",
+  "name_en": "",
+  "aliases": [
+    "黑暗路基艾尔"
+  ],
+  "image": "assets/monsters/黑暗路基艾尔/portrait.webp",
+  "image_original": "assets/monsters/黑暗路基艾尔/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "黑暗火花持有者。追求让生命与时间停止，把变化视为痛苦来源。",
+  "summary": "外观特征：黑红巨人、角状头部、结晶装甲和黑暗火花；习性：追求让生命与时间停止，把变化视为痛苦来源；主要攻击方式：黑暗火花波动、火花人偶化、黑暗光线、长枪和能量压制。",
+  "notable_history": [
+    "原作定位为黑暗火花持有者。",
+    "其典型习性为追求让生命与时间停止，把变化视为痛苦来源。",
+    "常用战法包括黑暗火花波动、火花人偶化、黑暗光线、长枪和能量压制。"
+  ],
+  "hunter_contract_rating": "S",
+  "sources": [
+    {
+      "title": "Dark Lugiel",
+      "url": "https://ultra.fandom.com/wiki/Dark_Lugiel",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/e/e4/Dark_Lugiel-removebg.png/revision/latest?cb=20221218033821"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "query": "Live King",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&generator=search&gsrsearch=Live+King&gsrlimit=4&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/1/1c/GALAXTRON.png/revision/latest?cb=20170903164545",
+  "page_url": "https://ultra.fandom.com/wiki/King_Galactron",
+  "title": "King Galactron",
+  "width": 422,
+  "height": 660,
+  "relevance": 999,
+  "downloaded_width": 422,
+  "downloaded_height": 660
+}

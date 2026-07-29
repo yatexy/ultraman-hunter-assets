@@ -1,0 +1,33 @@
+{
+  "id": "ultra:0fde7ff427",
+  "type": "ultra",
+  "name_zh": "阿古茹奥特曼",
+  "name_en": "",
+  "aliases": [
+    "阿古茹奥特曼",
+    "阿古茹",
+    "藤宫博也"
+  ],
+  "image": "assets/ultras/阿古茹奥特曼/portrait.webp",
+  "image_original": "assets/ultras/阿古茹奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "地球海洋之光，先后与藤宫博也结合。",
+  "summary": "主要能力：光子粉碎机、清算者、阿古茹之刃与高速格斗。；战斗特点：速度、切割和近距离连续攻击突出。。",
+  "notable_history": [
+    "地球海洋之光，先后与藤宫博也结合。",
+    "主要能力包括光子粉碎机、清算者、阿古茹之刃与高速格斗。。",
+    "战斗特点为速度、切割和近距离连续攻击突出。。"
+  ],
+  "hunter_contract_rating": "未评级",
+  "sources": [
+    {
+      "title": "Ultraman Agul",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Agul",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/1/1e/Ultraman_Agul_V2.png/revision/latest?cb=20190926165410"
+    }
+  ]
+}

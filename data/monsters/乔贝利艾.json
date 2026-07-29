@@ -1,0 +1,31 @@
+{
+  "id": "monster:be133e233c",
+  "type": "monster",
+  "name_zh": "乔贝利艾",
+  "name_en": "",
+  "aliases": [
+    "乔贝利艾"
+  ],
+  "image": "assets/monsters/乔贝利艾/portrait.webp",
+  "image_original": "assets/monsters/乔贝利艾/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "森林怪兽。依赖森林生态，对砍伐、火灾和污染产生攻击反应。",
+  "summary": "外观特征：绿色植物质表皮、角和树皮状装甲；习性：依赖森林生态，对砍伐、火灾和污染产生攻击反应；主要攻击方式：角撞、爪击、体重压制和植物性防护。",
+  "notable_history": [
+    "原作定位为森林怪兽。",
+    "其典型习性为依赖森林生态，对砍伐、火灾和污染产生攻击反应。",
+    "常用战法包括角撞、爪击、体重压制和植物性防护。"
+  ],
+  "hunter_contract_rating": "D",
+  "sources": [
+    {
+      "title": "Jobarieh",
+      "url": "https://ultra.fandom.com/wiki/Jobarieh",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/7/7c/Jobarieh_HD_001.jpg/revision/latest?cb=20231205134222"
+    }
+  ]
+}

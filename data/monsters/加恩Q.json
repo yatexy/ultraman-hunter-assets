@@ -1,0 +1,31 @@
+{
+  "id": "monster:3f105589df",
+  "type": "monster",
+  "name_zh": "加恩Q",
+  "name_en": "",
+  "aliases": [
+    "加恩Q"
+  ],
+  "image": "assets/monsters/加恩Q/portrait.webp",
+  "image_original": "assets/monsters/加恩Q/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "奇兽。吸收能量和物体，对高能目标具有强烈兴趣。",
+  "summary": "外观特征：巨大眼球躯体、多眼纹路和触手状肢体；习性：吸收能量和物体，对高能目标具有强烈兴趣；主要攻击方式：吸收光线、眼部光弹、念力、触手和能量反射。",
+  "notable_history": [
+    "原作定位为奇兽。",
+    "其典型习性为吸收能量和物体，对高能目标具有强烈兴趣。",
+    "常用战法包括吸收光线、眼部光弹、念力、触手和能量反射。"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": [
+    {
+      "title": "Gan-Q",
+      "url": "https://ultra.fandom.com/wiki/Gan-Q",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/4/40/Gan_Q.png/revision/latest?cb=20190627014038"
+    }
+  ]
+}

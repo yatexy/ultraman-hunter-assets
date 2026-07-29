@@ -1,0 +1,33 @@
+{
+  "id": "ultra:1b852bb594",
+  "type": "ultra",
+  "name_zh": "捷德奥特曼",
+  "name_en": "",
+  "aliases": [
+    "捷德奥特曼",
+    "捷德",
+    "朝仓陆"
+  ],
+  "image": "assets/ultras/捷德奥特曼/portrait.webp",
+  "image_original": "assets/ultras/捷德奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "具有贝利亚遗传因子的朝仓陆使用升华器变身。",
+  "summary": "主要能力：毁灭爆裂、奥特胶囊融合、王者之剑与终极升华器。；战斗特点：通过不同胶囊组合改变力量、速度和特殊能力。。",
+  "notable_history": [
+    "具有贝利亚遗传因子的朝仓陆使用升华器变身。",
+    "主要能力包括毁灭爆裂、奥特胶囊融合、王者之剑与终极升华器。。",
+    "战斗特点为通过不同胶囊组合改变力量、速度和特殊能力。。"
+  ],
+  "hunter_contract_rating": "未评级",
+  "sources": [
+    {
+      "title": "Ultraman Geed (character)",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Geed_(character)",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/3/39/Img_top_chara_02.png/revision/latest?cb=20191217013637"
+    }
+  ]
+}

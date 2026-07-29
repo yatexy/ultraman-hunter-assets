@@ -1,0 +1,12 @@
+{
+  "query": "Doragory",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Doragory&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/0/0c/Doragory_movie_I.png/revision/latest?cb=20200531010850",
+  "page_url": "https://ultra.fandom.com/wiki/Doragory",
+  "title": "Doragory",
+  "width": 442,
+  "height": 741,
+  "relevance": 2000,
+  "downloaded_width": 442,
+  "downloaded_height": 741
+}

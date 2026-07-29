@@ -14,9 +14,27 @@ data/
 manifest.json
 ```
 
-前端优先读取根目录的 `manifest.json`，再根据实体 ID 加载图片与独立资料。
+前端优先读取根目录的 `manifest.json`，按名称或别名模糊匹配，再加载图片与独立资料。目前收录 44 名奥特曼、99 个怪兽或敌对角色，共 143 条。
 
-## 首批样例
+## 远程图鉴卡片
+
+GitHub Pages 启用后可直接嵌入：
+
+```text
+card.html?type=奥特曼&name=初代奥特曼
+card.html?type=怪兽&name=哥莫拉
+```
+
+角色卡只需让模型输出简单标记：
+
+```xml
+<HunterEntity>奥特曼：初代奥特曼</HunterEntity>
+<HunterEntity>怪兽：哥莫拉</HunterEntity>
+```
+
+正则仅负责把类型和名称传给远程页面。图片、资料、别名匹配和样式均由仓库维护，新增实体时无需扩写角色卡正则。
+
+## 样例
 
 ### 奥特曼
 
@@ -47,6 +65,7 @@ https://testingcf.jsdelivr.net/gh/yatexy/ultraman-hunter-assets@main/assets/ultr
 
 ## 说明
 
-- `portrait.png` 保存抓取到的原图，`portrait.webp` 是前端使用的压缩版本。
+- `portrait.png` 保存归档图，`portrait.webp` 是前端使用的压缩版本。
 - 每份资料均记录百科页面和原始图片地址，方便校对与替换。
 - 条目中的“猎星之契评级”沿用当前角色卡规则，不代表官方评级。
+- 本线原创或派生对象会明确沿用原型图或使用原创占位视觉，不冒充原作独立档案。

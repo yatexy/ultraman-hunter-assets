@@ -1,0 +1,12 @@
+{
+  "query": "Ultraman Agul",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&generator=search&gsrsearch=Ultraman+Agul&gsrlimit=4&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/1/1e/Ultraman_Agul_V2.png/revision/latest?cb=20190926165410",
+  "page_url": "https://ultra.fandom.com/wiki/Ultraman_Agul",
+  "title": "Ultraman Agul",
+  "width": 299,
+  "height": 934,
+  "relevance": 999,
+  "downloaded_width": 299,
+  "downloaded_height": 934
+}

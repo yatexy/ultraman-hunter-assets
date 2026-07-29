@@ -1,0 +1,12 @@
+{
+  "query": "Gubila",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Gubila&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/f/f9/Gubila.png/revision/latest?cb=20200908193430",
+  "page_url": "https://ultra.fandom.com/wiki/Gubila",
+  "title": "Gubila",
+  "width": 366,
+  "height": 318,
+  "relevance": 2000,
+  "downloaded_width": 366,
+  "downloaded_height": 318
+}

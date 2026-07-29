@@ -1,0 +1,31 @@
+{
+  "id": "monster:25ee14cee7",
+  "type": "monster",
+  "name_zh": "希特拉姆",
+  "name_en": "",
+  "aliases": [
+    "希特拉姆"
+  ],
+  "image": "assets/monsters/希特拉姆/portrait.webp",
+  "image_original": "assets/monsters/希特拉姆/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "俊敏策士、黑暗巨人。残忍、狡猾，偏好高速袭击与利用盟友。",
+  "summary": "外观特征：蓝黑细长巨人、腕刃和锐利头冠；习性：残忍、狡猾，偏好高速袭击与利用盟友；主要攻击方式：高速移动、腕刃、能量斩、光弹和偷袭。",
+  "notable_history": [
+    "原作定位为俊敏策士、黑暗巨人。",
+    "其典型习性为残忍、狡猾，偏好高速袭击与利用盟友。",
+    "常用战法包括高速移动、腕刃、能量斩、光弹和偷袭。"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": [
+    {
+      "title": "Hudram",
+      "url": "https://ultra.fandom.com/wiki/Hudram",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/3/33/Hudram_render_5.png/revision/latest?cb=20220115135513"
+    }
+  ]
+}

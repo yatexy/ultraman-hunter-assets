@@ -1,0 +1,12 @@
+{
+  "query": "Galberos",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Galberos&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/1/10/Galberos_move_I.png/revision/latest?cb=20150303053705",
+  "page_url": "https://ultra.fandom.com/wiki/Galberos",
+  "title": "Galberos",
+  "width": 640,
+  "height": 940,
+  "relevance": 2000,
+  "downloaded_width": 640,
+  "downloaded_height": 940
+}

@@ -1,0 +1,32 @@
+{
+  "id": "monster:e758da763b",
+  "type": "monster",
+  "name_zh": "阿布索留特塔尔塔洛斯",
+  "name_en": "",
+  "aliases": [
+    "阿布索留特塔尔塔洛斯",
+    "塔尔塔洛斯"
+  ],
+  "image": "assets/monsters/阿布索留特塔尔塔洛斯/portrait.webp",
+  "image_original": "assets/monsters/阿布索留特塔尔塔洛斯/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "究极生命体、阿布索留特战士。以王国存续为目标进行跨时空布局，擅长招募与利用强者。",
+  "summary": "外观特征：金色重甲人形、红色核心和空间能量纹路；习性：以王国存续为目标进行跨时空布局，擅长招募与利用强者；主要攻击方式：绝对毁灭、纳拉克空间、格斗、传送和能量屏障。",
+  "notable_history": [
+    "原作定位为究极生命体、阿布索留特战士。",
+    "其典型习性为以王国存续为目标进行跨时空布局，擅长招募与利用强者。",
+    "常用战法包括绝对毁灭、纳拉克空间、格斗、传送和能量屏障。"
+  ],
+  "hunter_contract_rating": "S",
+  "sources": [
+    {
+      "title": "Absolute Tartarus",
+      "url": "https://ultra.fandom.com/wiki/Absolute_Tartarus",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/b/b1/Absolute_Tartarus.png/revision/latest?cb=20200924160213"
+    }
+  ]
+}

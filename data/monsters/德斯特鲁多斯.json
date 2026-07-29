@@ -1,0 +1,31 @@
+{
+  "id": "monster:eef995c6ce",
+  "type": "monster",
+  "name_zh": "德斯特鲁多斯",
+  "name_en": "",
+  "aliases": [
+    "德斯特鲁多斯"
+  ],
+  "image": "assets/monsters/德斯特鲁多斯/portrait.webp",
+  "image_original": "assets/monsters/德斯特鲁多斯/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "歼灭机甲兽。作为终极毁灭兵器执行歼灭，不具自然生态。",
+  "summary": "外观特征：多种怪兽与机械器官拼合，胸部具有高能核心；习性：作为终极毁灭兵器执行歼灭，不具自然生态；主要攻击方式：D4射线、多重怪兽能力、炮击、飞行和重装格斗。",
+  "notable_history": [
+    "原作定位为歼灭机甲兽。",
+    "其典型习性为作为终极毁灭兵器执行歼灭，不具自然生态。",
+    "常用战法包括D4射线、多重怪兽能力、炮击、飞行和重装格斗。"
+  ],
+  "hunter_contract_rating": "A+",
+  "sources": [
+    {
+      "title": "Ultroid Zero",
+      "url": "https://ultra.fandom.com/wiki/Ultroid_Zero",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/5/59/UltroidZeroPoseRender.png/revision/latest?cb=20221128033817"
+    }
+  ]
+}

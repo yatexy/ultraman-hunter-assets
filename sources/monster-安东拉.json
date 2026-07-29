@@ -1,0 +1,12 @@
+{
+  "query": "Antlar",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Antlar&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/a/af/Antlar_movie_I.png/revision/latest?cb=20200803043734",
+  "page_url": "https://ultra.fandom.com/wiki/Antlar",
+  "title": "Antlar",
+  "width": 640,
+  "height": 726,
+  "relevance": 2000,
+  "downloaded_width": 640,
+  "downloaded_height": 726
+}

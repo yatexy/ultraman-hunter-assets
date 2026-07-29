@@ -1,0 +1,31 @@
+{
+  "id": "monster:c48f22671e",
+  "type": "monster",
+  "name_zh": "立加德隆",
+  "name_en": "",
+  "aliases": [
+    "立加德隆"
+  ],
+  "image": "assets/monsters/立加德隆/portrait.webp",
+  "image_original": "assets/monsters/立加德隆/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "宇宙生命与运输机、宇航员意识融合形成的机械怪兽。追逐高纯度能源，保留被吸收人员的知识与记忆残片。",
+  "summary": "外观特征：银白机械装甲、尖锐头部、发动机与机体结构融合；习性：追逐高纯度能源，保留被吸收人员的知识与记忆残片；主要攻击方式：高速飞行、机械力量、能量吸收、光弹和装甲冲撞。",
+  "notable_history": [
+    "原作定位为宇宙生命与运输机、宇航员意识融合形成的机械怪兽。",
+    "其典型习性为追逐高纯度能源，保留被吸收人员的知识与记忆残片。",
+    "常用战法包括高速飞行、机械力量、能量吸收、光弹和装甲冲撞。"
+  ],
+  "hunter_contract_rating": "C+",
+  "sources": [
+    {
+      "title": "Ligatron",
+      "url": "https://ultra.fandom.com/wiki/Ligatron",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/5/5b/Ligatron_HD_005.png/revision/latest?cb=20231205130834"
+    }
+  ]
+}

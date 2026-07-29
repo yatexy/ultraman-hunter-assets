@@ -1,0 +1,12 @@
+{
+  "query": "Alien Pedan",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Alien+Pedan&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/e/e0/Showa_Alien_Pedan.jpg/revision/latest?cb=20170919035103",
+  "page_url": "https://ultra.fandom.com/wiki/Alien_Pedan",
+  "title": "Alien Pedan",
+  "width": 219,
+  "height": 310,
+  "relevance": 2000,
+  "downloaded_width": 219,
+  "downloaded_height": 310
+}

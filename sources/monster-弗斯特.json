@@ -1,0 +1,12 @@
+{
+  "query": "Beast the One",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Beast+the+One&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/9/91/Beast_the_One_render.png/revision/latest?cb=20200730042154",
+  "page_url": "https://ultra.fandom.com/wiki/Beast_the_One",
+  "title": "Beast the One",
+  "width": 376,
+  "height": 548,
+  "relevance": 2000,
+  "downloaded_width": 376,
+  "downloaded_height": 548
+}

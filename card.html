@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>猎星图鉴</title>
+  <style>
+    *{box-sizing:border-box}
+    html,body{margin:0;min-height:100%;background:transparent;font-family:"Microsoft YaHei","PingFang SC",sans-serif}
+    body{padding:4px}
+    .archive{--accent:#e54152;--rgb:229,65,82;position:relative;overflow:hidden;min-height:220px;color:#20272c;background:linear-gradient(120deg,#fbfcfd,#dce3e7);border:1px solid rgba(var(--rgb),.62);border-radius:13px;box-shadow:0 14px 34px rgba(0,0,0,.3),inset 0 1px rgba(255,255,255,.88)}
+    .archive.monster{--accent:#a65cff;--rgb:166,92,255;color:#eee5f8;background:radial-gradient(circle at 9% 12%,rgba(166,92,255,.19),transparent 31%),linear-gradient(125deg,#07070b,#1a0e22);border-color:rgba(166,92,255,.58)}
+    .archive:before{position:absolute;inset:0;content:"";pointer-events:none;background:repeating-linear-gradient(0deg,transparent 0 4px,rgba(var(--rgb),.025) 5px)}
+    .archive details,.archive summary{position:relative}
+    .archive summary{display:grid;grid-template-columns:minmax(140px,30%) 1fr;min-height:220px;cursor:pointer;list-style:none}
+    .archive summary::-webkit-details-marker{display:none}
+    .media{position:relative;min-height:220px;overflow:hidden;background:#090d11}
+    .media img{display:block;width:100%;height:100%;min-height:220px;max-height:310px;object-fit:contain;object-position:center}
+    .media:after{position:absolute;inset:0;content:"";pointer-events:none;box-shadow:inset -25px 0 34px rgba(0,0,0,.32)}
+    .signal{position:absolute;left:10px;bottom:10px;z-index:1;padding:4px 7px;color:#fff;background:rgba(var(--rgb),.84);border:1px solid rgba(255,255,255,.36);border-radius:3px;font:800 9px/1.2 Consolas,monospace;letter-spacing:.12em}
+    .copy{min-width:0;padding:19px 23px 17px}
+    .kicker{color:var(--accent);font:800 10px/1.4 Consolas,monospace;letter-spacing:.16em}
+    h1{margin:6px 0 9px;color:inherit;font-size:25px;line-height:1.2}
+    .tags{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:11px}
+    .tags span{padding:3px 7px;color:var(--accent);background:rgba(var(--rgb),.1);border:1px solid rgba(var(--rgb),.33);border-radius:4px;font-size:10px}
+    .lead{display:-webkit-box;margin:0;overflow:hidden;color:inherit;font-size:12px;line-height:1.75;opacity:.78;-webkit-box-orient:vertical;-webkit-line-clamp:3}
+    .open{display:block;margin-top:11px;color:var(--accent);font-size:10px;font-weight:800;letter-spacing:.08em}
+    .open:after{content:" ＋"}.archive details[open] .open:after{content:" －"}
+    .expanded{position:relative;display:grid;gap:11px;padding:16px 21px 19px;border-top:1px solid rgba(var(--rgb),.3);font-size:12px;line-height:1.75}
+    .expanded section{padding-left:11px;border-left:2px solid var(--accent)}
+    .expanded b{display:block;margin-bottom:3px;color:var(--accent);font-size:10px;letter-spacing:.12em}
+    .expanded p,.expanded ul{margin:0}.expanded ul{padding-left:18px}.expanded a{color:var(--accent)}.note{opacity:.68}
+    .status{display:grid;min-height:220px;padding:22px;place-content:center;color:#cdb9e5;background:linear-gradient(125deg,#08070c,#1a1021);border:1px solid rgba(166,92,255,.55);border-left:4px solid #a65cff;border-radius:12px;text-align:center}
+    .status b{color:#bc83ff;font:800 11px/1.5 Consolas,monospace;letter-spacing:.15em}.status p{margin:9px 0 0;color:#8f7f9d;font-size:11px;line-height:1.7}
+    @media(max-width:560px){body{padding:2px}.archive summary{grid-template-columns:108px 1fr;min-height:180px}.media,.media img{min-height:180px}.copy{padding:14px}.copy h1{font-size:19px}.expanded{padding:13px 15px 16px}}
+  </style>
+</head>
+<body>
+  <main id="app" class="status">
+    <b>HUNTER ARCHIVE // LINKING</b>
+    <p>正在核对远程图鉴索引。</p>
+  </main>
+  <script>
+    const app=document.querySelector('#app');
+    const params=new URLSearchParams(location.search);
+    const requestedType=(params.get('type')||'').trim();
+    const requestedName=(params.get('name')||'').trim();
+    const escapeHtml=value=>String(value??'').replace(/[&<>"']/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
+    const normalize=value=>String(value??'').normalize('NFKC').toLowerCase().replace(/[\s·•・—_\-:："'《》【】（）()]/g,'');
+    const distance=(left,right)=>{
+      const a=[...normalize(left)],b=[...normalize(right)];
+      const row=Array.from({length:b.length+1},(_,i)=>i);
+      for(let i=1;i<=a.length;i++){
+        let previous=row[0];row[0]=i;
+        for(let j=1;j<=b.length;j++){
+          const saved=row[j];
+          row[j]=Math.min(row[j]+1,row[j-1]+1,previous+(a[i-1]===b[j-1]?0:1));
+          previous=saved;
+        }
+      }
+      return row[b.length];
+    };
+    const score=(entity,name)=>{
+      const target=normalize(name);
+      const labels=[entity.name,...(entity.aliases||[])].filter(Boolean);
+      let best=0;
+      for(const label of labels){
+        const candidate=normalize(label);
+        if(candidate===target)best=Math.max(best,100);
+        else if(candidate.includes(target)||target.includes(candidate))best=Math.max(best,82-Math.abs(candidate.length-target.length));
+        else{
+          const length=Math.max(candidate.length,target.length,1);
+          best=Math.max(best,Math.round((1-distance(candidate,target)/length)*70));
+        }
+      }
+      return best;
+    };
+    const typeKey=value=>/奥特曼|ultra/i.test(value)?'ultra':/怪兽|敌|monster|kaiju/i.test(value)?'monster':'';
+    const reportHeight=()=>parent.postMessage({source:'hunter-archive',height:document.documentElement.scrollHeight,name:requestedName},'*');
+    const showError=(title,message)=>{
+      app.className='status';
+      app.innerHTML=`<b>${escapeHtml(title)}</b><p>${escapeHtml(message)}</p>`;
+      reportHeight();
+    };
+    async function start(){
+      if(!requestedName)return showError('HUNTER ARCHIVE // NO TARGET','标记中没有可检索的规范名称。');
+      try{
+        const manifestResponse=await fetch('./manifest.json',{cache:'no-cache'});
+        if(!manifestResponse.ok)throw new Error('manifest');
+        const manifest=await manifestResponse.json();
+        const expectedType=typeKey(requestedType);
+        const ranked=Object.values(manifest.entities||{})
+          .filter(entity=>!expectedType||entity.type===expectedType)
+          .map(entity=>({entity,score:score(entity,requestedName)}))
+          .sort((a,b)=>b.score-a.score);
+        if(!ranked.length||ranked[0].score<55)return showError('HUNTER ARCHIVE // NOT FOUND',`“${requestedName}”尚未编入远程图鉴。`);
+        const entity=ranked[0].entity;
+        const profileResponse=await fetch(`./${entity.profile}`,{cache:'no-cache'});
+        if(!profileResponse.ok)throw new Error('profile');
+        const profile=await profileResponse.json();
+        const isMonster=entity.type==='monster';
+        const first=profile.first_appearance||{};
+        const sourceEntry=(profile.sources||[]).find(item=>item&&item.url)||null;
+        const source=/^原作出处见来源页面$/.test(first.work||'')
+          ?(sourceEntry?.title||'原作档案')
+          :([first.work,first.detail].filter(Boolean).join(' · ')||sourceEntry?.title||'出处待归档');
+        const sourceLink=sourceEntry
+          ?`<section class="note"><b>来源与口径</b><p><a href="${escapeHtml(sourceEntry.url)}" target="_blank" rel="noopener">查看原始百科档案</a>；“猎星评级”为本卡规则，不是官方强度分级。</p></section>`
+          :`<section class="note"><b>来源与口径</b><p>本线原创或派生形态；“猎星评级”为本卡规则，不是官方强度分级。</p></section>`;
+        const history=Array.isArray(profile.notable_history)&&profile.notable_history.length
+          ?`<section><b>代表经历</b><ul>${profile.notable_history.map(item=>`<li>${escapeHtml(item)}</li>`).join('')}</ul></section>`:'';
+        app.className=`archive ${isMonster?'monster':'ultra'}`;
+        app.innerHTML=`<details>
+          <summary>
+            <div class="media"><img src="./${escapeHtml(entity.image)}" alt="${escapeHtml(profile.name_zh||entity.name)}"><span class="signal">${isMonster?'KAIJU':'ULTRA'} FILE</span></div>
+            <div class="copy">
+              <div class="kicker">HUNTER ARCHIVE // ENTITY CONFIRMED</div>
+              <h1>${escapeHtml(profile.name_zh||entity.name)}</h1>
+              <div class="tags"><span>${isMonster?'怪兽':'奥特曼'}</span><span>${escapeHtml(profile.hunter_contract_rating||'未评级')}</span><span>${escapeHtml(source)}</span></div>
+              <p class="lead">${escapeHtml(profile.origin||profile.summary||'资料待归档。')}</p>
+              <span class="open">点击展开完整条目</span>
+            </div>
+          </summary>
+          <div class="expanded">
+            <section><b>原作资料摘要</b><p>${escapeHtml(profile.summary||profile.origin||'资料待归档。')}</p></section>
+            ${history}
+            ${sourceLink}
+            <section class="note"><b>认知边界</b><p>这是供玩家查看的原作图鉴资料，不代表当前角色已经掌握其中全部信息。</p></section>
+          </div>
+        </details>`;
+        app.querySelector('details').addEventListener('toggle',()=>setTimeout(reportHeight,0));
+        app.querySelector('img').addEventListener('load',reportHeight,{once:true});
+        reportHeight();
+      }catch(error){
+        showError('HUNTER ARCHIVE // LINK ERROR','远程资料暂时无法读取；正文与角色认知不受影响。');
+      }
+    }
+    start();
+  </script>
+</body>
+</html>

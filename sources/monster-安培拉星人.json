@@ -1,0 +1,12 @@
+{
+  "query": "Alien Empera",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Alien+Empera&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/d/d8/Alien_Empera.png/revision/latest?cb=20201013150558",
+  "page_url": "https://ultra.fandom.com/wiki/Alien_Empera",
+  "title": "Alien Empera",
+  "width": 333,
+  "height": 486,
+  "relevance": 2000,
+  "downloaded_width": 333,
+  "downloaded_height": 486
+}

@@ -1,0 +1,32 @@
+{
+  "id": "monster:0563250550",
+  "type": "monster",
+  "name_zh": "佩丹星人",
+  "name_en": "",
+  "aliases": [
+    "佩丹星人",
+    "佩丹"
+  ],
+  "image": "assets/monsters/佩丹星人/portrait.webp",
+  "image_original": "assets/monsters/佩丹星人/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "高科技宇宙文明。依靠侦察、机械兵器和精确打击控制风险。",
+  "summary": "外观特征：个体常以人形或防护装备活动；习性：依靠侦察、机械兵器和精确打击控制风险；主要攻击方式：金古桥、飞船武装、拘束装置、远程轰炸和战术封锁。",
+  "notable_history": [
+    "原作定位为高科技宇宙文明。",
+    "其典型习性为依靠侦察、机械兵器和精确打击控制风险。",
+    "常用战法包括金古桥、飞船武装、拘束装置、远程轰炸和战术封锁。"
+  ],
+  "hunter_contract_rating": "B",
+  "sources": [
+    {
+      "title": "Alien Pedan",
+      "url": "https://ultra.fandom.com/wiki/Alien_Pedan",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/e/e0/Showa_Alien_Pedan.jpg/revision/latest?cb=20170919035103"
+    }
+  ]
+}

@@ -1,0 +1,1375 @@
+[
+  {
+    "name": "初代奥特曼",
+    "aliases": [
+      "初代奥特曼",
+      "初代",
+      "早田进"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "佐菲",
+    "aliases": [
+      "佐菲"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "赛文奥特曼",
+    "aliases": [
+      "赛文奥特曼",
+      "赛文",
+      "诸星团"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "杰克奥特曼",
+    "aliases": [
+      "杰克奥特曼",
+      "杰克",
+      "乡秀树"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "艾斯奥特曼",
+    "aliases": [
+      "艾斯奥特曼",
+      "艾斯"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "泰罗奥特曼",
+    "aliases": [
+      "泰罗奥特曼",
+      "泰罗"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "雷欧奥特曼",
+    "aliases": [
+      "雷欧奥特曼",
+      "雷欧",
+      "凤源"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "阿斯特拉",
+    "aliases": [
+      "阿斯特拉"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "爱迪奥特曼",
+    "aliases": [
+      "爱迪奥特曼",
+      "爱迪",
+      "矢的猛"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "尤莉安",
+    "aliases": [
+      "尤莉安"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "迪迦奥特曼",
+    "aliases": [
+      "迪迦奥特曼",
+      "迪迦",
+      "大古"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "戴拿奥特曼",
+    "aliases": [
+      "戴拿奥特曼",
+      "戴拿",
+      "飞鸟信"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "盖亚奥特曼",
+    "aliases": [
+      "盖亚奥特曼",
+      "盖亚",
+      "高山我梦"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "阿古茹奥特曼",
+    "aliases": [
+      "阿古茹奥特曼",
+      "阿古茹",
+      "藤宫博也"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "高斯奥特曼",
+    "aliases": [
+      "高斯奥特曼",
+      "高斯",
+      "春野武藏"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "杰斯提斯奥特曼",
+    "aliases": [
+      "杰斯提斯奥特曼",
+      "杰斯提斯"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "奈克瑟斯奥特曼",
+    "aliases": [
+      "奈克瑟斯奥特曼",
+      "奈克瑟斯"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "麦克斯奥特曼",
+    "aliases": [
+      "麦克斯奥特曼",
+      "麦克斯"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "杰诺奥特曼",
+    "aliases": [
+      "杰诺奥特曼",
+      "杰诺"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "梦比优斯奥特曼",
+    "aliases": [
+      "梦比优斯奥特曼",
+      "梦比优斯",
+      "日比野未来"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "希卡利奥特曼",
+    "aliases": [
+      "希卡利奥特曼",
+      "希卡利"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "赛罗奥特曼",
+    "aliases": [
+      "赛罗奥特曼",
+      "赛罗"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "银河奥特曼",
+    "aliases": [
+      "银河奥特曼",
+      "礼堂光"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "维克特利奥特曼",
+    "aliases": [
+      "维克特利奥特曼",
+      "维克特利"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "银河维克特利",
+    "aliases": [
+      "银河维克特利"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "艾克斯奥特曼",
+    "aliases": [
+      "艾克斯奥特曼",
+      "艾克斯"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "欧布奥特曼",
+    "aliases": [
+      "欧布奥特曼",
+      "欧布",
+      "红凯"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "捷德奥特曼",
+    "aliases": [
+      "捷德奥特曼",
+      "捷德",
+      "朝仓陆"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "罗索奥特曼",
+    "aliases": [
+      "罗索奥特曼",
+      "罗索"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "布鲁奥特曼",
+    "aliases": [
+      "布鲁奥特曼",
+      "布鲁"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "格丽乔奥特曼",
+    "aliases": [
+      "格丽乔奥特曼",
+      "格丽乔"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "罗布奥特曼",
+    "aliases": [
+      "罗布奥特曼",
+      "罗布"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "泰迦奥特曼",
+    "aliases": [
+      "泰迦奥特曼",
+      "泰迦"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "泰塔斯奥特曼",
+    "aliases": [
+      "泰塔斯奥特曼",
+      "泰塔斯"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "风马奥特曼",
+    "aliases": [
+      "风马奥特曼",
+      "风马"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "泽塔奥特曼",
+    "aliases": [
+      "泽塔奥特曼",
+      "泽塔",
+      "夏川遥辉"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "特利迦奥特曼",
+    "aliases": [
+      "特利迦奥特曼",
+      "特利迦"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "德凯奥特曼",
+    "aliases": [
+      "德凯奥特曼",
+      "德凯"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "布莱泽奥特曼",
+    "aliases": [
+      "布莱泽奥特曼",
+      "布莱泽"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "亚刻奥特曼",
+    "aliases": [
+      "亚刻奥特曼",
+      "亚刻"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "奥特之王",
+    "aliases": [
+      "奥特之王"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "诺亚奥特曼",
+    "aliases": [
+      "诺亚奥特曼",
+      "诺亚"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "雷杰多奥特曼",
+    "aliases": [
+      "雷杰多奥特曼",
+      "雷杰多"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "赛迦奥特曼",
+    "aliases": [
+      "赛迦奥特曼",
+      "赛迦"
+    ],
+    "type": "ultra"
+  },
+  {
+    "name": "泰莱斯通",
+    "aliases": [
+      "泰莱斯通"
+    ],
+    "type": "monster",
+    "stages": [
+      1
+    ]
+  },
+  {
+    "name": "哥莫拉",
+    "aliases": [
+      "哥莫拉"
+    ],
+    "type": "monster",
+    "stages": [
+      1
+    ]
+  },
+  {
+    "name": "雷德王",
+    "aliases": [
+      "雷德王"
+    ],
+    "type": "monster",
+    "stages": [
+      1
+    ]
+  },
+  {
+    "name": "安东拉",
+    "aliases": [
+      "安东拉"
+    ],
+    "type": "monster",
+    "stages": [
+      1
+    ]
+  },
+  {
+    "name": "古维拉",
+    "aliases": [
+      "古维拉"
+    ],
+    "type": "monster",
+    "stages": [
+      1
+    ]
+  },
+  {
+    "name": "格斯拉",
+    "aliases": [
+      "格斯拉"
+    ],
+    "type": "monster",
+    "stages": [
+      1
+    ]
+  },
+  {
+    "name": "佩吉拉",
+    "aliases": [
+      "佩吉拉"
+    ],
+    "type": "monster",
+    "stages": [
+      1
+    ]
+  },
+  {
+    "name": "拉贡",
+    "aliases": [
+      "拉贡"
+    ],
+    "type": "monster",
+    "stages": [
+      1
+    ]
+  },
+  {
+    "name": "古敦",
+    "aliases": [
+      "古敦"
+    ],
+    "type": "monster",
+    "stages": [
+      1
+    ]
+  },
+  {
+    "name": "双尾怪",
+    "aliases": [
+      "双尾怪"
+    ],
+    "type": "monster",
+    "stages": [
+      1
+    ]
+  },
+  {
+    "name": "穆鲁奇",
+    "aliases": [
+      "穆鲁奇"
+    ],
+    "type": "monster",
+    "stages": [
+      1
+    ]
+  },
+  {
+    "name": "西利赞",
+    "aliases": [
+      "西利赞"
+    ],
+    "type": "monster",
+    "stages": [
+      1
+    ]
+  },
+  {
+    "name": "加库玛阿尔法",
+    "aliases": [
+      "加库玛阿尔法",
+      "加库玛",
+      "加库玛α"
+    ],
+    "type": "monster",
+    "stages": [
+      1
+    ]
+  },
+  {
+    "name": "加库玛贝塔",
+    "aliases": [
+      "加库玛贝塔",
+      "加库玛",
+      "加库玛β"
+    ],
+    "type": "monster",
+    "stages": [
+      1
+    ]
+  },
+  {
+    "name": "立加德隆",
+    "aliases": [
+      "立加德隆"
+    ],
+    "type": "monster",
+    "stages": [
+      1
+    ]
+  },
+  {
+    "name": "佩德隆",
+    "aliases": [
+      "佩德隆"
+    ],
+    "type": "monster",
+    "stages": [
+      1
+    ]
+  },
+  {
+    "name": "诺斯菲尔",
+    "aliases": [
+      "诺斯菲尔"
+    ],
+    "type": "monster",
+    "stages": [
+      1
+    ]
+  },
+  {
+    "name": "艾雷王",
+    "aliases": [
+      "艾雷王"
+    ],
+    "type": "monster",
+    "stages": [
+      2
+    ]
+  },
+  {
+    "name": "戈尔德拉斯",
+    "aliases": [
+      "戈尔德拉斯"
+    ],
+    "type": "monster",
+    "stages": [
+      2
+    ]
+  },
+  {
+    "name": "庞敦",
+    "aliases": [
+      "庞敦"
+    ],
+    "type": "monster",
+    "stages": [
+      2
+    ]
+  },
+  {
+    "name": "梅特龙星人",
+    "aliases": [
+      "梅特龙星人",
+      "梅特龙"
+    ],
+    "type": "monster",
+    "stages": [
+      2
+    ]
+  },
+  {
+    "name": "金古桥",
+    "aliases": [
+      "金古桥"
+    ],
+    "type": "monster",
+    "stages": [
+      2
+    ]
+  },
+  {
+    "name": "巴顿",
+    "aliases": [
+      "巴顿"
+    ],
+    "type": "monster",
+    "stages": [
+      2
+    ]
+  },
+  {
+    "name": "莱布王",
+    "aliases": [
+      "莱布王"
+    ],
+    "type": "monster",
+    "stages": [
+      2
+    ]
+  },
+  {
+    "name": "恩马戈",
+    "aliases": [
+      "恩马戈"
+    ],
+    "type": "monster",
+    "stages": [
+      2
+    ]
+  },
+  {
+    "name": "阿斯特隆",
+    "aliases": [
+      "阿斯特隆"
+    ],
+    "type": "monster",
+    "stages": [
+      2
+    ]
+  },
+  {
+    "name": "萨德拉",
+    "aliases": [
+      "萨德拉"
+    ],
+    "type": "monster",
+    "stages": [
+      2
+    ]
+  },
+  {
+    "name": "泰兰特",
+    "aliases": [
+      "泰兰特"
+    ],
+    "type": "monster",
+    "stages": [
+      2
+    ]
+  },
+  {
+    "name": "加佐特",
+    "aliases": [
+      "加佐特"
+    ],
+    "type": "monster",
+    "stages": [
+      2
+    ]
+  },
+  {
+    "name": "基里艾洛德人",
+    "aliases": [
+      "基里艾洛德人",
+      "基里艾洛德"
+    ],
+    "type": "monster",
+    "stages": [
+      2
+    ]
+  },
+  {
+    "name": "玛奇那",
+    "aliases": [
+      "玛奇那"
+    ],
+    "type": "monster",
+    "stages": [
+      2
+    ]
+  },
+  {
+    "name": "乔贝利艾",
+    "aliases": [
+      "乔贝利艾"
+    ],
+    "type": "monster",
+    "stages": [
+      2
+    ]
+  },
+  {
+    "name": "克莱美第",
+    "aliases": [
+      "克莱美第"
+    ],
+    "type": "monster",
+    "stages": [
+      2
+    ]
+  },
+  {
+    "name": "巴赞甲",
+    "aliases": [
+      "巴赞甲"
+    ],
+    "type": "monster",
+    "stages": [
+      2
+    ]
+  },
+  {
+    "name": "巴尔坦星人",
+    "aliases": [
+      "巴尔坦星人",
+      "巴尔坦"
+    ],
+    "type": "monster",
+    "stages": [
+      3
+    ]
+  },
+  {
+    "name": "扎拉布星人",
+    "aliases": [
+      "扎拉布星人",
+      "扎拉布"
+    ],
+    "type": "monster",
+    "stages": [
+      3
+    ]
+  },
+  {
+    "name": "达达",
+    "aliases": [
+      "达达"
+    ],
+    "type": "monster",
+    "stages": [
+      3
+    ]
+  },
+  {
+    "name": "美菲拉斯星人",
+    "aliases": [
+      "美菲拉斯星人",
+      "美菲拉斯"
+    ],
+    "type": "monster",
+    "stages": [
+      3
+    ]
+  },
+  {
+    "name": "佩丹星人",
+    "aliases": [
+      "佩丹星人",
+      "佩丹"
+    ],
+    "type": "monster",
+    "stages": [
+      3
+    ]
+  },
+  {
+    "name": "纳克尔星人",
+    "aliases": [
+      "纳克尔星人",
+      "纳克尔"
+    ],
+    "type": "monster",
+    "stages": [
+      3
+    ]
+  },
+  {
+    "name": "马格马星人",
+    "aliases": [
+      "马格马星人",
+      "马格马"
+    ],
+    "type": "monster",
+    "stages": [
+      3
+    ]
+  },
+  {
+    "name": "希尔巴布尔美",
+    "aliases": [
+      "希尔巴布尔美"
+    ],
+    "type": "monster",
+    "stages": [
+      3,
+      4
+    ]
+  },
+  {
+    "name": "切布尔星人",
+    "aliases": [
+      "切布尔星人",
+      "切布尔"
+    ],
+    "type": "monster",
+    "stages": [
+      3
+    ]
+  },
+  {
+    "name": "古阿军团残余",
+    "aliases": [
+      "古阿军团残余",
+      "古阿军团"
+    ],
+    "type": "monster",
+    "stages": [
+      3
+    ]
+  },
+  {
+    "name": "盖内伽古",
+    "aliases": [
+      "盖内伽古"
+    ],
+    "type": "monster",
+    "stages": [
+      3
+    ]
+  },
+  {
+    "name": "贝劳克恩",
+    "aliases": [
+      "贝劳克恩"
+    ],
+    "type": "monster",
+    "stages": [
+      4
+    ]
+  },
+  {
+    "name": "巴克西姆",
+    "aliases": [
+      "巴克西姆"
+    ],
+    "type": "monster",
+    "stages": [
+      4
+    ]
+  },
+  {
+    "name": "多拉格里",
+    "aliases": [
+      "多拉格里"
+    ],
+    "type": "monster",
+    "stages": [
+      4
+    ]
+  },
+  {
+    "name": "穆鲁罗亚",
+    "aliases": [
+      "穆鲁罗亚"
+    ],
+    "type": "monster",
+    "stages": [
+      4
+    ]
+  },
+  {
+    "name": "帝斯雷姆",
+    "aliases": [
+      "帝斯雷姆"
+    ],
+    "type": "monster",
+    "stages": [
+      4
+    ]
+  },
+  {
+    "name": "格罗扎姆",
+    "aliases": [
+      "格罗扎姆"
+    ],
+    "type": "monster",
+    "stages": [
+      4
+    ]
+  },
+  {
+    "name": "英普莱扎",
+    "aliases": [
+      "英普莱扎"
+    ],
+    "type": "monster",
+    "stages": [
+      4
+    ]
+  },
+  {
+    "name": "巴尔基星人",
+    "aliases": [
+      "巴尔基星人",
+      "巴尔基"
+    ],
+    "type": "monster",
+    "stages": [
+      4
+    ]
+  },
+  {
+    "name": "布莱克王",
+    "aliases": [
+      "布莱克王"
+    ],
+    "type": "monster",
+    "stages": [
+      4
+    ]
+  },
+  {
+    "name": "诺巴",
+    "aliases": [
+      "诺巴"
+    ],
+    "type": "monster",
+    "stages": [
+      4
+    ]
+  },
+  {
+    "name": "古兰特拉",
+    "aliases": [
+      "古兰特拉"
+    ],
+    "type": "monster",
+    "stages": [
+      4
+    ]
+  },
+  {
+    "name": "弗斯特",
+    "aliases": [
+      "弗斯特"
+    ],
+    "type": "monster",
+    "stages": [
+      4
+    ]
+  },
+  {
+    "name": "泰兰特强化体",
+    "aliases": [
+      "泰兰特强化体"
+    ],
+    "type": "monster",
+    "stages": [
+      4
+    ]
+  },
+  {
+    "name": "斯卡鲁哥莫拉",
+    "aliases": [
+      "斯卡鲁哥莫拉"
+    ],
+    "type": "monster",
+    "stages": [
+      4
+    ]
+  },
+  {
+    "name": "雷霆杀手",
+    "aliases": [
+      "雷霆杀手"
+    ],
+    "type": "monster",
+    "stages": [
+      4
+    ]
+  },
+  {
+    "name": "奇美拉柏洛斯",
+    "aliases": [
+      "奇美拉柏洛斯"
+    ],
+    "type": "monster",
+    "stages": [
+      4
+    ]
+  },
+  {
+    "name": "齐杰拉",
+    "aliases": [
+      "齐杰拉"
+    ],
+    "type": "monster",
+    "stages": [
+      5
+    ]
+  },
+  {
+    "name": "佐加",
+    "aliases": [
+      "佐加"
+    ],
+    "type": "monster",
+    "stages": [
+      5
+    ]
+  },
+  {
+    "name": "加坦杰厄",
+    "aliases": [
+      "加坦杰厄"
+    ],
+    "type": "monster",
+    "stages": [
+      5
+    ]
+  },
+  {
+    "name": "基里艾洛德二代",
+    "aliases": [
+      "基里艾洛德二代",
+      "基里艾洛德"
+    ],
+    "type": "monster",
+    "stages": [
+      5
+    ]
+  },
+  {
+    "name": "梅加洛杰厄",
+    "aliases": [
+      "梅加洛杰厄"
+    ],
+    "type": "monster",
+    "stages": [
+      5
+    ]
+  },
+  {
+    "name": "卡尔蜜拉",
+    "aliases": [
+      "卡尔蜜拉"
+    ],
+    "type": "monster",
+    "stages": [
+      5
+    ]
+  },
+  {
+    "name": "达贡",
+    "aliases": [
+      "达贡"
+    ],
+    "type": "monster",
+    "stages": [
+      5
+    ]
+  },
+  {
+    "name": "希特拉姆",
+    "aliases": [
+      "希特拉姆"
+    ],
+    "type": "monster",
+    "stages": [
+      5
+    ]
+  },
+  {
+    "name": "格里姆德",
+    "aliases": [
+      "格里姆德"
+    ],
+    "type": "monster",
+    "stages": [
+      5
+    ]
+  },
+  {
+    "name": "戈尔巴",
+    "aliases": [
+      "戈尔巴"
+    ],
+    "type": "monster",
+    "stages": [
+      5
+    ]
+  },
+  {
+    "name": "加拉特隆MK2",
+    "aliases": [
+      "加拉特隆MK2",
+      "加拉特隆"
+    ],
+    "type": "monster",
+    "stages": [
+      5
+    ]
+  },
+  {
+    "name": "玛伽巴萨",
+    "aliases": [
+      "玛伽巴萨"
+    ],
+    "type": "monster",
+    "stages": [
+      5
+    ]
+  },
+  {
+    "name": "玛伽庞敦",
+    "aliases": [
+      "玛伽庞敦"
+    ],
+    "type": "monster",
+    "stages": [
+      5
+    ]
+  },
+  {
+    "name": "斯菲亚合成兽",
+    "aliases": [
+      "斯菲亚合成兽",
+      "斯菲亚怪兽"
+    ],
+    "type": "monster",
+    "stages": [
+      6
+    ]
+  },
+  {
+    "name": "斯菲亚雷德王",
+    "aliases": [
+      "斯菲亚雷德王"
+    ],
+    "type": "monster",
+    "stages": [
+      6
+    ]
+  },
+  {
+    "name": "斯菲亚哥莫拉",
+    "aliases": [
+      "斯菲亚哥莫拉"
+    ],
+    "type": "monster",
+    "stages": [
+      6
+    ]
+  },
+  {
+    "name": "斯菲亚奇美拉",
+    "aliases": [
+      "斯菲亚奇美拉"
+    ],
+    "type": "monster",
+    "stages": [
+      6
+    ]
+  },
+  {
+    "name": "佐格第一形态",
+    "aliases": [
+      "佐格第一形态"
+    ],
+    "type": "monster",
+    "stages": [
+      6
+    ]
+  },
+  {
+    "name": "佐格第二形态",
+    "aliases": [
+      "佐格第二形态"
+    ],
+    "type": "monster",
+    "stages": [
+      6
+    ]
+  },
+  {
+    "name": "布鲁顿",
+    "aliases": [
+      "布鲁顿"
+    ],
+    "type": "monster",
+    "stages": [
+      6
+    ]
+  },
+  {
+    "name": "加恩Q",
+    "aliases": [
+      "加恩Q"
+    ],
+    "type": "monster",
+    "stages": [
+      6
+    ]
+  },
+  {
+    "name": "壬龙",
+    "aliases": [
+      "壬龙"
+    ],
+    "type": "monster",
+    "stages": [
+      6
+    ]
+  },
+  {
+    "name": "玛伽杰顿",
+    "aliases": [
+      "玛伽杰顿"
+    ],
+    "type": "monster",
+    "stages": [
+      6
+    ]
+  },
+  {
+    "name": "海帕杰顿幼体",
+    "aliases": [
+      "海帕杰顿幼体"
+    ],
+    "type": "monster",
+    "stages": [
+      6
+    ]
+  },
+  {
+    "name": "海帕杰顿",
+    "aliases": [
+      "海帕杰顿"
+    ],
+    "type": "monster",
+    "stages": [
+      6
+    ]
+  },
+  {
+    "name": "格利扎",
+    "aliases": [
+      "格利扎"
+    ],
+    "type": "monster",
+    "stages": [
+      6
+    ]
+  },
+  {
+    "name": "黑暗扎基",
+    "aliases": [
+      "黑暗扎基"
+    ],
+    "type": "monster",
+    "stages": [
+      7
+    ]
+  },
+  {
+    "name": "极恶贝利亚",
+    "aliases": [
+      "极恶贝利亚",
+      "贝利亚"
+    ],
+    "type": "monster",
+    "stages": [
+      7
+    ]
+  },
+  {
+    "name": "安培拉星人",
+    "aliases": [
+      "安培拉星人",
+      "安培拉"
+    ],
+    "type": "monster",
+    "stages": [
+      7
+    ]
+  },
+  {
+    "name": "黑暗路基艾尔",
+    "aliases": [
+      "黑暗路基艾尔"
+    ],
+    "type": "monster",
+    "stages": [
+      7
+    ]
+  },
+  {
+    "name": "阿布索留特塔尔塔洛斯",
+    "aliases": [
+      "阿布索留特塔尔塔洛斯",
+      "塔尔塔洛斯"
+    ],
+    "type": "monster",
+    "stages": [
+      7
+    ]
+  },
+  {
+    "name": "德斯特鲁多斯",
+    "aliases": [
+      "德斯特鲁多斯"
+    ],
+    "type": "monster",
+    "stages": [
+      7
+    ]
+  },
+  {
+    "name": "完全体格利扎",
+    "aliases": [
+      "完全体格利扎"
+    ],
+    "type": "monster",
+    "stages": [
+      8
+    ]
+  },
+  {
+    "name": "完全复苏黑暗扎基",
+    "aliases": [
+      "完全复苏黑暗扎基"
+    ],
+    "type": "monster",
+    "stages": [
+      8
+    ]
+  },
+  {
+    "name": "极限贝利亚力量体",
+    "aliases": [
+      "极限贝利亚力量体"
+    ],
+    "type": "monster",
+    "stages": [
+      8
+    ]
+  },
+  {
+    "name": "安培拉完全力量体",
+    "aliases": [
+      "安培拉完全力量体"
+    ],
+    "type": "monster",
+    "stages": [
+      8
+    ]
+  },
+  {
+    "name": "黑暗路基艾尔最终形态",
+    "aliases": [
+      "黑暗路基艾尔最终形态"
+    ],
+    "type": "monster",
+    "stages": [
+      8
+    ]
+  },
+  {
+    "name": "圣物失控融合体",
+    "aliases": [
+      "圣物失控融合体"
+    ],
+    "type": "monster",
+    "stages": [
+      8
+    ]
+  }
+]

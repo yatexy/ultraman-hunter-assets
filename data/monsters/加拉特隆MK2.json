@@ -1,0 +1,32 @@
+{
+  "id": "monster:e80fd368ac",
+  "type": "monster",
+  "name_zh": "加拉特隆MK2",
+  "name_en": "",
+  "aliases": [
+    "加拉特隆MK2",
+    "加拉特隆"
+  ],
+  "image": "assets/monsters/加拉特隆MK2/portrait.webp",
+  "image_original": "assets/monsters/加拉特隆MK2/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "审判型机械兵器。按僵化的秩序逻辑消灭被判定为威胁的文明。",
+  "summary": "外观特征：白银重甲、龙形头部、巨大斧枪与多炮口；习性：按僵化的秩序逻辑消灭被判定为威胁的文明；主要攻击方式：加拉特隆之斧、光线、屏障、拘束环和重装格斗。",
+  "notable_history": [
+    "原作定位为审判型机械兵器。",
+    "其典型习性为按僵化的秩序逻辑消灭被判定为威胁的文明。",
+    "常用战法包括加拉特隆之斧、光线、屏障、拘束环和重装格斗。"
+  ],
+  "hunter_contract_rating": "A",
+  "sources": [
+    {
+      "title": "Galactron",
+      "url": "https://ultra.fandom.com/wiki/Galactron",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/b/bb/Galaccc.png/revision/latest?cb=20191106023408"
+    }
+  ]
+}

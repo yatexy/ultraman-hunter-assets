@@ -1,0 +1,31 @@
+{
+  "id": "monster:4b5c64d635",
+  "type": "monster",
+  "name_zh": "希尔巴布尔美",
+  "name_en": "",
+  "aliases": [
+    "希尔巴布尔美"
+  ],
+  "image": "assets/monsters/希尔巴布尔美/portrait.webp",
+  "image_original": "assets/monsters/希尔巴布尔美/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "圆盘生物。服从布莱克指令时执行潜伏与城市破坏。",
+  "summary": "外观特征：银色飞碟与生物组织结合，可转化巨大怪兽形态；习性：服从布莱克指令时执行潜伏与城市破坏；主要攻击方式：飞行撞击、触手、光线、形态转换和压缩潜伏。",
+  "notable_history": [
+    "原作定位为圆盘生物。",
+    "其典型习性为服从布莱克指令时执行潜伏与城市破坏。",
+    "常用战法包括飞行撞击、触手、光线、形态转换和压缩潜伏。"
+  ],
+  "hunter_contract_rating": "B-",
+  "sources": [
+    {
+      "title": "Silverbloome",
+      "url": "https://ultra.fandom.com/wiki/Silverbloome",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/e/e1/Silverbloome_HD.png/revision/latest?cb=20240902120515"
+    }
+  ]
+}

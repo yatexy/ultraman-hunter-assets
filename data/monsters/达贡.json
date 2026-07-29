@@ -1,0 +1,31 @@
+{
+  "id": "monster:ddc5427b14",
+  "type": "monster",
+  "name_zh": "达贡",
+  "name_en": "",
+  "aliases": [
+    "达贡"
+  ],
+  "image": "assets/monsters/达贡/portrait.webp",
+  "image_original": "assets/monsters/达贡/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "刚力斗士、黑暗巨人。重视正面对决与强者，行为比其他黑暗巨人直接。",
+  "summary": "外观特征：红黑重装巨人、宽厚肩甲和力量型躯体；习性：重视正面对决与强者，行为比其他黑暗巨人直接；主要攻击方式：怪力拳击、投技、冲击波、防御和近身压制。",
+  "notable_history": [
+    "原作定位为刚力斗士、黑暗巨人。",
+    "其典型习性为重视正面对决与强者，行为比其他黑暗巨人直接。",
+    "常用战法包括怪力拳击、投技、冲击波、防御和近身压制。"
+  ],
+  "hunter_contract_rating": "A",
+  "sources": [
+    {
+      "title": "Darrgon",
+      "url": "https://ultra.fandom.com/wiki/Darrgon",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/9/9e/Darrgon_render_4.png/revision/latest?cb=20230723072132"
+    }
+  ]
+}

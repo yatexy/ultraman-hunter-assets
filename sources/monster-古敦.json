@@ -1,0 +1,12 @@
+{
+  "query": "Gudon",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Gudon&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/e/e9/Gudon-removebg.png/revision/latest?cb=20220805054019",
+  "page_url": "https://ultra.fandom.com/wiki/Gudon",
+  "title": "Gudon",
+  "width": 498,
+  "height": 501,
+  "relevance": 2000,
+  "downloaded_width": 498,
+  "downloaded_height": 501
+}

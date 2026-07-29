@@ -1,0 +1,31 @@
+{
+  "id": "monster:cff2a4aa5a",
+  "type": "monster",
+  "name_zh": "壬龙",
+  "name_en": "",
+  "aliases": [
+    "壬龙"
+  ],
+  "image": "assets/monsters/壬龙/portrait.webp",
+  "image_original": "assets/monsters/壬龙/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "地帝大怪兽、地球怪兽。代表地脉与自然意志，对破坏地球平衡的行为作出反应。",
+  "summary": "外观特征：东方龙与多首结构结合，躯体庞大；习性：代表地脉与自然意志，对破坏地球平衡的行为作出反应；主要攻击方式：水流、能量光线、多首攻击、地脉控制和屏障。",
+  "notable_history": [
+    "原作定位为地帝大怪兽、地球怪兽。",
+    "其典型习性为代表地脉与自然意志，对破坏地球平衡的行为作出反应。",
+    "常用战法包括水流、能量光线、多首攻击、地脉控制和屏障。"
+  ],
+  "hunter_contract_rating": "A",
+  "sources": [
+    {
+      "title": "Mizunoeno Dragon",
+      "url": "https://ultra.fandom.com/wiki/Mizunoeno_Dragon",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/4/48/Mizunoeno_Dragon_Info.png/revision/latest?cb=20200928011407"
+    }
+  ]
+}

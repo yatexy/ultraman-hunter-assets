@@ -1,0 +1,12 @@
+{
+  "query": "Inpelaizer",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Inpelaizer&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/e/ea/Inpelaizer.png/revision/latest?cb=20190602020902",
+  "page_url": "https://ultra.fandom.com/wiki/Inpelaizer",
+  "title": "Inpelaizer",
+  "width": 355,
+  "height": 469,
+  "relevance": 2000,
+  "downloaded_width": 355,
+  "downloaded_height": 469
+}

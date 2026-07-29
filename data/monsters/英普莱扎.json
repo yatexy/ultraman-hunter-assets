@@ -1,0 +1,31 @@
+{
+  "id": "monster:b3d1a79cdf",
+  "type": "monster",
+  "name_zh": "英普莱扎",
+  "name_en": "",
+  "aliases": [
+    "英普莱扎"
+  ],
+  "image": "assets/monsters/英普莱扎/portrait.webp",
+  "image_original": "assets/monsters/英普莱扎/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "无双铁神、安培拉军团机械兵器。按歼灭程序推进，不受疼痛和恐惧影响。",
+  "summary": "外观特征：黑金重装机器人、头部三联炮与肩部炮门；习性：按歼灭程序推进，不受疼痛和恐惧影响；主要攻击方式：三联加特林光线、肩炮、瞬移、自我修复和怪力。",
+  "notable_history": [
+    "原作定位为无双铁神、安培拉军团机械兵器。",
+    "其典型习性为按歼灭程序推进，不受疼痛和恐惧影响。",
+    "常用战法包括三联加特林光线、肩炮、瞬移、自我修复和怪力。"
+  ],
+  "hunter_contract_rating": "A",
+  "sources": [
+    {
+      "title": "Inpelaizer",
+      "url": "https://ultra.fandom.com/wiki/Inpelaizer",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/e/ea/Inpelaizer.png/revision/latest?cb=20190602020902"
+    }
+  ]
+}

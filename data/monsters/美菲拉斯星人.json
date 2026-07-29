@@ -1,0 +1,32 @@
+{
+  "id": "monster:7cff9ca76d",
+  "type": "monster",
+  "name_zh": "美菲拉斯星人",
+  "name_en": "",
+  "aliases": [
+    "美菲拉斯星人",
+    "美菲拉斯"
+  ],
+  "image": "assets/monsters/美菲拉斯星人/portrait.webp",
+  "image_original": "assets/monsters/美菲拉斯星人/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "恶质宇宙人。偏好通过交易、诱导和自愿屈服证明统治正当性。",
+  "summary": "外观特征：黑色人形、白色脸部、肩部尖角；习性：偏好通过交易、诱导和自愿屈服证明统治正当性；主要攻击方式：高能光线、念力、瞬移、巨大化和心理博弈。",
+  "notable_history": [
+    "原作定位为恶质宇宙人。",
+    "其典型习性为偏好通过交易、诱导和自愿屈服证明统治正当性。",
+    "常用战法包括高能光线、念力、瞬移、巨大化和心理博弈。"
+  ],
+  "hunter_contract_rating": "B-",
+  "sources": [
+    {
+      "title": "Alien Mefilas",
+      "url": "https://ultra.fandom.com/wiki/Alien_Mefilas",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/3/32/Alien_Mephilas.png/revision/latest?cb=20191004004725"
+    }
+  ]
+}

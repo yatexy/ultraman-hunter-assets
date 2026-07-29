@@ -1,0 +1,12 @@
+{
+  "query": "Goldras",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Goldras&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/7/7c/Goldras_Info.png/revision/latest?cb=20210824200435",
+  "page_url": "https://ultra.fandom.com/wiki/Goldras",
+  "title": "Goldras",
+  "width": 1319,
+  "height": 2076,
+  "relevance": 2000,
+  "downloaded_width": 1144,
+  "downloaded_height": 1800
+}

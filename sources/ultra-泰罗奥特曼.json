@@ -1,0 +1,12 @@
+{
+  "query": "Ultraman Taro",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&generator=search&gsrsearch=Ultraman+Taro&gsrlimit=4&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/3/39/Taro_Info.png/revision/latest?cb=20200217011355",
+  "page_url": "https://ultra.fandom.com/wiki/Ultraman_Taro_(character)",
+  "title": "Ultraman Taro (character)",
+  "width": 1109,
+  "height": 2800,
+  "relevance": 999,
+  "downloaded_width": 713,
+  "downloaded_height": 1800
+}

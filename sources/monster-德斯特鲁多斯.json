@@ -1,0 +1,12 @@
+{
+  "query": "Destrudos",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Destrudos&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/5/59/UltroidZeroPoseRender.png/revision/latest?cb=20221128033817",
+  "page_url": "https://ultra.fandom.com/wiki/Ultroid_Zero",
+  "title": "Ultroid Zero",
+  "width": 1071,
+  "height": 1863,
+  "relevance": 2000,
+  "downloaded_width": 1035,
+  "downloaded_height": 1800
+}

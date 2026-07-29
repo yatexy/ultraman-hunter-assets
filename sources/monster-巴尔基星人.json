@@ -1,0 +1,12 @@
+{
+  "query": "Alien Valky",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Alien+Valky&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/5/57/Alien_Valky.png/revision/latest?cb=20251008005750",
+  "page_url": "https://ultra.fandom.com/wiki/Alien_Valky",
+  "title": "Alien Valky",
+  "width": 311,
+  "height": 481,
+  "relevance": 2000,
+  "downloaded_width": 311,
+  "downloaded_height": 481
+}

@@ -1,0 +1,31 @@
+{
+  "id": "monster:fbcb7cf8fd",
+  "type": "monster",
+  "name_zh": "佐格第二形态",
+  "name_en": "",
+  "aliases": [
+    "佐格第二形态"
+  ],
+  "image": "assets/monsters/佐格第二形态/portrait.webp",
+  "image_original": "assets/monsters/佐格第二形态/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "根源破灭招来体战斗形态。伪装失效后以压倒性破坏消灭抵抗。",
+  "summary": "外观特征：超巨大龙兽、角、翼与黑白相间重甲；习性：伪装失效后以压倒性破坏消灭抵抗；主要攻击方式：高能光线、巨体冲撞、飞行、怪力和广域能量。",
+  "notable_history": [
+    "原作定位为根源破灭招来体战斗形态。",
+    "其典型习性为伪装失效后以压倒性破坏消灭抵抗。",
+    "常用战法包括高能光线、巨体冲撞、飞行、怪力和广域能量。"
+  ],
+  "hunter_contract_rating": "A+",
+  "sources": [
+    {
+      "title": "Zog",
+      "url": "https://ultra.fandom.com/wiki/Zog",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/f/fb/Zog1stForm.png/revision/latest?cb=20220120140547"
+    }
+  ]
+}

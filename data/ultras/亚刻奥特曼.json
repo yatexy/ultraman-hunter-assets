@@ -1,0 +1,32 @@
+{
+  "id": "ultra:5c3e5cf22b",
+  "type": "ultra",
+  "name_zh": "亚刻奥特曼",
+  "name_en": "",
+  "aliases": [
+    "亚刻奥特曼",
+    "亚刻"
+  ],
+  "image": "assets/ultras/亚刻奥特曼/portrait.webp",
+  "image_original": "assets/ultras/亚刻奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "与飞世优马及怪兽防灾科学调查所相关的光之战士。",
+  "summary": "主要能力：亚刻终结光线、想象力构筑、月神与太阳装甲、银河装甲。；战斗特点：通过调查、理解与想象力构筑具体战术工具。。",
+  "notable_history": [
+    "与飞世优马及怪兽防灾科学调查所相关的光之战士。",
+    "主要能力包括亚刻终结光线、想象力构筑、月神与太阳装甲、银河装甲。。",
+    "战斗特点为通过调查、理解与想象力构筑具体战术工具。。"
+  ],
+  "hunter_contract_rating": "未评级",
+  "sources": [
+    {
+      "title": "Ultraman Arc (character)",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Arc_(character)",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/5/55/Ultraman_Arc_Render.png/revision/latest?cb=20240404223711"
+    }
+  ]
+}

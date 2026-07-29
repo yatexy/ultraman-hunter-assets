@@ -1,0 +1,31 @@
+{
+  "id": "monster:b46ab7d361",
+  "type": "monster",
+  "name_zh": "穆鲁奇",
+  "name_en": "",
+  "aliases": [
+    "穆鲁奇"
+  ],
+  "image": "assets/monsters/穆鲁奇/portrait.webp",
+  "image_original": "assets/monsters/穆鲁奇/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "鱼怪兽。栖息河流与近海，封印或环境变化会促使其上岸。",
+  "summary": "外观特征：鱼类头部、鳍、鳞片与直立巨大躯体；习性：栖息河流与近海，封印或环境变化会促使其上岸；主要攻击方式：水中突袭、爪击、咬合、尾扫和高热光线。",
+  "notable_history": [
+    "原作定位为鱼怪兽。",
+    "其典型习性为栖息河流与近海，封印或环境变化会促使其上岸。",
+    "常用战法包括水中突袭、爪击、咬合、尾扫和高热光线。"
+  ],
+  "hunter_contract_rating": "D",
+  "sources": [
+    {
+      "title": "Muruchi",
+      "url": "https://ultra.fandom.com/wiki/Muruchi",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/3/31/Muruchi.png/revision/latest?cb=20150930103431"
+    }
+  ]
+}

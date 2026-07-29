@@ -1,0 +1,32 @@
+{
+  "id": "ultra:a5c32bb414",
+  "type": "ultra",
+  "name_zh": "杰斯提斯奥特曼",
+  "name_en": "",
+  "aliases": [
+    "杰斯提斯奥特曼",
+    "杰斯提斯"
+  ],
+  "image": "assets/ultras/杰斯提斯奥特曼/portrait.webp",
+  "image_original": "assets/ultras/杰斯提斯奥特曼/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "德拉西翁体系执行者，与朱莉结合。",
+  "summary": "主要能力：维克特利姆光线、达格流姆光线、格斗与宇宙秩序判断。；战斗特点：以文明存续风险和宇宙秩序为判断尺度。。",
+  "notable_history": [
+    "德拉西翁体系执行者，与朱莉结合。",
+    "主要能力包括维克特利姆光线、达格流姆光线、格斗与宇宙秩序判断。。",
+    "战斗特点为以文明存续风险和宇宙秩序为判断尺度。。"
+  ],
+  "hunter_contract_rating": "未评级",
+  "sources": [
+    {
+      "title": "Ultraman Justice",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Justice",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/0/00/Justice_Info.png/revision/latest?cb=20191226050041"
+    }
+  ]
+}

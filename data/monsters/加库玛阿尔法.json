@@ -1,0 +1,33 @@
+{
+  "id": "monster:215f039639",
+  "type": "monster",
+  "name_zh": "加库玛阿尔法",
+  "name_en": "",
+  "aliases": [
+    "加库玛阿尔法",
+    "加库玛",
+    "加库玛α"
+  ],
+  "image": "assets/monsters/加库玛阿尔法/portrait.webp",
+  "image_original": "assets/monsters/加库玛阿尔法/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "矿区地底怪兽。以岩石为食，把采矿活动视为资源侵占。",
+  "summary": "外观特征：四足重甲、头部双角、岩石质感皮肤；习性：以岩石为食，把采矿活动视为资源侵占；主要攻击方式：石化光线、角撞、掘进和重体冲击。",
+  "notable_history": [
+    "原作定位为矿区地底怪兽。",
+    "其典型习性为以岩石为食，把采矿活动视为资源侵占。",
+    "常用战法包括石化光线、角撞、掘进和重体冲击。"
+  ],
+  "hunter_contract_rating": "D",
+  "sources": [
+    {
+      "title": "Gakuma",
+      "url": "https://ultra.fandom.com/wiki/Gakuma",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/4/47/Gakuma_HD_21.png/revision/latest?cb=20240914101339"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "monster:77d81c9223",
+  "type": "monster",
+  "name_zh": "达达",
+  "name_en": "",
+  "aliases": [
+    "达达"
+  ],
+  "image": "assets/monsters/达达/portrait.webp",
+  "image_original": "assets/monsters/达达/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "三面怪人。收集人类和生物样本，重视实验价值高于伦理。",
+  "summary": "外观特征：黑白几何纹路、可切换三种面孔；习性：收集人类和生物样本，重视实验价值高于伦理；主要攻击方式：缩小枪、瞬移、形态切换、光线和巨大化格斗。",
+  "notable_history": [
+    "原作定位为三面怪人。",
+    "其典型习性为收集人类和生物样本，重视实验价值高于伦理。",
+    "常用战法包括缩小枪、瞬移、形态切换、光线和巨大化格斗。"
+  ],
+  "hunter_contract_rating": "C+",
+  "sources": [
+    {
+      "title": "Dada",
+      "url": "https://ultra.fandom.com/wiki/Dada",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/9/98/Dada_Movie_%282%29.png/revision/latest?cb=20200312034206"
+    }
+  ]
+}

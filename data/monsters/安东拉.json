@@ -1,0 +1,31 @@
+{
+  "id": "monster:af024f8f3e",
+  "type": "monster",
+  "name_zh": "安东拉",
+  "name_en": "",
+  "aliases": [
+    "安东拉"
+  ],
+  "image": "assets/monsters/安东拉/portrait.webp",
+  "image_original": "assets/monsters/安东拉/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "磁力怪兽。潜伏沙地与地下，利用磁力捕捉金属目标。",
+  "summary": "外观特征：蚁狮式头部、巨大颚钳、甲虫状厚甲；习性：潜伏沙地与地下，利用磁力捕捉金属目标；主要攻击方式：磁力光线、颚钳夹击、钻地伏击和身体撞击。",
+  "notable_history": [
+    "原作定位为磁力怪兽。",
+    "其典型习性为潜伏沙地与地下，利用磁力捕捉金属目标。",
+    "常用战法包括磁力光线、颚钳夹击、钻地伏击和身体撞击。"
+  ],
+  "hunter_contract_rating": "D",
+  "sources": [
+    {
+      "title": "Antlar",
+      "url": "https://ultra.fandom.com/wiki/Antlar",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/a/af/Antlar_movie_I.png/revision/latest?cb=20200803043734"
+    }
+  ]
+}

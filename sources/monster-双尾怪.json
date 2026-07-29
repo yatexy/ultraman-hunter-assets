@@ -1,0 +1,12 @@
+{
+  "query": "Twin Tail",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Twin+Tail&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/8/87/Twin_Tail_movie.png/revision/latest?cb=20251118190651",
+  "page_url": "https://ultra.fandom.com/wiki/Twin_Tail",
+  "title": "Twin Tail",
+  "width": 399,
+  "height": 585,
+  "relevance": 2000,
+  "downloaded_width": 399,
+  "downloaded_height": 585
+}

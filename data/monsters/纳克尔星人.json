@@ -1,0 +1,32 @@
+{
+  "id": "monster:5376a60c14",
+  "type": "monster",
+  "name_zh": "纳克尔星人",
+  "name_en": "",
+  "aliases": [
+    "纳克尔星人",
+    "纳克尔"
+  ],
+  "image": "assets/monsters/纳克尔星人/portrait.webp",
+  "image_original": "assets/monsters/纳克尔星人/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "暗杀宇宙人。先研究目标弱点，再以人质、怪兽和伏击摧毁心理与战力。",
+  "summary": "外观特征：暗色甲胄、突出头冠与人形战斗体；习性：先研究目标弱点，再以人质、怪兽和伏击摧毁心理与战力；主要攻击方式：光线、格斗、拟态、战斗怪兽协同和陷阱。",
+  "notable_history": [
+    "原作定位为暗杀宇宙人。",
+    "其典型习性为先研究目标弱点，再以人质、怪兽和伏击摧毁心理与战力。",
+    "常用战法包括光线、格斗、拟态、战斗怪兽协同和陷阱。"
+  ],
+  "hunter_contract_rating": "B-",
+  "sources": [
+    {
+      "title": "Alien Nackle",
+      "url": "https://ultra.fandom.com/wiki/Alien_Nackle",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/d/df/Alien_Nackle_Old.png/revision/latest?cb=20230731051625"
+    }
+  ]
+}

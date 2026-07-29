@@ -1,0 +1,31 @@
+{
+  "id": "monster:889edc776e",
+  "type": "monster",
+  "name_zh": "巴赞甲",
+  "name_en": "",
+  "aliases": [
+    "巴赞甲"
+  ],
+  "image": "assets/monsters/巴赞甲/portrait.webp",
+  "image_original": "assets/monsters/巴赞甲/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "宇宙甲壳怪兽。高攻击性，进入城市后会连续寻找可破坏目标。",
+  "summary": "外观特征：蓝色重甲、巨大肩甲、双臂炮口状器官；习性：高攻击性，进入城市后会连续寻找可破坏目标；主要攻击方式：双臂能量弹、装甲冲撞、近身重击和范围轰炸。",
+  "notable_history": [
+    "原作定位为宇宙甲壳怪兽。",
+    "其典型习性为高攻击性，进入城市后会连续寻找可破坏目标。",
+    "常用战法包括双臂能量弹、装甲冲撞、近身重击和范围轰炸。"
+  ],
+  "hunter_contract_rating": "C+",
+  "sources": [
+    {
+      "title": "Bazanga",
+      "url": "https://ultra.fandom.com/wiki/Bazanga",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/e/e1/Bazanga.png/revision/latest?cb=20230709064008"
+    }
+  ]
+}

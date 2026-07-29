@@ -1,0 +1,12 @@
+{
+  "query": "Kyrieloid",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Kyrieloid&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/9/97/Kyrieloid_Data.png/revision/latest?cb=20210712055323",
+  "page_url": "https://ultra.fandom.com/wiki/Kyrieloid",
+  "title": "Kyrieloid",
+  "width": 1142,
+  "height": 2048,
+  "relevance": 2000,
+  "downloaded_width": 1004,
+  "downloaded_height": 1800
+}

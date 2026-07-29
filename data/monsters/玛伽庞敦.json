@@ -1,0 +1,31 @@
+{
+  "id": "monster:b1a4a61510",
+  "type": "monster",
+  "name_zh": "玛伽庞敦",
+  "name_en": "",
+  "aliases": [
+    "玛伽庞敦"
+  ],
+  "image": "assets/monsters/玛伽庞敦/portrait.webp",
+  "image_original": "assets/monsters/玛伽庞敦/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "火之魔王兽。维持高热领域，主动烧毁接近者和城市设施。",
+  "summary": "外观特征：双头红色巨鸟、火焰体表和翼状上肢；习性：维持高热领域，主动烧毁接近者和城市设施；主要攻击方式：高热火球、持续火焰、飞行、啄击和热浪屏障。",
+  "notable_history": [
+    "原作定位为火之魔王兽。",
+    "其典型习性为维持高热领域，主动烧毁接近者和城市设施。",
+    "常用战法包括高热火球、持续火焰、飞行、啄击和热浪屏障。"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": [
+    {
+      "title": "Pandon",
+      "url": "https://ultra.fandom.com/wiki/Pandon",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/2/2e/Pandon_fll.png/revision/latest?cb=20191126001436"
+    }
+  ]
+}

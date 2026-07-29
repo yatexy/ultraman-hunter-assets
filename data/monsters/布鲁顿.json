@@ -1,0 +1,31 @@
+{
+  "id": "monster:2517afcd41",
+  "type": "monster",
+  "name_zh": "布鲁顿",
+  "name_en": "",
+  "aliases": [
+    "布鲁顿"
+  ],
+  "image": "assets/monsters/布鲁顿/portrait.webp",
+  "image_original": "assets/monsters/布鲁顿/portrait.png",
+  "first_appearance": {
+    "work": "原作出处见来源页面",
+    "detail": "",
+    "year": null
+  },
+  "origin": "四次元怪兽。行为不遵守三维生物逻辑，会让空间与物体关系错位。",
+  "summary": "外观特征：红蓝不规则球体、多个天线与孔洞；习性：行为不遵守三维生物逻辑，会让空间与物体关系错位；主要攻击方式：空间扭曲、瞬移、重力变化、目标转移和四次元封锁。",
+  "notable_history": [
+    "原作定位为四次元怪兽。",
+    "其典型习性为行为不遵守三维生物逻辑，会让空间与物体关系错位。",
+    "常用战法包括空间扭曲、瞬移、重力变化、目标转移和四次元封锁。"
+  ],
+  "hunter_contract_rating": "A",
+  "sources": [
+    {
+      "title": "Bullton",
+      "url": "https://ultra.fandom.com/wiki/Bullton",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/2/23/Reiwa_Bullton.png/revision/latest?cb=20200620071103"
+    }
+  ]
+}

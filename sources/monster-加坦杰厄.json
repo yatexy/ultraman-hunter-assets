@@ -1,0 +1,12 @@
+{
+  "query": "Gatanothor",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&redirects=1&titles=Gatanothor&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/a/a8/GatanothorInfo.png/revision/latest?cb=20191023012337",
+  "page_url": "https://ultra.fandom.com/wiki/Gatanothor",
+  "title": "Gatanothor",
+  "width": 634,
+  "height": 477,
+  "relevance": 2000,
+  "downloaded_width": 634,
+  "downloaded_height": 477
+}

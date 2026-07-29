@@ -1,0 +1,12 @@
+{
+  "query": "Ultraman Fuma",
+  "search_url": "https://ultra.fandom.com/api.php?action=query&format=json&formatversion=2&generator=search&gsrsearch=Ultraman+Fuma&gsrlimit=4&prop=pageimages%7Cinfo&piprop=original&inprop=url",
+  "image_url": "https://static.wikia.nocookie.net/ultra/images/8/82/Ultraman_Fuma_Info.png/revision/latest?cb=20191225212608",
+  "page_url": "https://ultra.fandom.com/wiki/Ultraman_Fuma",
+  "title": "Ultraman Fuma",
+  "width": 356,
+  "height": 886,
+  "relevance": 999,
+  "downloaded_width": 356,
+  "downloaded_height": 886
+}
