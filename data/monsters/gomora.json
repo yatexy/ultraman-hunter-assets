@@ -1,0 +1,29 @@
+{
+  "id": "monster:gomora",
+  "type": "monster",
+  "name_zh": "哥莫拉",
+  "name_en": "Gomora",
+  "aliases": ["古代怪兽哥莫拉", "哥莫拉", "Gomora"],
+  "image": "assets/monsters/gomora/portrait.webp",
+  "image_original": "assets/monsters/gomora/portrait.png",
+  "first_appearance": {
+    "work": "《奥特曼》",
+    "detail": "第26话《怪兽殿下 前篇》",
+    "year": 1967
+  },
+  "origin": "沉睡于地球的古代怪兽种族，通常依靠角、尾部、体格与掘进能力作战。",
+  "summary": "初代哥莫拉从约翰逊岛被人类捕获并试图运往万国博览会，运输事故使其坠落并在城市中暴走。后续作品中出现过许多个体，其中雷所操纵的哥莫拉从单纯怪兽成长为可靠伙伴，令这一种族同时拥有野生威胁与并肩作战两种代表形象。",
+  "notable_history": [
+    "初次登场时因人类捕获和运输事故进入城市，与初代奥特曼激战。",
+    "雷的哥莫拉作为战斗仪伙伴参与雷奥尼克斯之战，并与奥特战士合作。",
+    "EX哥莫拉、机械哥莫拉和斯菲亚哥莫拉属于独立强化或改造个体。"
+  ],
+  "hunter_contract_rating": "D（普通个体）",
+  "sources": [
+    {
+      "title": "Ultraman Wiki - Gomora",
+      "url": "https://ultra.fandom.com/wiki/Gomora",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/b/bd/Gomora.png/revision/latest?cb=20201021042313"
+    }
+  ]
+}

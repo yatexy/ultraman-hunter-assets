@@ -1,0 +1,29 @@
+{
+  "id": "ultra:ultraman-zero",
+  "type": "ultra",
+  "name_zh": "赛罗奥特曼",
+  "name_en": "Ultraman Zero",
+  "aliases": ["赛罗", "赛罗奥特曼", "赛文之子", "Ultraman Zero"],
+  "image": "assets/ultras/ultraman-zero/portrait.webp",
+  "image_original": "assets/ultras/ultraman-zero/portrait.png",
+  "first_appearance": {
+    "work": "《大怪兽格斗 超银河传说 THE MOVIE》",
+    "detail": "电影初登场",
+    "year": 2009
+  },
+  "origin": "赛文奥特曼之子，因试图触碰等离子火花而被逐出光之国，随后接受雷欧训练。",
+  "summary": "赛罗在雷欧的严苛训练中完成成长，并于怪兽墓场决战中击败贝利亚。此后他跨越多个宇宙持续追踪贝利亚势力，组建终极赛罗警备队，也在与人类宿主和同伴并肩作战的过程中学会承担责任。",
+  "notable_history": [
+    "因触碰等离子火花的过失被放逐，在雷欧训练下重建战士资格。",
+    "于怪兽墓场救援光之国并击败贝利亚，正式得到父亲赛文认可。",
+    "获得帕拉吉之盾后展开跨宇宙行动，多次处理贝利亚及其遗留危机。"
+  ],
+  "hunter_contract_rating": "常态A／究极A+／光辉S／无限A+",
+  "sources": [
+    {
+      "title": "Ultraman Wiki - Ultraman Zero",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Zero",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/3/33/Zero_profil_I.png/revision/latest?cb=20200720071455"
+    }
+  ]
+}

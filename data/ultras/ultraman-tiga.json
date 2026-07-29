@@ -1,0 +1,29 @@
+{
+  "id": "ultra:ultraman-tiga",
+  "type": "ultra",
+  "name_zh": "迪迦奥特曼",
+  "name_en": "Ultraman Tiga",
+  "aliases": ["迪迦", "迪迦奥特曼", "真角大古", "Ultraman Tiga"],
+  "image": "assets/ultras/ultraman-tiga/portrait.webp",
+  "image_original": "assets/ultras/ultraman-tiga/portrait.png",
+  "first_appearance": {
+    "work": "《迪迦奥特曼》",
+    "detail": "第1话《光的继承者》",
+    "year": 1996
+  },
+  "origin": "三千万年前守护地球的超古代光之巨人，在现代由真角大古与石像结合后苏醒。",
+  "summary": "迪迦曾属于超古代巨人群体，后来选择光并留下石像。现代的大古继承其力量，以复合型、强力型和空中型应对不同敌人；最终面对加坦杰厄时，世界各地孩子化作的光使他成为闪耀迪迦并完成决战。",
+  "notable_history": [
+    "与真角大古结合后复苏，和GUTS共同处理超古代与宇宙威胁。",
+    "通过三种基础形态切换解决速度、力量和综合战斗需求。",
+    "在加坦杰厄危机中得到人类之光，短暂成为闪耀迪迦。"
+  ],
+  "hunter_contract_rating": "复合型B／强力型C+／空中型C+／闪耀A+",
+  "sources": [
+    {
+      "title": "Ultraman Wiki - Ultraman Tiga",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Tiga_(character)",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/3/38/UltramanTiga.png/revision/latest?cb=20220104172825"
+    }
+  ]
+}

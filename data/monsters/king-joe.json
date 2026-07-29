@@ -1,0 +1,29 @@
+{
+  "id": "monster:king-joe",
+  "type": "monster",
+  "name_zh": "金古桥",
+  "name_en": "King Joe",
+  "aliases": ["宇宙机器人金古桥", "金古桥", "King Joe"],
+  "image": "assets/monsters/king-joe/portrait.webp",
+  "image_original": "assets/monsters/king-joe/portrait.png",
+  "first_appearance": {
+    "work": "《赛文奥特曼》",
+    "detail": "第14—15话《奥特警备队向西部进发》",
+    "year": 1968
+  },
+  "origin": "佩丹星人制造的超级机器人，可分离为多架飞行单元后重新合体。",
+  "summary": "初代金古桥随佩丹星人的侵略计划抵达地球，以坚固装甲和怪力压制赛文，最终被人类研发的莱顿R30炸弹摧毁。后续作品中出现过量产型、黑色改造型和地球防卫队改装机等版本，使它从侵略兵器逐渐扩展为可被不同阵营使用的机械平台。",
+  "notable_history": [
+    "首次登场时展现出赛文常规攻击难以突破的装甲与压制力。",
+    "其分离合体结构可用于长距离移动、突袭和规避部分攻击。",
+    "后续型号包括金古桥黑、量产机及STORAGE改装的金古桥军械库定制。"
+  ],
+  "hunter_contract_rating": "B",
+  "sources": [
+    {
+      "title": "Ultraman Wiki - King Joe",
+      "url": "https://ultra.fandom.com/wiki/King_Joe",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/0/0c/Ultraseven_King_Joe_render.png/revision/latest?cb=20210912181515"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "monster:alien-baltan",
+  "type": "monster",
+  "name_zh": "巴尔坦星人",
+  "name_en": "Alien Baltan",
+  "aliases": ["宇宙忍者巴尔坦星人", "巴尔坦", "巴尔坦星人", "Alien Baltan"],
+  "image": "assets/monsters/alien-baltan/portrait.webp",
+  "image_original": "assets/monsters/alien-baltan/portrait.png",
+  "first_appearance": {
+    "work": "《奥特曼》",
+    "detail": "第2话《打击侵略者》",
+    "year": 1966
+  },
+  "origin": "来自巴尔坦星的宇宙人族群，以巨大钳手、分身、瞬移和特殊科技闻名。",
+  "summary": "最初登场的巴尔坦星人因母星毁灭而带着缩小化族群寻找新居所，并与地球一方发生谈判和冲突。此后不同作品出现过多个立场、世代和分支个体，既有执着复仇与侵略者，也存在尝试和平共处的巴尔坦族群。",
+  "notable_history": [
+    "第一代携带大量缩小化同胞抵达地球，最终与初代奥特曼交战。",
+    "后续世代多次针对奥特曼制定战术，并发展出分身、隐身和改造技术。",
+    "不同作品的巴尔坦并非同一个体，动机与道德立场不能一概而论。"
+  ],
+  "hunter_contract_rating": "B-（常态综合威胁）",
+  "sources": [
+    {
+      "title": "Ultraman Wiki - Alien Baltan",
+      "url": "https://ultra.fandom.com/wiki/Alien_Baltan",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/b/be/OriginalBaltan.png/revision/latest?cb=20190922074851"
+    }
+  ]
+}

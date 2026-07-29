@@ -1,0 +1,29 @@
+{
+  "id": "monster:eleking",
+  "type": "monster",
+  "name_zh": "艾雷王",
+  "name_en": "Eleking",
+  "aliases": ["宇宙怪兽艾雷王", "放电怪兽艾雷王", "艾雷王", "Eleking"],
+  "image": "assets/monsters/eleking/portrait.webp",
+  "image_original": "assets/monsters/eleking/portrait.png",
+  "first_appearance": {
+    "work": "《赛文奥特曼》",
+    "detail": "第3话《湖的秘密》",
+    "year": 1967
+  },
+  "origin": "常由匹特星人培育和操纵的宇宙怪兽，能够摄取电力并释放高压电流。",
+  "summary": "初代艾雷王由匹特星人在湖中培育，用于执行侵略计划，最终被赛文以头镖斩杀。后续个体常出现在湖泊、发电设施或宇宙人基地附近，也出现过与人类建立情感联系的幼体和被战斗仪操纵的伙伴个体。",
+  "notable_history": [
+    "初登场个体潜伏湖中，以尾部缠绕和高压放电对抗赛文。",
+    "多次作为匹特星人的生物兵器或其他势力的怪兽战力出现。",
+    "部分作品中的幼体和友善个体证明其行为受培育方式与个体经历影响。"
+  ],
+  "hunter_contract_rating": "C+",
+  "sources": [
+    {
+      "title": "Ultraman Wiki - Eleking",
+      "url": "https://ultra.fandom.com/wiki/Eleking",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/d/d0/Galaxy_Eleking.png/revision/latest?cb=20190314210819"
+    }
+  ]
+}

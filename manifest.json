@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "project": "ultraman-hunter-assets",
+  "updated_at": "2026-07-29",
+  "cdn_base": "https://testingcf.jsdelivr.net/gh/yatexy/ultraman-hunter-assets@main/",
+  "entities": {
+    "ultra:ultraman": {
+      "type": "ultra",
+      "name": "初代奥特曼",
+      "aliases": ["奥特曼", "初代", "初代奥特曼", "Ultraman"],
+      "image": "assets/ultras/ultraman/portrait.webp",
+      "profile": "data/ultras/ultraman.json"
+    },
+    "ultra:ultraseven": {
+      "type": "ultra",
+      "name": "赛文奥特曼",
+      "aliases": ["赛文", "赛文奥特曼", "诸星团", "Ultraseven"],
+      "image": "assets/ultras/ultraseven/portrait.webp",
+      "profile": "data/ultras/ultraseven.json"
+    },
+    "ultra:ultraman-tiga": {
+      "type": "ultra",
+      "name": "迪迦奥特曼",
+      "aliases": ["迪迦", "迪迦奥特曼", "真角大古", "Ultraman Tiga"],
+      "image": "assets/ultras/ultraman-tiga/portrait.webp",
+      "profile": "data/ultras/ultraman-tiga.json"
+    },
+    "ultra:ultraman-mebius": {
+      "type": "ultra",
+      "name": "梦比优斯奥特曼",
+      "aliases": ["梦比优斯", "梦比优斯奥特曼", "日比野未来", "Ultraman Mebius"],
+      "image": "assets/ultras/ultraman-mebius/portrait.webp",
+      "profile": "data/ultras/ultraman-mebius.json"
+    },
+    "ultra:ultraman-zero": {
+      "type": "ultra",
+      "name": "赛罗奥特曼",
+      "aliases": ["赛罗", "赛罗奥特曼", "赛文之子", "Ultraman Zero"],
+      "image": "assets/ultras/ultraman-zero/portrait.webp",
+      "profile": "data/ultras/ultraman-zero.json"
+    },
+    "monster:gomora": {
+      "type": "monster",
+      "name": "哥莫拉",
+      "aliases": ["古代怪兽哥莫拉", "哥莫拉", "Gomora"],
+      "image": "assets/monsters/gomora/portrait.webp",
+      "profile": "data/monsters/gomora.json"
+    },
+    "monster:alien-baltan": {
+      "type": "monster",
+      "name": "巴尔坦星人",
+      "aliases": ["宇宙忍者巴尔坦星人", "巴尔坦", "巴尔坦星人", "Alien Baltan"],
+      "image": "assets/monsters/alien-baltan/portrait.webp",
+      "profile": "data/monsters/alien-baltan.json"
+    },
+    "monster:red-king": {
+      "type": "monster",
+      "name": "雷德王",
+      "aliases": ["骷髅怪兽雷德王", "雷德王", "Red King"],
+      "image": "assets/monsters/red-king/portrait.webp",
+      "profile": "data/monsters/red-king.json"
+    },
+    "monster:eleking": {
+      "type": "monster",
+      "name": "艾雷王",
+      "aliases": ["宇宙怪兽艾雷王", "放电怪兽艾雷王", "艾雷王", "Eleking"],
+      "image": "assets/monsters/eleking/portrait.webp",
+      "profile": "data/monsters/eleking.json"
+    },
+    "monster:king-joe": {
+      "type": "monster",
+      "name": "金古桥",
+      "aliases": ["宇宙机器人金古桥", "金古桥", "King Joe"],
+      "image": "assets/monsters/king-joe/portrait.webp",
+      "profile": "data/monsters/king-joe.json"
+    }
+  }
+}

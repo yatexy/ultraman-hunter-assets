@@ -1,0 +1,29 @@
+{
+  "id": "ultra:ultraman",
+  "type": "ultra",
+  "name_zh": "初代奥特曼",
+  "name_en": "Ultraman",
+  "aliases": ["奥特曼", "初代", "初代奥特曼", "Ultraman"],
+  "image": "assets/ultras/ultraman/portrait.webp",
+  "image_original": "assets/ultras/ultraman/portrait.png",
+  "first_appearance": {
+    "work": "《奥特曼》",
+    "detail": "第1话",
+    "year": 1966
+  },
+  "origin": "来自M78星云光之国的宇宙警备队战士。",
+  "summary": "追击百慕拉来到地球时意外撞上科学特搜队队员早田进，随后与早田共享生命并留在地球作战。他与科学特搜队共同处理怪兽和宇宙人事件，最终在杰顿战中败北，由佐菲带回光之国。",
+  "notable_history": [
+    "与早田进一体化，以地球守护者身份参与科学特搜队的战斗。",
+    "先后对抗巴尔坦星人、雷德王、哥莫拉、美菲拉斯星人等代表性敌人。",
+    "在杰顿战中遭到针对彩色计时器的攻击而倒下，随后与早田分离。"
+  ],
+  "hunter_contract_rating": "B",
+  "sources": [
+    {
+      "title": "Ultraman Wiki - Ultraman",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_(character)",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/9/94/Ultraman_Info.png/revision/latest?cb=20191228011444"
+    }
+  ]
+}

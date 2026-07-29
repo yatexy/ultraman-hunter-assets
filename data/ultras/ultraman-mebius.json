@@ -1,0 +1,29 @@
+{
+  "id": "ultra:ultraman-mebius",
+  "type": "ultra",
+  "name_zh": "梦比优斯奥特曼",
+  "name_en": "Ultraman Mebius",
+  "aliases": ["梦比优斯", "梦比优斯奥特曼", "日比野未来", "Ultraman Mebius"],
+  "image": "assets/ultras/ultraman-mebius/portrait.webp",
+  "image_original": "assets/ultras/ultraman-mebius/portrait.png",
+  "first_appearance": {
+    "work": "《梦比优斯奥特曼》",
+    "detail": "第1话《命运的相逢》",
+    "year": 2006
+  },
+  "origin": "光之国宇宙警备队的年轻战士，以日比野未来身份加入CREW GUYS。",
+  "summary": "梦比优斯被派往阔别奥特战士二十五年的地球，在战斗和日常中逐步理解人类。他与GUYS队员建立深厚羁绊，多次得到奥特兄弟和希卡利协助，并在安培拉星人危机中与伙伴们共同抵达凤凰勇者形态。",
+  "notable_history": [
+    "以新人战士身份来到地球，在失败和队友质疑中学习守护方式。",
+    "与希卡利、CREW GUYS及历代奥特兄弟建立合作关系。",
+    "最终依靠伙伴共同战斗，而不是把胜利归于单一战士的力量。"
+  ],
+  "hunter_contract_rating": "常态B／燃烧勇者B+／勇者A／凤凰勇者A+／无限A+",
+  "sources": [
+    {
+      "title": "Ultraman Wiki - Ultraman Mebius",
+      "url": "https://ultra.fandom.com/wiki/Ultraman_Mebius_(character)",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/5/5e/Mebius_Info.png/revision/latest?cb=20191117031627"
+    }
+  ]
+}

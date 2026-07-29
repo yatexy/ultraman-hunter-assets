@@ -1,0 +1,29 @@
+{
+  "id": "monster:red-king",
+  "type": "monster",
+  "name_zh": "雷德王",
+  "name_en": "Red King",
+  "aliases": ["骷髅怪兽雷德王", "雷德王", "Red King"],
+  "image": "assets/monsters/red-king/portrait.webp",
+  "image_original": "assets/monsters/red-king/portrait.png",
+  "first_appearance": {
+    "work": "《奥特曼》",
+    "detail": "第8话《怪兽无法无天地带》",
+    "year": 1966
+  },
+  "origin": "以蛮力、投石和强烈领地意识著称的地球怪兽种族。",
+  "summary": "第一代雷德王作为多多良岛的强势怪兽压制其他生物，随后被初代奥特曼击败。这个种族在不同作品中反复出现，常被塑造成依赖纯粹力量的对手；部分个体也表现出护巢、伴侣或亲子行为，并非所有行动都源于无差别破坏。",
+  "notable_history": [
+    "初登场个体盘踞多多良岛，以蛮力击败或驱逐其他怪兽。",
+    "历代个体经常被宇宙人、战斗仪或异常能量控制和强化。",
+    "《奥特曼Z》等作品进一步表现了雷德王的繁殖与护巢行为。"
+  ],
+  "hunter_contract_rating": "D（普通个体）",
+  "sources": [
+    {
+      "title": "Ultraman Wiki - Red King",
+      "url": "https://ultra.fandom.com/wiki/Red_King",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/f/ff/Red_King_Info.png/revision/latest?cb=20210919022616"
+    }
+  ]
+}

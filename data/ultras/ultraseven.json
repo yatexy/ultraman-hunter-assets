@@ -1,0 +1,29 @@
+{
+  "id": "ultra:ultraseven",
+  "type": "ultra",
+  "name_zh": "赛文奥特曼",
+  "name_en": "Ultraseven",
+  "aliases": ["赛文", "赛文奥特曼", "诸星团", "恒点观测员340号", "Ultraseven"],
+  "image": "assets/ultras/ultraseven/portrait.webp",
+  "image_original": "assets/ultras/ultraseven/portrait.png",
+  "first_appearance": {
+    "work": "《赛文奥特曼》",
+    "detail": "第1话《隐形的挑战者》",
+    "year": 1967
+  },
+  "origin": "来自M78星云光之国的恒点观测员340号，抵达地球后以诸星团身份加入奥特警备队。",
+  "summary": "赛文原本负责绘制银河地图，却因地球与人类吸引了他的注意而留下。他长期对抗宇宙侵略者，也多次面对人类与异族之间难以简单判断善恶的冲突；重伤离开地球后仍持续参与光之国事务，并成为赛罗奥特曼的父亲。",
+  "notable_history": [
+    "以诸星团身份加入奥特警备队，调查并阻止多次宇宙侵略。",
+    "在连续战斗导致严重衰弱后仍完成最终防卫，随后返回光之国。",
+    "后来训练雷欧、承担奥特兄弟职责，并引导儿子赛罗走上战士道路。"
+  ],
+  "hunter_contract_rating": "B",
+  "sources": [
+    {
+      "title": "Ultraman Wiki - Ultraseven",
+      "url": "https://ultra.fandom.com/wiki/Ultraseven_(character)",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/3/39/Ultraseven_awsome.png/revision/latest?cb=20210919005819"
+    }
+  ]
+}
