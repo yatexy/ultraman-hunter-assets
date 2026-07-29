@@ -64,6 +64,17 @@
       "image": "assets/ultras/ultraman-zero/portrait.webp",
       "profile": "data/ultras/ultraman-zero.json"
     },
+    "ultra:dbbf66c80b": {
+      "type": "ultra",
+      "name": "克罗恩",
+      "aliases": [
+        "克罗恩",
+        "克罗恩奥特曼",
+        "Chron"
+      ],
+      "image": "assets/ultras/克罗恩/portrait.webp",
+      "profile": "data/ultras/克罗恩.json"
+    },
     "monster:gomora": {
       "type": "monster",
       "name": "哥莫拉",
