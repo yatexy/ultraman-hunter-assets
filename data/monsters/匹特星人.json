@@ -1,0 +1,30 @@
+{
+  "id": "monster:44260730f5",
+  "type": "monster",
+  "name_zh": "匹特星人",
+  "name_en": "ALIEN PITT",
+  "aliases": [
+    "匹特星人"
+  ],
+  "image": "assets/monsters/匹特星人/portrait.webp",
+  "image_original": "assets/monsters/匹特星人/portrait.png",
+  "first_appearance": {
+    "work": "《奥特赛文》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "变身宇宙人，候选阶段为第3阶段。",
+  "summary": "原作常态评级C；典型能力包括拟态、催眠与怪兽操纵。",
+  "notable_history": [
+    "原作归属：《奥特赛文》。",
+    "形态口径：匹特星人独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "C",
+  "sources": [
+    {
+      "title": "ALIEN PITT",
+      "url": "https://tsuburaya-prod.com/encyclopedia/alien-pitt",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/pitt_l.jpg"
+    }
+  ]
+}

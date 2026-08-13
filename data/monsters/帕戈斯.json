@@ -1,0 +1,30 @@
+{
+  "id": "monster:1d5a3cc26a",
+  "type": "monster",
+  "name_zh": "帕戈斯",
+  "name_en": "PAGOS",
+  "aliases": [
+    "帕戈斯"
+  ],
+  "image": "assets/monsters/帕戈斯/portrait.webp",
+  "image_original": "assets/monsters/帕戈斯/portrait.png",
+  "first_appearance": {
+    "work": "《奥特Q》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "铀怪兽，候选阶段为第1阶段。",
+  "summary": "原作常态评级D；典型能力包括地下掘进、分子结构破坏光线与突袭。",
+  "notable_history": [
+    "原作归属：《奥特Q》。",
+    "形态口径：帕戈斯独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "D",
+  "sources": [
+    {
+      "title": "PAGOS",
+      "url": "https://tsuburaya-prod.com/encyclopedia/pagos",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/09/UltraQ_Pagos-profile.jpg"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "monster:1d00133cb5",
+  "type": "monster",
+  "name_zh": "迪玛迦",
+  "name_en": "DEMAAGA",
+  "aliases": [
+    "迪玛迦"
+  ],
+  "image": "assets/monsters/迪玛迦/portrait.webp",
+  "image_original": "assets/monsters/迪玛迦/portrait.png",
+  "first_appearance": {
+    "work": "《艾克斯奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "熔铁怪兽，候选阶段为第2阶段。",
+  "summary": "原作常态评级B-；典型能力包括熔铁热射线、背部火焰与怪力。",
+  "notable_history": [
+    "原作归属：《艾克斯奥特曼》。",
+    "形态口径：迪玛迦独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "B-",
+  "sources": [
+    {
+      "title": "DEMAAGA",
+      "url": "https://tsuburaya-prod.com/encyclopedia/demaaga",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/08/デマーガ.jpg"
+    }
+  ]
+}

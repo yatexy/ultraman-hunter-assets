@@ -1,0 +1,30 @@
+{
+  "id": "monster:784e188b5c",
+  "type": "monster",
+  "name_zh": "机械哥莫拉",
+  "name_en": "MECHA GOMORA",
+  "aliases": [
+    "机械哥莫拉"
+  ],
+  "image": "assets/monsters/机械哥莫拉/portrait.webp",
+  "image_original": "assets/monsters/机械哥莫拉/portrait.png",
+  "first_appearance": {
+    "work": "《赛罗奥特曼外传》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "机械怪兽，候选阶段为第4阶段。",
+  "summary": "原作常态评级B+；典型能力包括粉碎兆能量炮、导弹与机械超振动波。",
+  "notable_history": [
+    "原作归属：《赛罗奥特曼外传》。",
+    "形态口径：机械哥莫拉独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": [
+    {
+      "title": "MECHA GOMORA",
+      "url": "https://tsuburaya-prod.com/encyclopedia/mecha-gomora",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/05/メカゴモラ（縦長）.jpg"
+    }
+  ]
+}

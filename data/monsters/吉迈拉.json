@@ -1,0 +1,30 @@
+{
+  "id": "monster:570db85340",
+  "type": "monster",
+  "name_zh": "吉迈拉",
+  "name_en": "GYMAIRA",
+  "aliases": [
+    "吉迈拉"
+  ],
+  "image": "assets/monsters/吉迈拉/portrait.webp",
+  "image_original": "assets/monsters/吉迈拉/portrait.png",
+  "first_appearance": {
+    "work": "《爱迪奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "吸血怪兽，候选阶段为第2阶段。",
+  "summary": "原作常态评级B；典型能力包括吸血、怪兽操纵光线与怪力。",
+  "notable_history": [
+    "原作归属：《爱迪奥特曼》。",
+    "形态口径：吉迈拉独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "B",
+  "sources": [
+    {
+      "title": "GYMAIRA",
+      "url": "https://tsuburaya-prod.com/encyclopedia/gymaira",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Gymaira-Top.jpg"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "monster:f72054cb52",
+  "type": "monster",
+  "name_zh": "哥尔赞",
+  "name_en": "GOLZA",
+  "aliases": [
+    "哥尔赞"
+  ],
+  "image": "assets/monsters/哥尔赞/portrait.webp",
+  "image_original": "assets/monsters/哥尔赞/portrait.png",
+  "first_appearance": {
+    "work": "《迪迦奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "超古代怪兽，候选阶段为第1阶段。",
+  "summary": "原作常态评级C+；典型能力包括掘进、额部超音波光线与能量吸收。",
+  "notable_history": [
+    "原作归属：《迪迦奥特曼》。",
+    "形态口径：哥尔赞独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "C+",
+  "sources": [
+    {
+      "title": "GOLZA",
+      "url": "https://tsuburaya-prod.com/encyclopedia/golza",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2002/01/ゴルザ.jpg"
+    }
+  ]
+}

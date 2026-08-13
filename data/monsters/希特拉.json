@@ -1,0 +1,30 @@
+{
+  "id": "monster:6e146e12c6",
+  "type": "monster",
+  "name_zh": "希特拉",
+  "name_en": "HUDRA",
+  "aliases": [
+    "希特拉"
+  ],
+  "image": "assets/monsters/希特拉/portrait.webp",
+  "image_original": "assets/monsters/希特拉/portrait.png",
+  "first_appearance": {
+    "work": "《迪迦奥特曼最终圣战》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "俊敏战士，候选阶段为第5阶段。",
+  "summary": "原作常态评级B+；典型能力包括高速移动、光刃与空中格斗。",
+  "notable_history": [
+    "原作归属：《迪迦奥特曼最终圣战》。",
+    "形态口径：希特拉独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": [
+    {
+      "title": "HUDRA",
+      "url": "",
+      "image_url": "https://static.wikia.nocookie.net/ultra/images/8/89/Hudra_Render.png"
+    }
+  ]
+}

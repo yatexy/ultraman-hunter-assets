@@ -1,0 +1,30 @@
+{
+  "id": "monster:868a28034a",
+  "type": "monster",
+  "name_zh": "EX艾雷王",
+  "name_en": "EX ELEKING",
+  "aliases": [
+    "EX艾雷王"
+  ],
+  "image": "assets/monsters/EX艾雷王/portrait.webp",
+  "image_original": "assets/monsters/EX艾雷王/portrait.png",
+  "first_appearance": {
+    "work": "《大怪兽格斗》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "EX进化怪兽，候选阶段为第2阶段。",
+  "summary": "原作常态评级B；典型能力包括强化电击、尾部放电与高速格斗。",
+  "notable_history": [
+    "原作归属：《大怪兽格斗》。",
+    "形态口径：EX艾雷王独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "B",
+  "sources": [
+    {
+      "title": "EX ELEKING",
+      "url": "",
+      "image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8bf802b7-04d7-41c7-aa51-2283f556ca1b/d84h84h-1747498e-43e5-4022-817f-9c6f58315798.jpg"
+    }
+  ]
+}

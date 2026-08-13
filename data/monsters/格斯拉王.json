@@ -1,0 +1,31 @@
+{
+  "id": "monster:ebc9d99590",
+  "type": "monster",
+  "name_zh": "格斯拉王",
+  "name_en": "KING GUESRA",
+  "aliases": [
+    "格斯拉王",
+    "金古桥斯拉王"
+  ],
+  "image": "assets/monsters/格斯拉王/portrait.webp",
+  "image_original": "assets/monsters/格斯拉王/portrait.png",
+  "first_appearance": {
+    "work": "《超奥特8兄弟》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "海兽，候选阶段为第2阶段。",
+  "summary": "原作常态评级B-；典型能力包括毒刺、巨体冲撞与水陆两栖行动。",
+  "notable_history": [
+    "原作归属：《超奥特8兄弟》。",
+    "形态口径：格斯拉王独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "B-",
+  "sources": [
+    {
+      "title": "KING GUESRA",
+      "url": "",
+      "image_url": "https://img.atwiki.jp/niconicomugen/attach/9709/23623/kingguesra.png"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "monster:6e1b21d48c",
+  "type": "monster",
+  "name_zh": "斯菲亚尼奥美加斯",
+  "name_en": "SPHERE-NEOMEGAS",
+  "aliases": [
+    "斯菲亚尼奥美加斯"
+  ],
+  "image": "assets/monsters/斯菲亚尼奥美加斯/portrait.webp",
+  "image_original": "assets/monsters/斯菲亚尼奥美加斯/portrait.png",
+  "first_appearance": {
+    "work": "《德凯奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "新创合成兽，候选阶段为第6阶段。",
+  "summary": "原作常态评级A；典型能力包括强化怪力、斯菲亚光弹与同化再生。",
+  "notable_history": [
+    "原作归属：《德凯奥特曼》。",
+    "形态口径：斯菲亚尼奥美加斯独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "A",
+  "sources": [
+    {
+      "title": "SPHERE-NEOMEGAS",
+      "url": "https://tsuburaya-prod.com/encyclopedia/sphere-neomegas",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/Sphere-Neomegas-Top.jpg"
+    }
+  ]
+}

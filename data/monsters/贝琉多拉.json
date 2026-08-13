@@ -1,0 +1,30 @@
+{
+  "id": "monster:ee5ae887a6",
+  "type": "monster",
+  "name_zh": "贝琉多拉",
+  "name_en": "BERYUDORA",
+  "aliases": [
+    "贝琉多拉"
+  ],
+  "image": "assets/monsters/贝琉多拉/portrait.webp",
+  "image_original": "assets/monsters/贝琉多拉/portrait.png",
+  "first_appearance": {
+    "work": "《大怪兽格斗超银河传说》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "百体怪兽，候选阶段为第8阶段。",
+  "summary": "原作常态评级S；典型能力包括怪兽墓场百体融合、怨念触手与贝琉多拉炼狱。",
+  "notable_history": [
+    "原作归属：《大怪兽格斗超银河传说》。",
+    "形态口径：贝琉多拉独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "S",
+  "sources": [
+    {
+      "title": "BERYUDORA",
+      "url": "",
+      "image_url": "https://dafunda.com/wp-content/uploads/2023/02/Belyudra.jpg"
+    }
+  ]
+}

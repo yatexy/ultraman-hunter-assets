@@ -1,0 +1,30 @@
+{
+  "id": "monster:1254353471",
+  "type": "monster",
+  "name_zh": "巨大亚波人",
+  "name_en": "GIANT YAPOOL",
+  "aliases": [
+    "巨大亚波人"
+  ],
+  "image": "assets/monsters/巨大亚波人/portrait.webp",
+  "image_original": "assets/monsters/巨大亚波人/portrait.png",
+  "first_appearance": {
+    "work": "《艾斯奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "异次元超人，候选阶段为第4阶段。",
+  "summary": "原作常态评级B+；典型能力包括异次元能力、超兽控制与多重光线。",
+  "notable_history": [
+    "原作归属：《艾斯奥特曼》。",
+    "形态口径：巨大亚波人独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": [
+    {
+      "title": "GIANT YAPOOL",
+      "url": "https://tsuburaya-prod.com/encyclopedia/giant-yapool",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Giant-Yapool-Top.png"
+    }
+  ]
+}

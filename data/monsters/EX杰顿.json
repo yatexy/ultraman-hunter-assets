@@ -1,0 +1,30 @@
+{
+  "id": "monster:7ba135fe8c",
+  "type": "monster",
+  "name_zh": "EX杰顿",
+  "name_en": "EX ZETTON",
+  "aliases": [
+    "EX杰顿"
+  ],
+  "image": "assets/monsters/EX杰顿/portrait.webp",
+  "image_original": "assets/monsters/EX杰顿/portrait.png",
+  "first_appearance": {
+    "work": "《大怪兽格斗》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "EX进化宇宙恐龙，候选阶段为第2阶段。",
+  "summary": "原作常态评级A；典型能力包括强化火球、瞬移、屏障与光线反射。",
+  "notable_history": [
+    "原作归属：《大怪兽格斗》。",
+    "形态口径：EX杰顿独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "A",
+  "sources": [
+    {
+      "title": "EX ZETTON",
+      "url": "",
+      "image_url": "https://p3-sdbk2-media.byteimg.com/tos-cn-i-xv4ileqgde/aa9f7d84c3a64243928a46bab2c3728f~tplv-xv4ileqgde-image.image"
+    }
+  ]
+}

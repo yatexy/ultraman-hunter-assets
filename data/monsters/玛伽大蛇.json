@@ -1,0 +1,30 @@
+{
+  "id": "monster:a754f60b8a",
+  "type": "monster",
+  "name_zh": "玛伽大蛇",
+  "name_en": "MAGA-OROCHI",
+  "aliases": [
+    "玛伽大蛇"
+  ],
+  "image": "assets/monsters/玛伽大蛇/portrait.webp",
+  "image_original": "assets/monsters/玛伽大蛇/portrait.png",
+  "first_appearance": {
+    "work": "《欧布奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "大魔王兽，候选阶段为第5阶段。",
+  "summary": "原作常态评级A；典型能力包括玛伽迅雷、能量吞噬与高耐久。",
+  "notable_history": [
+    "原作归属：《欧布奥特曼》。",
+    "形态口径：玛伽大蛇独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "A",
+  "sources": [
+    {
+      "title": "MAGA-OROCHI",
+      "url": "https://tsuburaya-prod.com/encyclopedia/maga-orochi",
+      "image_url": "https://www.nicepng.com/png/detail/369-3697566_maga-orochi-render-profile-kaiju.png"
+    }
+  ]
+}

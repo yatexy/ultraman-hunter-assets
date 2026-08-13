@@ -1,0 +1,30 @@
+{
+  "id": "monster:bf993a558e",
+  "type": "monster",
+  "name_zh": "史盖顿",
+  "name_en": "SKYDON",
+  "aliases": [
+    "史盖顿"
+  ],
+  "image": "assets/monsters/史盖顿/portrait.webp",
+  "image_original": "assets/monsters/史盖顿/portrait.png",
+  "first_appearance": {
+    "work": "《奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "晴空怪兽，候选阶段为第1阶段。",
+  "summary": "原作常态评级C+；典型能力包括超高体重、坚固表皮与压倒性惯性。",
+  "notable_history": [
+    "原作归属：《奥特曼》。",
+    "形态口径：史盖顿独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "C+",
+  "sources": [
+    {
+      "title": "SKYDON",
+      "url": "https://tsuburaya-prod.com/encyclopedia/skydon",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/skydon.jpg"
+    }
+  ]
+}

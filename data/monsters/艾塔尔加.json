@@ -1,0 +1,30 @@
+{
+  "id": "monster:4b47bb6ad7",
+  "type": "monster",
+  "name_zh": "艾塔尔加",
+  "name_en": "ETELGAR",
+  "aliases": [
+    "艾塔尔加"
+  ],
+  "image": "assets/monsters/艾塔尔加/portrait.webp",
+  "image_original": "assets/monsters/艾塔尔加/portrait.png",
+  "first_appearance": {
+    "work": "《奥特十勇士》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "超时空魔神，候选阶段为第7阶段。",
+  "summary": "原作常态评级A+；典型能力包括时空城、镜像封印与高强度格斗。",
+  "notable_history": [
+    "原作归属：《奥特十勇士》。",
+    "形态口径：艾塔尔加独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "A+",
+  "sources": [
+    {
+      "title": "ETELGAR",
+      "url": "https://tsuburaya-prod.com/encyclopedia/etelgar",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/03/エタルガー.jpg"
+    }
+  ]
+}

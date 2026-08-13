@@ -1,0 +1,30 @@
+{
+  "id": "monster:da07a45355",
+  "type": "monster",
+  "name_zh": "佩丹尼姆杰顿",
+  "name_en": "PEDANIUM ZETTON",
+  "aliases": [
+    "佩丹尼姆杰顿"
+  ],
+  "image": "assets/monsters/佩丹尼姆杰顿/portrait.webp",
+  "image_original": "assets/monsters/佩丹尼姆杰顿/portrait.png",
+  "first_appearance": {
+    "work": "《捷德奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "贝利亚融合兽，候选阶段为第6阶段。",
+  "summary": "原作常态评级A；典型能力包括佩丹尼姆流星、杰顿火球、屏障与重装格斗。",
+  "notable_history": [
+    "原作归属：《捷德奥特曼》。",
+    "形态口径：佩丹尼姆杰顿独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "A",
+  "sources": [
+    {
+      "title": "PEDANIUM ZETTON",
+      "url": "",
+      "image_url": "https://p3-sdbk2-media.byteimg.com/tos-cn-i-xv4ileqgde/48e21d14c2a04504a0fc438ab1dbc30e~tplv-xv4ileqgde-image.image"
+    }
+  ]
+}

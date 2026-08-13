@@ -1,0 +1,30 @@
+{
+  "id": "monster:0e11820e0a",
+  "type": "monster",
+  "name_zh": "斯菲亚梅加洛杰厄",
+  "name_en": "SPHERE-MEGALOTHOR",
+  "aliases": [
+    "斯菲亚梅加洛杰厄"
+  ],
+  "image": "assets/monsters/斯菲亚梅加洛杰厄/portrait.webp",
+  "image_original": "assets/monsters/斯菲亚梅加洛杰厄/portrait.png",
+  "first_appearance": {
+    "work": "《德凯奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "邪神合成兽，候选阶段为第6阶段。",
+  "summary": "原作常态评级A+；典型能力包括黑暗吸收、斯菲亚增幅与多向光线。",
+  "notable_history": [
+    "原作归属：《德凯奥特曼》。",
+    "形态口径：斯菲亚梅加洛杰厄独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "A+",
+  "sources": [
+    {
+      "title": "SPHERE-MEGALOTHOR",
+      "url": "https://tsuburaya-prod.com/encyclopedia/sphere-megalothor",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/スフィアメガロゾーア.jpg"
+    }
+  ]
+}

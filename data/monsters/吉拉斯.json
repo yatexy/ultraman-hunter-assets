@@ -1,0 +1,30 @@
+{
+  "id": "monster:45bdd28c38",
+  "type": "monster",
+  "name_zh": "吉拉斯",
+  "name_en": "JIRAHS",
+  "aliases": [
+    "吉拉斯"
+  ],
+  "image": "assets/monsters/吉拉斯/portrait.webp",
+  "image_original": "assets/monsters/吉拉斯/portrait.png",
+  "first_appearance": {
+    "work": "《奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "襟卷怪兽，候选阶段为第1阶段。",
+  "summary": "原作常态评级D；典型能力包括颈部襟卷、怪力与尾击。",
+  "notable_history": [
+    "原作归属：《奥特曼》。",
+    "形态口径：吉拉斯独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "D",
+  "sources": [
+    {
+      "title": "JIRAHS",
+      "url": "https://tsuburaya-prod.com/encyclopedia/jirahs",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Jirahs_list.jpg"
+    }
+  ]
+}

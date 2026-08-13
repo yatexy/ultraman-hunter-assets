@@ -1,0 +1,30 @@
+{
+  "id": "monster:6b84a5f283",
+  "type": "monster",
+  "name_zh": "鲁格赛特",
+  "name_en": "LEUGOCYTE",
+  "aliases": [
+    "鲁格赛特"
+  ],
+  "image": "assets/monsters/鲁格赛特/portrait.webp",
+  "image_original": "assets/monsters/鲁格赛特/portrait.png",
+  "first_appearance": {
+    "work": "《罗布奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "宇宙吞噬者，候选阶段为第7阶段。",
+  "summary": "原作常态评级A+；典型能力包括创世安魂曲、能量刃与行星生态毁灭。",
+  "notable_history": [
+    "原作归属：《罗布奥特曼》。",
+    "形态口径：鲁格赛特独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "A+",
+  "sources": [
+    {
+      "title": "LEUGOCYTE",
+      "url": "https://tsuburaya-prod.com/encyclopedia/leugocyte",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/05/ルーゴサイト.jpg"
+    }
+  ]
+}

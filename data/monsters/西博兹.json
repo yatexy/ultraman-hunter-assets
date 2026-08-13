@@ -1,0 +1,30 @@
+{
+  "id": "monster:d25bbb1142",
+  "type": "monster",
+  "name_zh": "西博兹",
+  "name_en": "SEABOZU",
+  "aliases": [
+    "西博兹"
+  ],
+  "image": "assets/monsters/西博兹/portrait.webp",
+  "image_original": "assets/monsters/西博兹/portrait.png",
+  "first_appearance": {
+    "work": "《奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "亡灵怪兽，候选阶段为第1阶段。",
+  "summary": "原作常态评级D；典型能力包括巨大骨质躯体与强韧怪力。",
+  "notable_history": [
+    "原作归属：《奥特曼》。",
+    "形态口径：西博兹独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "D",
+  "sources": [
+    {
+      "title": "SEABOZU",
+      "url": "https://tsuburaya-prod.com/encyclopedia/seabozu",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/seabozu_list.jpg"
+    }
+  ]
+}

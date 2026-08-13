@@ -1,0 +1,1382 @@
+[
+  {
+    "name": "DOSHIHAGACHI",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/doshihagachi",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2026/08/Doshihagachi-Profile.jpg"
+  },
+  {
+    "name": "SODERA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/sodera",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2026/07/Sodera-Pofile.jpg"
+  },
+  {
+    "name": "VIALOGA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/vialoga",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2026/06/Vialoga-Profile.jpg"
+  },
+  {
+    "name": "PUCCHI",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/pucchi",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2026/07/Pucchi-Profile.jpg"
+  },
+  {
+    "name": "ZOMERA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/zomera",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2026/01/ゾメラ.jpg"
+  },
+  {
+    "name": "GAIRYUGA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/gairyuga",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/12/ガイリュウガ.jpg"
+  },
+  {
+    "name": "CHRONOCEROS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/chronoceros",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/12/クロノケロス.jpg"
+  },
+  {
+    "name": "BAGRIGON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/bagrigon",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/11/バグリゴン.jpg"
+  },
+  {
+    "name": "ALIEN BAROSSA V ZAHGON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-barossa-v-zahgon",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/11/バロッサ星人ザーゴン.jpg"
+  },
+  {
+    "name": "EDOMAPHILA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/edomaphila",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/10/エドマフィラ.jpg"
+  },
+  {
+    "name": "KING ALLIGATORTOIS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/king-alligatortois",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/10/キングアリゲトータス.jpg"
+  },
+  {
+    "name": "ZOVARAS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/zovaras",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/10/ゾヴァラス.jpg"
+  },
+  {
+    "name": "ELDEGHIMERA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/eldeghimera",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/09/エルドギメラ.jpg"
+  },
+  {
+    "name": "GEDRAGO",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/gedrago",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/07/ゲドラゴ.jpg"
+  },
+  {
+    "name": "OHEBINUSHI",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/ohebinushi",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/08/オオヘビヌシノミコト.jpg"
+  },
+  {
+    "name": "THERIZIRUS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/therizirus",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/07/テリジラス.jpg"
+  },
+  {
+    "name": "PEGUNOS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/pegunos",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/07/ペグノス.jpg"
+  },
+  {
+    "name": "DUGRID",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/dugrid",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/07/ドグリド.jpg"
+  },
+  {
+    "name": "GRAIM",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/graim",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/07/グライム.jpg"
+  },
+  {
+    "name": "VUGSECT",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/vugsect",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2026/01/ヴァグセクト-1.jpg"
+  },
+  {
+    "name": "GAMEDON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/gamedon",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2026/04/ガメドン.jpg"
+  },
+  {
+    "name": "VALGENESS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/valgeness",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/10/ヴァルジェネス.jpg"
+  },
+  {
+    "name": "TRIGARON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/trigaron",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/06/トライガロン.jpg"
+  },
+  {
+    "name": "REKINESS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/rekiness",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/08/レキネス.jpg"
+  },
+  {
+    "name": "GUIL ARC",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/guil-arc",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/02/Guil-Arc-Profile.jpg"
+  },
+  {
+    "name": "DOGLF / MUGON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/doglf-mugon",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/09/ムーゴン.jpg"
+  },
+  {
+    "name": "SWEED (ALIEN FORM)",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/sweed",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/12/Sweed-Profile.jpg"
+  },
+  {
+    "name": "GUILEBAKU",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/guilebaku",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/12/Guilebaku-Profile.jpg"
+  },
+  {
+    "name": "TRIGELOS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/trigelos",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/12/Trigelos-Profile.jpg"
+  },
+  {
+    "name": "THE PILLAR",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/the-pillar",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/12/The-Pillar-Profile.jpg"
+  },
+  {
+    "name": "THE MAN IN THE WHITE MASK",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/the-man-in-the-white-mask",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/12/The-Man-In-The-White-Mask-Profile.jpg"
+  },
+  {
+    "name": "GOMESS (SP)",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/gomess-sp",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/12/Gomess-SP-profile.jpg"
+  },
+  {
+    "name": "HELLNARAK",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/hellnarak",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/11/ヘルナラク.jpg"
+  },
+  {
+    "name": "ZADIME",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/zadime",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/10/UltramanArc_Zadime-profile.jpg"
+  },
+  {
+    "name": "GIVAS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/givas",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/10/UltramanArc_Givas-profile3.jpg"
+  },
+  {
+    "name": "INTERNET KANEGON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/internet-kanegon",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/09/UltramanArc_Internet-Kanegon-Profile-1.jpg"
+  },
+  {
+    "name": "HOMGER",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/homger",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/08/UltramanArc_Homger-profile-1.jpg"
+  },
+  {
+    "name": "ALIEN CROCO",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-croco",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/08/UltramanArc_Alien-Croco-Profile.jpg"
+  },
+  {
+    "name": "LIVYJIRA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/livyjira",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/08/UltramanArc-_-Livijira-profile.jpg"
+  },
+  {
+    "name": "NEZUTRON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/nezutron",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/07/UltramanArc_Nezutron_profile-1.jpg"
+  },
+  {
+    "name": "DIGELOS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/digelos",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/07/UltramanArc_Digelos-profile.jpg"
+  },
+  {
+    "name": "LEODO",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/leodo",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/07/UltramanArc_Leodo_Profile.jpg"
+  },
+  {
+    "name": "SHAGONG",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/shagong",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/07/UltramanArc_Shagong-profile.jpg"
+  },
+  {
+    "name": "OO-ZE",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/oo-ze",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/08/UltramanArc_Oo-ze-Profile.jpg"
+  },
+  {
+    "name": "MONOGELOS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/monogelos",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/10/UltramanArc_Monogelos-profile.jpg"
+  },
+  {
+    "name": "MECHA GIGANTRON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/mecha-gigantron",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/07/mecha-Gigantron.jpg"
+  },
+  {
+    "name": "GIGANTRON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/gigantron",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/06/Ultraman-Rising_Gigantron_Profile-1.jpg"
+  },
+  {
+    "name": "EMI",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/emi",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/06/Ultraman-Rising_Emi_Profile.jpg"
+  },
+  {
+    "name": "GONGILGAN",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/gongilgan",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/12/Gongilgan-profile.jpg"
+  },
+  {
+    "name": "VARALLON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/varallon",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/02/ヴァラロン.jpg"
+  },
+  {
+    "name": "ZUGUGAN",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/zugugan",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/12/ズグガン.jpg"
+  },
+  {
+    "name": "BROOD GEBALGA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/brood-gebalga",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/11/ブルードゲバルガ.jpg"
+  },
+  {
+    "name": "IRUGO",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/irugo",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/11/イルーゴ.jpg"
+  },
+  {
+    "name": "ZANGILL",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/zangill",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/11/ザンギル.jpg"
+  },
+  {
+    "name": "MOGUSION",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/mogusion",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/10/モグージョン.jpg"
+  },
+  {
+    "name": "GAVADON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/gavadon",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/10/ガヴァドン.jpg"
+  },
+  {
+    "name": "DELTANDAL",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/deltandal",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/10/デルタンダル.jpg"
+  },
+  {
+    "name": "GEBALGA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/gebalga",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/10/ゲバルガ.jpg"
+  },
+  {
+    "name": "BABY DEMAAGA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/baby-demaaga",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/09/ベビーデマーガ.jpg"
+  },
+  {
+    "name": "GARAMON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/garamon",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/09/ガラモン.jpg"
+  },
+  {
+    "name": "NIJIKAGACHI",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/nijikagachi",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/09/ニジカガチ.jpg"
+  },
+  {
+    "name": "ALIEN CANNAN HERBIE",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-cannan-herbie",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/08/M_MAL3_1203_0657.jpg"
+  },
+  {
+    "name": "DORGO",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/dorgo",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/08/unnamed-4.jpg"
+  },
+  {
+    "name": "LEVIERA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/leviera",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/07/Leviera-TOP.jpg"
+  },
+  {
+    "name": "TAGANULAR",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/taganular",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/07/タガヌラー-2.jpg"
+  },
+  {
+    "name": "GEDOS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/gedos",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/07/ゲードス.jpg"
+  },
+  {
+    "name": "BAZANGA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/bazanga",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/07/BazangaTOP.jpg"
+  },
+  {
+    "name": "FIRDRAN",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/firdran",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/12/ファードラン.jpg"
+  },
+  {
+    "name": "EARTH GARON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/earth-garon",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/10/アースガロン.jpg"
+  },
+  {
+    "name": "SPHERE-NEOMEGAS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/sphere-neomegas",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/Sphere-Neomegas-Top.jpg"
+  },
+  {
+    "name": "SPHERE-RED KING",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/sphere-redking",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/Sphere-RedKing-Top.jpg"
+  },
+  {
+    "name": "SPHERE-MEGALOTHOR",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/sphere-megalothor",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/スフィアメガロゾーア.jpg"
+  },
+  {
+    "name": "SPHERE-GOMORA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/sphere-gomora",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/Sphere-Gomora-Top.jpg"
+  },
+  {
+    "name": "SPHERESAURUS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/spheresaurus",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/Spheresaurus-Top.jpg"
+  },
+  {
+    "name": "SPHERE",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/sphere",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/Sphere-Top.jpg"
+  },
+  {
+    "name": "TERRAPHASER",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/terraphaser",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/Terraphaser-Top.jpg"
+  },
+  {
+    "name": "EVIL TRIGGER",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/evil-trigger",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/EvilTrigger-Top.jpg"
+  },
+  {
+    "name": "MEGALOTHOR (SECOND FORM)",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/megalothor-second-form",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/Megalothor_SecondFrom-Top.jpg"
+  },
+  {
+    "name": "MEGALOTHOR (FIRST FORM)",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/megalothor-first-form",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/Megalothor_FirstFrom-Top.jpg"
+  },
+  {
+    "name": "MECHA MUSASHIN",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/mecha-musashin",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2026/01/メカムサシン.jpg"
+  },
+  {
+    "name": "SATANDELOS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/satandelos",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2026/01/サタンデロス.jpg"
+  },
+  {
+    "name": "DEATHDRAGO",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/deathdrago",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/Deathdrago-Top.jpg"
+  },
+  {
+    "name": "OKA-GUBILA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/oka-gubila",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/09/UltramanTrigger_Oka-Gubila_Profile.jpg"
+  },
+  {
+    "name": "GOLBA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/golba",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/ゴルバー.jpg"
+  },
+  {
+    "name": "TRIGGER DARK",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/trigger-dark",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/TriggerDark-Top.jpg"
+  },
+  {
+    "name": "HUDRAM",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/hudram",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/Hudram-Top.jpg"
+  },
+  {
+    "name": "DARRGON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/darrgon",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/Darrgon-Top.jpg"
+  },
+  {
+    "name": "CARMEARA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/carmeara",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/Carmeara-Top.jpg"
+  },
+  {
+    "name": "ABSOLUTE TITAN",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/absolute-titan",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Absolute-Titan-Top-2.png"
+  },
+  {
+    "name": "ABSOLUTE DIAVOLO",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/absolute-diavolo",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Absolute-Diablo-Top-2.png"
+  },
+  {
+    "name": "ABSOLUTE TARTARUS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/absolute-tartarus",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Absolute-Tartarus-Top-2.png"
+  },
+  {
+    "name": "DESTRUDOS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/destrudos",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/Destrudos-Top-1.png"
+  },
+  {
+    "name": "METSUBOROS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/metsuboros",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/Metsuboros-Top.jpg"
+  },
+  {
+    "name": "GRIGIO RAIDEN",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/grigio-raiden",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/GrigioRaiden-Top.jpg"
+  },
+  {
+    "name": "ALIEN BAROSSA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-barossa",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2021/10/バロッサ星人.jpg"
+  },
+  {
+    "name": "TRI-KING",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/tri-king",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2021/10/トライキング-2.jpg"
+  },
+  {
+    "name": "ERIMAKI-TELESDON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/erimaki-telesdon",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/Erimaki-Telesdon-Top.jpg"
+  },
+  {
+    "name": "GENEGARG",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/genegarg",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/Genegarg-Top.png"
+  },
+  {
+    "name": "CELEBRO",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/celebro",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/Celebro-Top.jpg"
+  },
+  {
+    "name": "ULTROID ZERO",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/ultroid-zero",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/UltroidZero-Top.png"
+  },
+  {
+    "name": "KING JOE STORAGE CUSTOM",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/king-joe-storage-custom",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/KingJoeSC-Top.png"
+  },
+  {
+    "name": "WINDOM",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/windom-2",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/Windom-Top.png"
+  },
+  {
+    "name": "SEVENGER",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/sevenger",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2021/10/セブンガー.jpg"
+  },
+  {
+    "name": "ULTRA DARK-KILLER",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/ultra-dark-killer",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/05/ウルトラダークキラー-1.jpg"
+  },
+  {
+    "name": "ULTRAMAN TREGEAR",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/ultraman-tregear",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/10/ウルトラマントレギア.jpg"
+  },
+  {
+    "name": "LEUGOCYTE",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/leugocyte",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/05/ルーゴサイト.jpg"
+  },
+  {
+    "name": "ULTRAMAN ORB DARK",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/ultraman-orb-dark",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/05/オーブダーク（縦長4）.jpg"
+  },
+  {
+    "name": "GILLVALIS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/gillvalis",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/05/ギルバリス.jpg"
+  },
+  {
+    "name": "ULTRAMAN BELIAL ATROCIOUS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/ultraman-belial-atrocious",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/05/ベリアルアトロシアス.jpg"
+  },
+  {
+    "name": "THUNDER KILLER",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/thunder-killer",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/04/サンダーキラー（縦長）.jpg"
+  },
+  {
+    "name": "SKULL GOMORA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/skull-gomora",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/05/スカルゴモラ.jpg"
+  },
+  {
+    "name": "ZEPPANDON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/zeppandon",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/10/Zeppandon-profile.jpg"
+  },
+  {
+    "name": "GALACTRON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/galactron",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/10/ギャラクトロン.jpg"
+  },
+  {
+    "name": "MAGA-OROCHI",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/maga-orochi",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2026/01/マガオロチ.jpg"
+  },
+  {
+    "name": "MAGA-BASSER",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/maga-basser",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2026/01/マガバッサー.jpg"
+  },
+  {
+    "name": "JUGGLUS JUGGLER",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/jugglus-juggler",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/10/Jugglus-Juggler-Profile.jpg"
+  },
+  {
+    "name": "GREEZA (SECOND FORM)",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/greeza-second-form",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/02/グリーザ-第二形態.jpg"
+  },
+  {
+    "name": "BUGBUZUN BLUDE",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/bugbuzun-blude",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/04/M_UX0922_1_6434-rotated.jpg"
+  },
+  {
+    "name": "DEMAAGA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/demaaga",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/08/デマーガ.jpg"
+  },
+  {
+    "name": "ETELGAR",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/etelgar",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/03/エタルガー.jpg"
+  },
+  {
+    "name": "VICT LUGIEL",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/vict-lugiel",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/06/Ultraman-Ginga-S_Vict-Lugiel_profile.jpg"
+  },
+  {
+    "name": "FIVE KING (SDU)",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/five-king-sdu",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/02/Five-King_profile.jpg"
+  },
+  {
+    "name": "ALIEN GUTS VORST (SD)",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-guts-vorst",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/05/Ultraman-Ginga-S_Alien-Guts-Vorst_profile3.jpg"
+  },
+  {
+    "name": "DARK LUGIEL",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/dark-lugiel",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/05/ダークルギエル.jpg"
+  },
+  {
+    "name": "HYPER ZETTON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/hyper-zetton",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/01/ハイパーゼットン.jpg"
+  },
+  {
+    "name": "ARCH BELIAL",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/arch-belial",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/09/アークベリアル.jpg"
+  },
+  {
+    "name": "LEGIONOID",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/legionoid",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/04/レギオノイド-1.jpg"
+  },
+  {
+    "name": "KAISER BELIAL",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/kaiser-belial",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/09/カイザーベリアル.jpg"
+  },
+  {
+    "name": "DARKLOPS ZERO",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/darklops-zero",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/04/ダークロプスゼロ.jpg"
+  },
+  {
+    "name": "MECHA GOMORA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/mecha-gomora",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/05/メカゴモラ（縦長）.jpg"
+  },
+  {
+    "name": "ULTRAMAN BELIAL",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/ultraman-belial",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/12/berial2.jpg"
+  },
+  {
+    "name": "ALIEN EMPERA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-empera",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2026/02/エンペラ星人.jpg"
+  },
+  {
+    "name": "INPELAIZER",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/inpelaizer",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/05/インペライザー（縦長）.jpg"
+  },
+  {
+    "name": "ZAMSHER",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/zamsher",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2008/02/ザムシャー.jpg"
+  },
+  {
+    "name": "DINOZOLE",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/dinozole",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2026/01/ディノゾール.jpg"
+  },
+  {
+    "name": "DARK ZAGI",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/dark-zagi",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/04/ダークザギ（縦長）.jpg"
+  },
+  {
+    "name": "CHAOS-ULTRAMAN",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/chaos-ultraman",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2005/02/カオスウルトラマン.jpg"
+  },
+  {
+    "name": "GOLMEDE",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/golmede",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2026/01/ゴルメデ.jpg"
+  },
+  {
+    "name": "LIDORIAS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/lidorias",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2026/01/リドリアス.jpg"
+  },
+  {
+    "name": "KING OF MONS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/king-of-mons",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/06/キングオブモンス-2.jpg"
+  },
+  {
+    "name": "GAN-Q",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/gan-q",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/12/ganq2.jpg"
+  },
+  {
+    "name": "MONS-AHGAR",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/mons-ahgar",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/07/モンスアーガー.jpg"
+  },
+  {
+    "name": "EVIL TIGA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/evil-tiga",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/04/EvilTiga_list.jpg"
+  },
+  {
+    "name": "SILVERGON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/silvergon",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2026/02/シルバゴン.jpg"
+  },
+  {
+    "name": "KYRIELOID II",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/kyrieloid-ii",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/04/KyrieloidII_list.jpg"
+  },
+  {
+    "name": "GAZORT",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/gazort",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2026/02/ガゾート.jpg"
+  },
+  {
+    "name": "KYRIELOID",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/kyrieloid",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/04/Kyrieloid_list.jpg"
+  },
+  {
+    "name": "MELBA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/melba",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/04/Melba_list.jpg"
+  },
+  {
+    "name": "GOLZA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/golza",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2002/01/ゴルザ.jpg"
+  },
+  {
+    "name": "PSYCHO ALIEN BALTAN",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/psycho-alien-baltan",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/PBal_list-1.jpg"
+  },
+  {
+    "name": "ZETTON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/zetton-2",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Zer_list-1.jpg"
+  },
+  {
+    "name": "GOMORA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/gomora-2",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Gomo_list-1.jpg"
+  },
+  {
+    "name": "DADA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/dada-2",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Dada_list-1.jpg"
+  },
+  {
+    "name": "JAMILA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/jamilare",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Jam_list-1.jpg"
+  },
+  {
+    "name": "RED KING (MALE) AND RED KING (FEMALE)",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/red-king-male-and-red-king-female",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Redkingboth-cut.jpg"
+  },
+  {
+    "name": "ALIEN BALTAN",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-baltan",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Bal_list-1.jpg"
+  },
+  {
+    "name": "KILAZEE",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/kilazee",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Si_list-1.jpg"
+  },
+  {
+    "name": "KODALAR",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/kodalar",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Koda_list-1.jpg"
+  },
+  {
+    "name": "SUPER GUDIS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/super-gudis",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Go2_list-1.jpg"
+  },
+  {
+    "name": "DEGUNJA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/degunja",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Deg_list-1.jpg"
+  },
+  {
+    "name": "GUDIS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/gudis",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Go_list-1.jpg"
+  },
+  {
+    "name": "MARGODON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/margodon",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Margodon-Top.jpg"
+  },
+  {
+    "name": "PLAZMA AND MINAZMA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/plazma-and-minazma",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Pluzma-Minuzma-Top.jpg"
+  },
+  {
+    "name": "DELUSION ULTRASEVEN",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/delusion-ultraseven",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Delusion-Ultraseven-Top.jpg"
+  },
+  {
+    "name": "GYMAIRA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/gymaira",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Gymaira-Top.jpg"
+  },
+  {
+    "name": "SARAMANDORA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/saramandora",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Saramandra-Top.jpg"
+  },
+  {
+    "name": "NOISELER",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/noiseler",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Noiseler-Top.jpg"
+  },
+  {
+    "name": "MECHAGIRAS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/mechagiras",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Mecha-Giras-Top.jpg"
+  },
+  {
+    "name": "ZANDRIAS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/zandrias",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Zandrias-Top.jpg"
+  },
+  {
+    "name": "HOU",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/hoe",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Hoe-Top.jpg"
+  },
+  {
+    "name": "CRESCENT",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/crescent",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Crescent-Top.jpg"
+  },
+  {
+    "name": "BLACK END",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/black-end",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Black-End-Top.jpg"
+  },
+  {
+    "name": "NOVA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/nova",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Nova-Top.png"
+  },
+  {
+    "name": "SILVERBLOOME",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/silverbloome",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Silverbloome-Top.jpg"
+  },
+  {
+    "name": "ALIEN BABARUE",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-babarue",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2002/01/ババルウ星人.jpg"
+  },
+  {
+    "name": "SEVENGER",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/sevenger-2",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Sevenger-Top.jpg"
+  },
+  {
+    "name": "ALIEN AKUMANIA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-akumania",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Akumania-Top.jpg"
+  },
+  {
+    "name": "PRESSURE",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-pressure",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Pressure-Top.png"
+  },
+  {
+    "name": "GARON AND LITTRE",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/garon-and-littre",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Gallon-Liter-Top.jpg"
+  },
+  {
+    "name": "BLACK GIRAS AND RED GIRAS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/black-giras-and-red-giras",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Blackgilas-Redgilas.jpg"
+  },
+  {
+    "name": "ALIEN MAGMA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-magma",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Alien-Magma-Top.jpg"
+  },
+  {
+    "name": "SAMEKUJIRA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/samekujira",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Samekujira-Top.png"
+  },
+  {
+    "name": "ALIEN VALKY",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-valky",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Alien-Valky-Top.jpg"
+  },
+  {
+    "name": "PICCOLO",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/piccolo",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Piccolo-Top.png"
+  },
+  {
+    "name": "TYRANT",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/tyrant",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/12/tyrant.jpg"
+  },
+  {
+    "name": "MOCHIRON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/mochiron",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Mochiron-Top.jpg"
+  },
+  {
+    "name": "ALIEN TEMPEROR",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-temperor",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Temperor-Top.jpg"
+  },
+  {
+    "name": "MURUROA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/mururoa",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Mururoa-Top.jpg"
+  },
+  {
+    "name": "BIRDON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/birdon",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/10/Birdon-Profile.jpg"
+  },
+  {
+    "name": "RAIVEKING",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/raiveking",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Liveking-Top.jpg"
+  },
+  {
+    "name": "ASTROMONS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/astromons",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Astromons-Top.png"
+  },
+  {
+    "name": "JUMBO KING",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/jumbo-king",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Jumboking-Top.jpg"
+  },
+  {
+    "name": "SNOWGIRAN",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/snowgiran",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/12/Snowgiran-profile.jpg"
+  },
+  {
+    "name": "LUNATICKS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/lunaticks",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Lunaticks-Top.jpg"
+  },
+  {
+    "name": "ALIEN HIPPORIT",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-hipporit",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/AlienHipporit-Top.jpg"
+  },
+  {
+    "name": "GIANT YAPOOL",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/giant-yapool",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Giant-Yapool-Top.png"
+  },
+  {
+    "name": "ACE-KILLER",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/ace-killer",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Ace-Killer-Top.png"
+  },
+  {
+    "name": "BARABA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/baraba",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Barava-Top.jpg"
+  },
+  {
+    "name": "DORAGORY",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/doragory",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Doragory-Top.jpg"
+  },
+  {
+    "name": "ARIBUNTA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/aribunta",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Aribunta-Top.jpg"
+  },
+  {
+    "name": "VAKISHIM",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/vakishim",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Vakishim-Top.jpg"
+  },
+  {
+    "name": "VEROKRON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/verokron",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Verokron-Top.png"
+  },
+  {
+    "name": "YAPOOL",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/yapool",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/04/ヤプール（縦長）.jpg"
+  },
+  {
+    "name": "ZETTON II",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/zetton-ii",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Zetton-II-Top.jpg"
+  },
+  {
+    "name": "ALIEN BAT",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-bat",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Alien-Bat.jpg"
+  },
+  {
+    "name": "BLACK KING",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/black-king",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Black-King-Top.jpg"
+  },
+  {
+    "name": "ALIEN NACKLE",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-nackle",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Alien-Nackle-Top.jpg"
+  },
+  {
+    "name": "PRIS-MA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/pris-ma",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Prizuma-Top.png"
+  },
+  {
+    "name": "MURUCHI",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/muruchi",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2026/02/ムルチ.jpg"
+  },
+  {
+    "name": "BEMSTAR",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/bemstar",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Bemstar-Top.png"
+  },
+  {
+    "name": "TWINTAIL",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/twin-tail",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Twintail-Top.png"
+  },
+  {
+    "name": "GUDON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/gudon",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Gudon-Top.jpg"
+  },
+  {
+    "name": "KINGSAURUS III",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/kingsaurus-iii",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2002/01/キングザウルス三世.jpg"
+  },
+  {
+    "name": "ARSTRON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/arstron",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Arstron-Top.jpg"
+  },
+  {
+    "name": "TAKKONG",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/takkong",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Takkong-Top.jpg"
+  },
+  {
+    "name": "PANDON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/pandon",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Pandon_list.jpg"
+  },
+  {
+    "name": "ALIEN GHOSE",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-ghose",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Alien-Ghose_list.jpg"
+  },
+  {
+    "name": "IMIT-ULTRASEVEN",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/imit-ultraseven",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Imit-Ultraseven_list.jpg"
+  },
+  {
+    "name": "ALLIEN GORON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/allien-goron",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Alien-Goron_list.jpg"
+  },
+  {
+    "name": "NONMALT",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/nonmalt",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Nonmalt_list.jpg"
+  },
+  {
+    "name": "ALIEN GUTS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-guts",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Alien-Guts_list.jpg"
+  },
+  {
+    "name": "CRAZYGON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/crazygon",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Crazygon_list.jpg"
+  },
+  {
+    "name": "DALLIE",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/dallie",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Dallie_list.jpg"
+  },
+  {
+    "name": "DINO-TANK",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/dino-tank",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Dino-Tank_list.jpg"
+  },
+  {
+    "name": "STAR BEM GYERON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/star-bem-gyeron",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Star-Bem-Gyeron_list.jpg"
+  },
+  {
+    "name": "ALIEN CANNAN",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-cannan",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/08/Alien-Canan.jpg"
+  },
+  {
+    "name": "ALIEN SHADOW",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-shadow",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Alien-Shadow_list.jpg"
+  },
+  {
+    "name": "IRON ROCKS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/iron-rocks",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Iron-Rocks_list.jpg"
+  },
+  {
+    "name": "ALIEN BADO",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-bado",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Alien-Bado_list.jpg"
+  },
+  {
+    "name": "KING JOE",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/king-joe",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/KingJoe_list.jpg"
+  },
+  {
+    "name": "NURSE",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/nurse",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Nurse_list.jpg"
+  },
+  {
+    "name": "ALIEN ICARUS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-icarus",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Alien-Icarus_list.jpg"
+  },
+  {
+    "name": "ALIEN CHIBULL",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-chibull",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Alien-Chibull_list.jpg"
+  },
+  {
+    "name": "ALIEN METRON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-metron",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2002/01/メトロン星人.jpg"
+  },
+  {
+    "name": "ALIEN PEGASSA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-pegassa",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Alien-Pegassa_list.jpg"
+  },
+  {
+    "name": "ALIEN VIRA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-vira",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Alien-Vira_list.jpg"
+  },
+  {
+    "name": "ALIEN GODOLA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-godola",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/godola_list.jpg"
+  },
+  {
+    "name": "ELEKING",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/eleking",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/12/eleking.jpg"
+  },
+  {
+    "name": "ALIEN PITT",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-pitt",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/pitt_l.jpg"
+  },
+  {
+    "name": "ALIEN COOL",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-cool",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2002/01/alien-cool.jpg"
+  },
+  {
+    "name": "AGIRA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/agira",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Agira_list.jpg"
+  },
+  {
+    "name": "MICLAS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/miclas",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Miclas_list.jpg"
+  },
+  {
+    "name": "WINDOM",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/windom",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2002/01/Windom_new.jpg"
+  },
+  {
+    "name": "ZETTON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/zetton",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/12/zetton.jpg"
+  },
+  {
+    "name": "GERONIMON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/geronimon",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Geronimon_list.jpg"
+  },
+  {
+    "name": "ZARAGAS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/zaragas",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/zaragas_list.jpg"
+  },
+  {
+    "name": "SEABOZU",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/seabozu",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/seabozu_list.jpg"
+  },
+  {
+    "name": "SKYDON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/skydon",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/skydon.jpg"
+  },
+  {
+    "name": "ALIEN MEFILAS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-mefilas",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/mefilas_list.jpg"
+  },
+  {
+    "name": "KERONIA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/keronia",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2026/02/ケロニア.jpg"
+  },
+  {
+    "name": "WOO",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/woo",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/woo-list.jpg"
+  },
+  {
+    "name": "DADA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/dada",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Dada.jpg"
+  },
+  {
+    "name": "GOMORA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/gomora",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2001/01/ゴモラ.jpg"
+  },
+  {
+    "name": "RED KING II",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/red-king-2",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Red-King-II.jpg"
+  },
+  {
+    "name": "GUBILA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/gubila",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Gubila.png"
+  },
+  {
+    "name": "JAMILA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/jamila",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Jamila_list.jpg"
+  },
+  {
+    "name": "TELESDON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/telesdon",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Telesdon.jpg"
+  },
+  {
+    "name": "KEMULAR",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/kemular",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Kemular.jpg"
+  },
+  {
+    "name": "IMIT-ULTRAMAN",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/imit-ultraman",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/imit_U.jpg"
+  },
+  {
+    "name": "ALIEN ZARAB",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-zarab",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/zarab.jpg"
+  },
+  {
+    "name": "BULLTON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/bullton",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2001/01/ブルトン.jpg"
+  },
+  {
+    "name": "ALIEN BALTAN II",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/alien-baltan-ii",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/BaltanII-list_.png"
+  },
+  {
+    "name": "PESTER",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/pester",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Pester_List.jpg"
+  },
+  {
+    "name": "GANGO",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/gango",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Gango_List.jpg"
+  },
+  {
+    "name": "JIRAHS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/jirahs",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Jirahs_list.jpg"
+  },
+  {
+    "name": "GABORA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/gabora",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2001/01/ガボラ.jpg"
+  },
+  {
+    "name": "PIGMON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/pigmon",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2001/01/ピグモン.jpg"
+  },
+  {
+    "name": "RED KING",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/red-king",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2001/01/レッドキング.jpg"
+  },
+  {
+    "name": "ANTLAR",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/antlar",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Antlar_list.jpg"
+  },
+  {
+    "name": "NERONGA",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/neronga",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Neronga_list.jpg"
+  },
+  {
+    "name": "ALIEN BALTAN",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/baltan",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/12/baltan.jpg"
+  },
+  {
+    "name": "BEMULAR",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/bemular",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2001/01/ベムラー-1.jpg"
+  },
+  {
+    "name": "PAGOS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/pagos",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/09/UltraQ_Pagos-profile.jpg"
+  },
+  {
+    "name": "KANEGON",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/kanegon",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/12/kanegon.jpg"
+  },
+  {
+    "name": "M1",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/m1",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/05/ultra-kaiju_m1_profile.jpg"
+  },
+  {
+    "name": "GOMESS",
+    "page_url": "https://tsuburaya-prod.com/encyclopedia/gomess",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/Gomes.jpg"
+  }
+]

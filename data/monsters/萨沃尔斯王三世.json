@@ -1,0 +1,31 @@
+{
+  "id": "monster:45a06efa75",
+  "type": "monster",
+  "name_zh": "萨沃尔斯王三世",
+  "name_en": "KINGSAURUS III",
+  "aliases": [
+    "萨沃尔斯王三世",
+    "王者萨沃尔斯三世"
+  ],
+  "image": "assets/monsters/萨沃尔斯王三世/portrait.webp",
+  "image_original": "assets/monsters/萨沃尔斯王三世/portrait.png",
+  "first_appearance": {
+    "work": "《归来的奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "古代怪兽，候选阶段为第2阶段。",
+  "summary": "原作常态评级B-；典型能力包括透明屏障、角部光线与冲撞。",
+  "notable_history": [
+    "原作归属：《归来的奥特曼》。",
+    "形态口径：萨沃尔斯王三世独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "B-",
+  "sources": [
+    {
+      "title": "KINGSAURUS III",
+      "url": "https://tsuburaya-prod.com/encyclopedia/kingsaurus-iii",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2002/01/キングザウルス三世.jpg"
+    }
+  ]
+}

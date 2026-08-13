@@ -1,0 +1,31 @@
+{
+  "id": "monster:8a2a8e490c",
+  "type": "monster",
+  "name_zh": "雷布朗多星人",
+  "name_en": "ALIEN REIBLOOD",
+  "aliases": [
+    "雷布朗多星人",
+    "雷布拉德星人"
+  ],
+  "image": "assets/monsters/雷布朗多星人/portrait.webp",
+  "image_original": "assets/monsters/雷布朗多星人/portrait.png",
+  "first_appearance": {
+    "work": "《大怪兽格斗》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "究极生命体，候选阶段为第3阶段。",
+  "summary": "原作常态评级A+；典型能力包括精神寄生、怪兽支配与雷奥尼克斯力量。",
+  "notable_history": [
+    "原作归属：《大怪兽格斗》。",
+    "形态口径：雷布朗多星人独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "A+",
+  "sources": [
+    {
+      "title": "ALIEN REIBLOOD",
+      "url": "",
+      "image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ca3e65e9-5231-4888-87c7-4c3c6b8df0d8/dg0dzio-05fecd50-3a82-4677-8f28-3fef27fda4f9.png/v1/fill/w_577%2Ch_651/alien_reiblood_by_dramakkomon108_dg0dzio-fullview.png"
+    }
+  ]
+}

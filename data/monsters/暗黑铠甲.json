@@ -1,0 +1,30 @@
+{
+  "id": "monster:ede6b0ebae",
+  "type": "monster",
+  "name_zh": "暗黑铠甲",
+  "name_en": "ARMORED DARKNESS",
+  "aliases": [
+    "暗黑铠甲"
+  ],
+  "image": "assets/monsters/暗黑铠甲/portrait.webp",
+  "image_original": "assets/monsters/暗黑铠甲/portrait.png",
+  "first_appearance": {
+    "work": "《梦比优斯外传》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "黑暗魔铠装，候选阶段为第4阶段。",
+  "summary": "原作常态评级A；典型能力包括黑暗纹布、暗黑三叉戟与自律再生。",
+  "notable_history": [
+    "原作归属：《梦比优斯外传》。",
+    "形态口径：暗黑铠甲独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "A",
+  "sources": [
+    {
+      "title": "ARMORED DARKNESS",
+      "url": "",
+      "image_url": "https://canvas-lb.tubitv.com/opts/m8wYTHEhN5mzQA%3D%3D/37b0fb38-568e-43f8-8871-b3c6e75bf6d9/CJgDEMcEOgUxLjEuNg%3D%3D"
+    }
+  ]
+}

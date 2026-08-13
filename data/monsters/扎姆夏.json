@@ -1,0 +1,30 @@
+{
+  "id": "monster:d83c7ec46d",
+  "type": "monster",
+  "name_zh": "扎姆夏",
+  "name_en": "ZAMSHER",
+  "aliases": [
+    "扎姆夏"
+  ],
+  "image": "assets/monsters/扎姆夏/portrait.webp",
+  "image_original": "assets/monsters/扎姆夏/portrait.png",
+  "first_appearance": {
+    "work": "《梦比优斯奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "宇宙剑豪，候选阶段为第3阶段。",
+  "summary": "原作常态评级B+；典型能力包括星斩丸、高速剑术与能量斩击。",
+  "notable_history": [
+    "原作归属：《梦比优斯奥特曼》。",
+    "形态口径：扎姆夏独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": [
+    {
+      "title": "ZAMSHER",
+      "url": "https://tsuburaya-prod.com/encyclopedia/zamsher",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2008/02/ザムシャー.jpg"
+    }
+  ]
+}

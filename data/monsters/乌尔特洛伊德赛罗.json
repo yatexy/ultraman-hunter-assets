@@ -1,0 +1,30 @@
+{
+  "id": "monster:622b504531",
+  "type": "monster",
+  "name_zh": "乌尔特洛伊德赛罗",
+  "name_en": "ULTROID ZERO",
+  "aliases": [
+    "乌尔特洛伊德赛罗"
+  ],
+  "image": "assets/monsters/乌尔特洛伊德赛罗/portrait.webp",
+  "image_original": "assets/monsters/乌尔特洛伊德赛罗/portrait.png",
+  "first_appearance": {
+    "work": "《泽塔奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "特空机，候选阶段为第4阶段。",
+  "summary": "原作常态评级A；典型能力包括D4射线、全身火器与高机动推进。",
+  "notable_history": [
+    "原作归属：《泽塔奥特曼》。",
+    "形态口径：乌尔特洛伊德赛罗独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "A",
+  "sources": [
+    {
+      "title": "ULTROID ZERO",
+      "url": "https://tsuburaya-prod.com/encyclopedia/ultroid-zero",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/UltroidZero-Top.png"
+    }
+  ]
+}

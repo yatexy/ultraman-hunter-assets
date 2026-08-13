@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "ultraman-hunter-assets",
-  "updated_at": "2026-07-29",
+  "updated_at": "2026-08-13",
   "cdn_base": "https://testingcf.jsdelivr.net/gh/yatexy/ultraman-hunter-assets@main/",
   "entities": {
     "ultra:ultraman": {
@@ -1392,6 +1392,917 @@
       ],
       "image": "assets/monsters/圣物失控融合体/portrait.webp",
       "profile": "data/monsters/圣物失控融合体.json"
+    },
+    "monster:c25acece60": {
+      "type": "monster",
+      "name": "贝姆拉",
+      "aliases": [
+        "贝姆拉"
+      ],
+      "image": "assets/monsters/贝姆拉/portrait.webp",
+      "profile": "data/monsters/贝姆拉.json"
+    },
+    "monster:2e0e7c288d": {
+      "type": "monster",
+      "name": "内隆嘎",
+      "aliases": [
+        "内隆嘎"
+      ],
+      "image": "assets/monsters/内隆嘎/portrait.webp",
+      "profile": "data/monsters/内隆嘎.json"
+    },
+    "monster:32a67a6eba": {
+      "type": "monster",
+      "name": "加勃拉",
+      "aliases": [
+        "加勃拉"
+      ],
+      "image": "assets/monsters/加勃拉/portrait.webp",
+      "profile": "data/monsters/加勃拉.json"
+    },
+    "monster:45bdd28c38": {
+      "type": "monster",
+      "name": "吉拉斯",
+      "aliases": [
+        "吉拉斯"
+      ],
+      "image": "assets/monsters/吉拉斯/portrait.webp",
+      "profile": "data/monsters/吉拉斯.json"
+    },
+    "monster:75148e62be": {
+      "type": "monster",
+      "name": "佩斯塔",
+      "aliases": [
+        "佩斯塔"
+      ],
+      "image": "assets/monsters/佩斯塔/portrait.webp",
+      "profile": "data/monsters/佩斯塔.json"
+    },
+    "monster:031e1ffb44": {
+      "type": "monster",
+      "name": "凯姆拉",
+      "aliases": [
+        "凯姆拉"
+      ],
+      "image": "assets/monsters/凯姆拉/portrait.webp",
+      "profile": "data/monsters/凯姆拉.json"
+    },
+    "monster:9f48eb559d": {
+      "type": "monster",
+      "name": "贾米拉",
+      "aliases": [
+        "贾米拉"
+      ],
+      "image": "assets/monsters/贾米拉/portrait.webp",
+      "profile": "data/monsters/贾米拉.json"
+    },
+    "monster:bf993a558e": {
+      "type": "monster",
+      "name": "史盖顿",
+      "aliases": [
+        "史盖顿"
+      ],
+      "image": "assets/monsters/史盖顿/portrait.webp",
+      "profile": "data/monsters/史盖顿.json"
+    },
+    "monster:d25bbb1142": {
+      "type": "monster",
+      "name": "西博兹",
+      "aliases": [
+        "西博兹"
+      ],
+      "image": "assets/monsters/西博兹/portrait.webp",
+      "profile": "data/monsters/西博兹.json"
+    },
+    "monster:beb70ff375": {
+      "type": "monster",
+      "name": "扎拉加斯",
+      "aliases": [
+        "扎拉加斯"
+      ],
+      "image": "assets/monsters/扎拉加斯/portrait.webp",
+      "profile": "data/monsters/扎拉加斯.json"
+    },
+    "monster:b7678b380b": {
+      "type": "monster",
+      "name": "杰罗尼蒙",
+      "aliases": [
+        "杰罗尼蒙"
+      ],
+      "image": "assets/monsters/杰罗尼蒙/portrait.webp",
+      "profile": "data/monsters/杰罗尼蒙.json"
+    },
+    "monster:4315dbf5e1": {
+      "type": "monster",
+      "name": "匹格蒙",
+      "aliases": [
+        "匹格蒙"
+      ],
+      "image": "assets/monsters/匹格蒙/portrait.webp",
+      "profile": "data/monsters/匹格蒙.json"
+    },
+    "monster:1202e984b6": {
+      "type": "monster",
+      "name": "雷德王二代",
+      "aliases": [
+        "雷德王二代"
+      ],
+      "image": "assets/monsters/雷德王二代/portrait.webp",
+      "profile": "data/monsters/雷德王二代.json"
+    },
+    "monster:32373f1a21": {
+      "type": "monster",
+      "name": "哥美斯",
+      "aliases": [
+        "哥美斯"
+      ],
+      "image": "assets/monsters/哥美斯/portrait.webp",
+      "profile": "data/monsters/哥美斯.json"
+    },
+    "monster:1d5a3cc26a": {
+      "type": "monster",
+      "name": "帕戈斯",
+      "aliases": [
+        "帕戈斯"
+      ],
+      "image": "assets/monsters/帕戈斯/portrait.webp",
+      "profile": "data/monsters/帕戈斯.json"
+    },
+    "monster:29fee776c6": {
+      "type": "monster",
+      "name": "卡内贡",
+      "aliases": [
+        "卡内贡"
+      ],
+      "image": "assets/monsters/卡内贡/portrait.webp",
+      "profile": "data/monsters/卡内贡.json"
+    },
+    "monster:819e6efafa": {
+      "type": "monster",
+      "name": "M1号",
+      "aliases": [
+        "M1号"
+      ],
+      "image": "assets/monsters/M1号/portrait.webp",
+      "profile": "data/monsters/M1号.json"
+    },
+    "monster:6df2a3fcc8": {
+      "type": "monster",
+      "name": "美尔巴",
+      "aliases": [
+        "美尔巴",
+        "梅尔巴"
+      ],
+      "image": "assets/monsters/美尔巴/portrait.webp",
+      "profile": "data/monsters/美尔巴.json"
+    },
+    "monster:f72054cb52": {
+      "type": "monster",
+      "name": "哥尔赞",
+      "aliases": [
+        "哥尔赞"
+      ],
+      "image": "assets/monsters/哥尔赞/portrait.webp",
+      "profile": "data/monsters/哥尔赞.json"
+    },
+    "monster:2c52ccd514": {
+      "type": "monster",
+      "name": "杰顿",
+      "aliases": [
+        "杰顿"
+      ],
+      "image": "assets/monsters/杰顿/portrait.webp",
+      "profile": "data/monsters/杰顿.json"
+    },
+    "monster:27bdffd474": {
+      "type": "monster",
+      "name": "杰顿二代",
+      "aliases": [
+        "杰顿二代"
+      ],
+      "image": "assets/monsters/杰顿二代/portrait.webp",
+      "profile": "data/monsters/杰顿二代.json"
+    },
+    "monster:806a8dd3b9": {
+      "type": "monster",
+      "name": "贝蒙斯坦",
+      "aliases": [
+        "贝蒙斯坦"
+      ],
+      "image": "assets/monsters/贝蒙斯坦/portrait.webp",
+      "profile": "data/monsters/贝蒙斯坦.json"
+    },
+    "monster:45a06efa75": {
+      "type": "monster",
+      "name": "萨沃尔斯王三世",
+      "aliases": [
+        "萨沃尔斯王三世",
+        "王者萨沃尔斯三世"
+      ],
+      "image": "assets/monsters/萨沃尔斯王三世/portrait.webp",
+      "profile": "data/monsters/萨沃尔斯王三世.json"
+    },
+    "monster:62f8ccd9e9": {
+      "type": "monster",
+      "name": "普利茨魔",
+      "aliases": [
+        "普利茨魔",
+        "普利茨玛"
+      ],
+      "image": "assets/monsters/普利茨魔/portrait.webp",
+      "profile": "data/monsters/普利茨魔.json"
+    },
+    "monster:5bf54dfd55": {
+      "type": "monster",
+      "name": "黑王",
+      "aliases": [
+        "黑王"
+      ],
+      "image": "assets/monsters/黑王/portrait.webp",
+      "profile": "data/monsters/黑王.json"
+    },
+    "monster:19113f2796": {
+      "type": "monster",
+      "name": "希波利特星人",
+      "aliases": [
+        "希波利特星人"
+      ],
+      "image": "assets/monsters/希波利特星人/portrait.webp",
+      "profile": "data/monsters/希波利特星人.json"
+    },
+    "monster:a8d12df5ec": {
+      "type": "monster",
+      "name": "嘎次星人",
+      "aliases": [
+        "嘎次星人",
+        "噶次星人"
+      ],
+      "image": "assets/monsters/嘎次星人/portrait.webp",
+      "profile": "data/monsters/嘎次星人.json"
+    },
+    "monster:d951a9ee53": {
+      "type": "monster",
+      "name": "火焰哥尔赞",
+      "aliases": [
+        "火焰哥尔赞",
+        "强化哥尔赞",
+        "哥尔赞强化形态"
+      ],
+      "image": "assets/monsters/火焰哥尔赞/portrait.webp",
+      "profile": "data/monsters/火焰哥尔赞.json"
+    },
+    "monster:8bafe0b005": {
+      "type": "monster",
+      "name": "希尔巴贡",
+      "aliases": [
+        "希尔巴贡"
+      ],
+      "image": "assets/monsters/希尔巴贡/portrait.webp",
+      "profile": "data/monsters/希尔巴贡.json"
+    },
+    "monster:1d00133cb5": {
+      "type": "monster",
+      "name": "迪玛迦",
+      "aliases": [
+        "迪玛迦"
+      ],
+      "image": "assets/monsters/迪玛迦/portrait.webp",
+      "profile": "data/monsters/迪玛迦.json"
+    },
+    "monster:ebc9d99590": {
+      "type": "monster",
+      "name": "格斯拉王",
+      "aliases": [
+        "格斯拉王",
+        "金古桥斯拉王"
+      ],
+      "image": "assets/monsters/格斯拉王/portrait.webp",
+      "profile": "data/monsters/格斯拉王.json"
+    },
+    "monster:2f42536ae5": {
+      "type": "monster",
+      "name": "EX雷德王",
+      "aliases": [
+        "EX雷德王"
+      ],
+      "image": "assets/monsters/EX雷德王/portrait.webp",
+      "profile": "data/monsters/EX雷德王.json"
+    },
+    "monster:868a28034a": {
+      "type": "monster",
+      "name": "EX艾雷王",
+      "aliases": [
+        "EX艾雷王"
+      ],
+      "image": "assets/monsters/EX艾雷王/portrait.webp",
+      "profile": "data/monsters/EX艾雷王.json"
+    },
+    "monster:dcd2d4eb79": {
+      "type": "monster",
+      "name": "EX哥莫拉",
+      "aliases": [
+        "EX哥莫拉"
+      ],
+      "image": "assets/monsters/EX哥莫拉/portrait.webp",
+      "profile": "data/monsters/EX哥莫拉.json"
+    },
+    "monster:7ba135fe8c": {
+      "type": "monster",
+      "name": "EX杰顿",
+      "aliases": [
+        "EX杰顿"
+      ],
+      "image": "assets/monsters/EX杰顿/portrait.webp",
+      "profile": "data/monsters/EX杰顿.json"
+    },
+    "monster:570db85340": {
+      "type": "monster",
+      "name": "吉迈拉",
+      "aliases": [
+        "吉迈拉"
+      ],
+      "image": "assets/monsters/吉迈拉/portrait.webp",
+      "profile": "data/monsters/吉迈拉.json"
+    },
+    "monster:e4507a13c4": {
+      "type": "monster",
+      "name": "萨拉曼多拉",
+      "aliases": [
+        "萨拉曼多拉"
+      ],
+      "image": "assets/monsters/萨拉曼多拉/portrait.webp",
+      "profile": "data/monsters/萨拉曼多拉.json"
+    },
+    "monster:0fdc696ca6": {
+      "type": "monster",
+      "name": "伊卡尔斯星人",
+      "aliases": [
+        "伊卡尔斯星人"
+      ],
+      "image": "assets/monsters/伊卡尔斯星人/portrait.webp",
+      "profile": "data/monsters/伊卡尔斯星人.json"
+    },
+    "monster:8e8859f4fd": {
+      "type": "monster",
+      "name": "帝国星人",
+      "aliases": [
+        "帝国星人"
+      ],
+      "image": "assets/monsters/帝国星人/portrait.webp",
+      "profile": "data/monsters/帝国星人.json"
+    },
+    "monster:44260730f5": {
+      "type": "monster",
+      "name": "匹特星人",
+      "aliases": [
+        "匹特星人"
+      ],
+      "image": "assets/monsters/匹特星人/portrait.webp",
+      "profile": "data/monsters/匹特星人.json"
+    },
+    "monster:477d01beed": {
+      "type": "monster",
+      "name": "佩盖萨星人",
+      "aliases": [
+        "佩盖萨星人"
+      ],
+      "image": "assets/monsters/佩盖萨星人/portrait.webp",
+      "profile": "data/monsters/佩盖萨星人.json"
+    },
+    "monster:831a9a39f1": {
+      "type": "monster",
+      "name": "巴巴尔星人",
+      "aliases": [
+        "巴巴尔星人"
+      ],
+      "image": "assets/monsters/巴巴尔星人/portrait.webp",
+      "profile": "data/monsters/巴巴尔星人.json"
+    },
+    "monster:1081f3b9cf": {
+      "type": "monster",
+      "name": "瓦尔基星人",
+      "aliases": [
+        "瓦尔基星人"
+      ],
+      "image": "assets/monsters/瓦尔基星人/portrait.webp",
+      "profile": "data/monsters/瓦尔基星人.json"
+    },
+    "monster:761a87bcf3": {
+      "type": "monster",
+      "name": "巴特星人",
+      "aliases": [
+        "巴特星人"
+      ],
+      "image": "assets/monsters/巴特星人/portrait.webp",
+      "profile": "data/monsters/巴特星人.json"
+    },
+    "monster:e651d74a85": {
+      "type": "monster",
+      "name": "巴罗萨星人",
+      "aliases": [
+        "巴罗萨星人"
+      ],
+      "image": "assets/monsters/巴罗萨星人/portrait.webp",
+      "profile": "data/monsters/巴罗萨星人.json"
+    },
+    "monster:d24ffb8834": {
+      "type": "monster",
+      "name": "卡南星人",
+      "aliases": [
+        "卡南星人"
+      ],
+      "image": "assets/monsters/卡南星人/portrait.webp",
+      "profile": "data/monsters/卡南星人.json"
+    },
+    "monster:a9ceb1eed6": {
+      "type": "monster",
+      "name": "夏德星人",
+      "aliases": [
+        "夏德星人"
+      ],
+      "image": "assets/monsters/夏德星人/portrait.webp",
+      "profile": "data/monsters/夏德星人.json"
+    },
+    "monster:d83c7ec46d": {
+      "type": "monster",
+      "name": "扎姆夏",
+      "aliases": [
+        "扎姆夏"
+      ],
+      "image": "assets/monsters/扎姆夏/portrait.webp",
+      "profile": "data/monsters/扎姆夏.json"
+    },
+    "monster:8a2a8e490c": {
+      "type": "monster",
+      "name": "雷布朗多星人",
+      "aliases": [
+        "雷布朗多星人",
+        "雷布拉德星人"
+      ],
+      "image": "assets/monsters/雷布朗多星人/portrait.webp",
+      "profile": "data/monsters/雷布朗多星人.json"
+    },
+    "monster:3fb47d9dcd": {
+      "type": "monster",
+      "name": "亚波人",
+      "aliases": [
+        "亚波人"
+      ],
+      "image": "assets/monsters/亚波人/portrait.webp",
+      "profile": "data/monsters/亚波人.json"
+    },
+    "monster:9b5551c0e4": {
+      "type": "monster",
+      "name": "艾斯杀手",
+      "aliases": [
+        "艾斯杀手"
+      ],
+      "image": "assets/monsters/艾斯杀手/portrait.webp",
+      "profile": "data/monsters/艾斯杀手.json"
+    },
+    "monster:1254353471": {
+      "type": "monster",
+      "name": "巨大亚波人",
+      "aliases": [
+        "巨大亚波人"
+      ],
+      "image": "assets/monsters/巨大亚波人/portrait.webp",
+      "profile": "data/monsters/巨大亚波人.json"
+    },
+    "monster:7a7c24b57c": {
+      "type": "monster",
+      "name": "巴拉巴",
+      "aliases": [
+        "巴拉巴"
+      ],
+      "image": "assets/monsters/巴拉巴/portrait.webp",
+      "profile": "data/monsters/巴拉巴.json"
+    },
+    "monster:be575b341c": {
+      "type": "monster",
+      "name": "阿里蓬塔",
+      "aliases": [
+        "阿里蓬塔"
+      ],
+      "image": "assets/monsters/阿里蓬塔/portrait.webp",
+      "profile": "data/monsters/阿里蓬塔.json"
+    },
+    "monster:5007e3a375": {
+      "type": "monster",
+      "name": "强博王",
+      "aliases": [
+        "强博王"
+      ],
+      "image": "assets/monsters/强博王/portrait.webp",
+      "profile": "data/monsters/强博王.json"
+    },
+    "monster:5fab6ad39e": {
+      "type": "monster",
+      "name": "鲁纳蒂克斯",
+      "aliases": [
+        "鲁纳蒂克斯"
+      ],
+      "image": "assets/monsters/鲁纳蒂克斯/portrait.webp",
+      "profile": "data/monsters/鲁纳蒂克斯.json"
+    },
+    "monster:8556e0f81b": {
+      "type": "monster",
+      "name": "阿斯托罗姆斯",
+      "aliases": [
+        "阿斯托罗姆斯"
+      ],
+      "image": "assets/monsters/阿斯托罗姆斯/portrait.webp",
+      "profile": "data/monsters/阿斯托罗姆斯.json"
+    },
+    "monster:e0500a23fb": {
+      "type": "monster",
+      "name": "赛文加",
+      "aliases": [
+        "赛文加"
+      ],
+      "image": "assets/monsters/赛文加/portrait.webp",
+      "profile": "data/monsters/赛文加.json"
+    },
+    "monster:f989d05933": {
+      "type": "monster",
+      "name": "乌英达姆",
+      "aliases": [
+        "乌英达姆"
+      ],
+      "image": "assets/monsters/乌英达姆/portrait.webp",
+      "profile": "data/monsters/乌英达姆.json"
+    },
+    "monster:986475f0eb": {
+      "type": "monster",
+      "name": "米克拉斯",
+      "aliases": [
+        "米克拉斯"
+      ],
+      "image": "assets/monsters/米克拉斯/portrait.webp",
+      "profile": "data/monsters/米克拉斯.json"
+    },
+    "monster:332c8668ca": {
+      "type": "monster",
+      "name": "阿基拉",
+      "aliases": [
+        "阿基拉"
+      ],
+      "image": "assets/monsters/阿基拉/portrait.webp",
+      "profile": "data/monsters/阿基拉.json"
+    },
+    "monster:784e188b5c": {
+      "type": "monster",
+      "name": "机械哥莫拉",
+      "aliases": [
+        "机械哥莫拉"
+      ],
+      "image": "assets/monsters/机械哥莫拉/portrait.webp",
+      "profile": "data/monsters/机械哥莫拉.json"
+    },
+    "monster:92d357d3d4": {
+      "type": "monster",
+      "name": "黑暗洛普斯赛罗",
+      "aliases": [
+        "黑暗洛普斯赛罗"
+      ],
+      "image": "assets/monsters/黑暗洛普斯赛罗/portrait.webp",
+      "profile": "data/monsters/黑暗洛普斯赛罗.json"
+    },
+    "monster:6f001bb315": {
+      "type": "monster",
+      "name": "雷吉内德",
+      "aliases": [
+        "雷吉内德"
+      ],
+      "image": "assets/monsters/雷吉内德/portrait.webp",
+      "profile": "data/monsters/雷吉内德.json"
+    },
+    "monster:87f7be83a9": {
+      "type": "monster",
+      "name": "加拉特隆",
+      "aliases": [
+        "加拉特隆"
+      ],
+      "image": "assets/monsters/加拉特隆/portrait.webp",
+      "profile": "data/monsters/加拉特隆.json"
+    },
+    "monster:622b504531": {
+      "type": "monster",
+      "name": "乌尔特洛伊德赛罗",
+      "aliases": [
+        "乌尔特洛伊德赛罗"
+      ],
+      "image": "assets/monsters/乌尔特洛伊德赛罗/portrait.webp",
+      "profile": "data/monsters/乌尔特洛伊德赛罗.json"
+    },
+    "monster:0bb2bd3127": {
+      "type": "monster",
+      "name": "特拉菲扎",
+      "aliases": [
+        "特拉菲扎"
+      ],
+      "image": "assets/monsters/特拉菲扎/portrait.webp",
+      "profile": "data/monsters/特拉菲扎.json"
+    },
+    "monster:ede6b0ebae": {
+      "type": "monster",
+      "name": "暗黑铠甲",
+      "aliases": [
+        "暗黑铠甲"
+      ],
+      "image": "assets/monsters/暗黑铠甲/portrait.webp",
+      "profile": "data/monsters/暗黑铠甲.json"
+    },
+    "monster:f260acf010": {
+      "type": "monster",
+      "name": "U杀手萨乌鲁斯",
+      "aliases": [
+        "U杀手萨乌鲁斯"
+      ],
+      "image": "assets/monsters/U杀手萨乌鲁斯/portrait.webp",
+      "profile": "data/monsters/U杀手萨乌鲁斯.json"
+    },
+    "monster:96022c241c": {
+      "type": "monster",
+      "name": "卡蜜拉",
+      "aliases": [
+        "卡蜜拉"
+      ],
+      "image": "assets/monsters/卡蜜拉/portrait.webp",
+      "profile": "data/monsters/卡蜜拉.json"
+    },
+    "monster:47c42181dc": {
+      "type": "monster",
+      "name": "达拉姆",
+      "aliases": [
+        "达拉姆"
+      ],
+      "image": "assets/monsters/达拉姆/portrait.webp",
+      "profile": "data/monsters/达拉姆.json"
+    },
+    "monster:6e146e12c6": {
+      "type": "monster",
+      "name": "希特拉",
+      "aliases": [
+        "希特拉"
+      ],
+      "image": "assets/monsters/希特拉/portrait.webp",
+      "profile": "data/monsters/希特拉.json"
+    },
+    "monster:211f1a6edc": {
+      "type": "monster",
+      "name": "邪恶迪迦",
+      "aliases": [
+        "邪恶迪迦"
+      ],
+      "image": "assets/monsters/邪恶迪迦/portrait.webp",
+      "profile": "data/monsters/邪恶迪迦.json"
+    },
+    "monster:d6898b4b21": {
+      "type": "monster",
+      "name": "蒙斯王",
+      "aliases": [
+        "蒙斯王"
+      ],
+      "image": "assets/monsters/蒙斯王/portrait.webp",
+      "profile": "data/monsters/蒙斯王.json"
+    },
+    "monster:a754f60b8a": {
+      "type": "monster",
+      "name": "玛伽大蛇",
+      "aliases": [
+        "玛伽大蛇"
+      ],
+      "image": "assets/monsters/玛伽大蛇/portrait.webp",
+      "profile": "data/monsters/玛伽大蛇.json"
+    },
+    "monster:666afa690f": {
+      "type": "monster",
+      "name": "玛伽八岐大蛇",
+      "aliases": [
+        "玛伽八岐大蛇"
+      ],
+      "image": "assets/monsters/玛伽八岐大蛇/portrait.webp",
+      "profile": "data/monsters/玛伽八岐大蛇.json"
+    },
+    "monster:dc94c27eb4": {
+      "type": "monster",
+      "name": "赛高古",
+      "aliases": [
+        "赛高古"
+      ],
+      "image": "assets/monsters/赛高古/portrait.webp",
+      "profile": "data/monsters/赛高古.json"
+    },
+    "monster:806d75e557": {
+      "type": "monster",
+      "name": "古迪斯",
+      "aliases": [
+        "古迪斯"
+      ],
+      "image": "assets/monsters/古迪斯/portrait.webp",
+      "profile": "data/monsters/古迪斯.json"
+    },
+    "monster:e54c009315": {
+      "type": "monster",
+      "name": "超级古迪斯",
+      "aliases": [
+        "超级古迪斯"
+      ],
+      "image": "assets/monsters/超级古迪斯/portrait.webp",
+      "profile": "data/monsters/超级古迪斯.json"
+    },
+    "monster:8615dbbf46": {
+      "type": "monster",
+      "name": "科达拉",
+      "aliases": [
+        "科达拉"
+      ],
+      "image": "assets/monsters/科达拉/portrait.webp",
+      "profile": "data/monsters/科达拉.json"
+    },
+    "monster:25110e9059": {
+      "type": "monster",
+      "name": "希拉利",
+      "aliases": [
+        "希拉利"
+      ],
+      "image": "assets/monsters/希拉利/portrait.webp",
+      "profile": "data/monsters/希拉利.json"
+    },
+    "monster:3c94cf2c60": {
+      "type": "monster",
+      "name": "五帝王",
+      "aliases": [
+        "五帝王",
+        "法伊布王"
+      ],
+      "image": "assets/monsters/五帝王/portrait.webp",
+      "profile": "data/monsters/五帝王.json"
+    },
+    "monster:1ef899dc84": {
+      "type": "monster",
+      "name": "三帝王",
+      "aliases": [
+        "三帝王"
+      ],
+      "image": "assets/monsters/三帝王/portrait.webp",
+      "profile": "data/monsters/三帝王.json"
+    },
+    "monster:b41897c04e": {
+      "type": "monster",
+      "name": "杰庞顿",
+      "aliases": [
+        "杰庞顿"
+      ],
+      "image": "assets/monsters/杰庞顿/portrait.webp",
+      "profile": "data/monsters/杰庞顿.json"
+    },
+    "monster:da07a45355": {
+      "type": "monster",
+      "name": "佩丹尼姆杰顿",
+      "aliases": [
+        "佩丹尼姆杰顿"
+      ],
+      "image": "assets/monsters/佩丹尼姆杰顿/portrait.webp",
+      "profile": "data/monsters/佩丹尼姆杰顿.json"
+    },
+    "monster:03d9643bff": {
+      "type": "monster",
+      "name": "古兰特王",
+      "aliases": [
+        "古兰特王"
+      ],
+      "image": "assets/monsters/古兰特王/portrait.webp",
+      "profile": "data/monsters/古兰特王.json"
+    },
+    "monster:3b5a47cb1a": {
+      "type": "monster",
+      "name": "超级古兰特王",
+      "aliases": [
+        "超级古兰特王"
+      ],
+      "image": "assets/monsters/超级古兰特王/portrait.webp",
+      "profile": "data/monsters/超级古兰特王.json"
+    },
+    "monster:f61adc282c": {
+      "type": "monster",
+      "name": "玛伽古兰特王",
+      "aliases": [
+        "玛伽古兰特王"
+      ],
+      "image": "assets/monsters/玛伽古兰特王/portrait.webp",
+      "profile": "data/monsters/玛伽古兰特王.json"
+    },
+    "monster:662a6d7a3e": {
+      "type": "monster",
+      "name": "超戈布",
+      "aliases": [
+        "超戈布"
+      ],
+      "image": "assets/monsters/超戈布/portrait.webp",
+      "profile": "data/monsters/超戈布.json"
+    },
+    "monster:11fc6aadac": {
+      "type": "monster",
+      "name": "雷丘巴斯",
+      "aliases": [
+        "雷丘巴斯"
+      ],
+      "image": "assets/monsters/雷丘巴斯/portrait.webp",
+      "profile": "data/monsters/雷丘巴斯.json"
+    },
+    "monster:4dc93a9a8f": {
+      "type": "monster",
+      "name": "斯菲亚扎沃尔斯",
+      "aliases": [
+        "斯菲亚扎沃尔斯"
+      ],
+      "image": "assets/monsters/斯菲亚扎沃尔斯/portrait.webp",
+      "profile": "data/monsters/斯菲亚扎沃尔斯.json"
+    },
+    "monster:6e1b21d48c": {
+      "type": "monster",
+      "name": "斯菲亚尼奥美加斯",
+      "aliases": [
+        "斯菲亚尼奥美加斯"
+      ],
+      "image": "assets/monsters/斯菲亚尼奥美加斯/portrait.webp",
+      "profile": "data/monsters/斯菲亚尼奥美加斯.json"
+    },
+    "monster:0e11820e0a": {
+      "type": "monster",
+      "name": "斯菲亚梅加洛杰厄",
+      "aliases": [
+        "斯菲亚梅加洛杰厄"
+      ],
+      "image": "assets/monsters/斯菲亚梅加洛杰厄/portrait.webp",
+      "profile": "data/monsters/斯菲亚梅加洛杰厄.json"
+    },
+    "monster:9aafb7e4d2": {
+      "type": "monster",
+      "name": "戴亚博里古",
+      "aliases": [
+        "戴亚博里古",
+        "迪亚博里古"
+      ],
+      "image": "assets/monsters/戴亚博里古/portrait.webp",
+      "profile": "data/monsters/戴亚博里古.json"
+    },
+    "monster:6b84a5f283": {
+      "type": "monster",
+      "name": "鲁格赛特",
+      "aliases": [
+        "鲁格赛特"
+      ],
+      "image": "assets/monsters/鲁格赛特/portrait.webp",
+      "profile": "data/monsters/鲁格赛特.json"
+    },
+    "monster:5bc0df4258": {
+      "type": "monster",
+      "name": "吉尔巴利斯",
+      "aliases": [
+        "吉尔巴利斯"
+      ],
+      "image": "assets/monsters/吉尔巴利斯/portrait.webp",
+      "profile": "data/monsters/吉尔巴利斯.json"
+    },
+    "monster:4b47bb6ad7": {
+      "type": "monster",
+      "name": "艾塔尔加",
+      "aliases": [
+        "艾塔尔加"
+      ],
+      "image": "assets/monsters/艾塔尔加/portrait.webp",
+      "profile": "data/monsters/艾塔尔加.json"
+    },
+    "monster:966f3afc33": {
+      "type": "monster",
+      "name": "吉咖奇美拉",
+      "aliases": [
+        "吉咖奇美拉"
+      ],
+      "image": "assets/monsters/吉咖奇美拉/portrait.webp",
+      "profile": "data/monsters/吉咖奇美拉.json"
+    },
+    "monster:ee5ae887a6": {
+      "type": "monster",
+      "name": "贝琉多拉",
+      "aliases": [
+        "贝琉多拉"
+      ],
+      "image": "assets/monsters/贝琉多拉/portrait.webp",
+      "profile": "data/monsters/贝琉多拉.json"
+    },
+    "monster:e3c6229b78": {
+      "type": "monster",
+      "name": "U杀手萨乌鲁斯·新",
+      "aliases": [
+        "U杀手萨乌鲁斯·新",
+        "新U杀手萨乌鲁斯"
+      ],
+      "image": "assets/monsters/U杀手萨乌鲁斯·新/portrait.webp",
+      "profile": "data/monsters/U杀手萨乌鲁斯·新.json"
     }
   }
 }

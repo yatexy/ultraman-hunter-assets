@@ -1,0 +1,30 @@
+{
+  "id": "monster:1202e984b6",
+  "type": "monster",
+  "name_zh": "雷德王二代",
+  "name_en": "RED KING II",
+  "aliases": [
+    "雷德王二代"
+  ],
+  "image": "assets/monsters/雷德王二代/portrait.webp",
+  "image_original": "assets/monsters/雷德王二代/portrait.png",
+  "first_appearance": {
+    "work": "《奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "骷髅怪兽，候选阶段为第1阶段。",
+  "summary": "原作常态评级D；典型能力包括怪力、岩石投掷与正面搏斗。",
+  "notable_history": [
+    "原作归属：《奥特曼》。",
+    "形态口径：雷德王二代独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "D",
+  "sources": [
+    {
+      "title": "RED KING II",
+      "url": "https://tsuburaya-prod.com/encyclopedia/red-king-2",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Red-King-II.jpg"
+    }
+  ]
+}

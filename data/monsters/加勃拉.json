@@ -1,0 +1,30 @@
+{
+  "id": "monster:32a67a6eba",
+  "type": "monster",
+  "name_zh": "加勃拉",
+  "name_en": "GABORA",
+  "aliases": [
+    "加勃拉"
+  ],
+  "image": "assets/monsters/加勃拉/portrait.webp",
+  "image_original": "assets/monsters/加勃拉/portrait.png",
+  "first_appearance": {
+    "work": "《奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "铀怪兽，候选阶段为第1阶段。",
+  "summary": "原作常态评级D；典型能力包括放射能摄取、头部六瓣甲壳与冲撞。",
+  "notable_history": [
+    "原作归属：《奥特曼》。",
+    "形态口径：加勃拉独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "D",
+  "sources": [
+    {
+      "title": "GABORA",
+      "url": "https://tsuburaya-prod.com/encyclopedia/gabora",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2001/01/ガボラ.jpg"
+    }
+  ]
+}

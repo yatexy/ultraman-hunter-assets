@@ -1,0 +1,30 @@
+{
+  "id": "monster:e0500a23fb",
+  "type": "monster",
+  "name_zh": "赛文加",
+  "name_en": "SEVENGER",
+  "aliases": [
+    "赛文加"
+  ],
+  "image": "assets/monsters/赛文加/portrait.webp",
+  "image_original": "assets/monsters/赛文加/portrait.png",
+  "first_appearance": {
+    "work": "《雷欧奥特曼》《泽塔奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "胶囊机器人，候选阶段为第4阶段。",
+  "summary": "原作常态评级C+；典型能力包括近战格斗、短时运转与型号差异武装。",
+  "notable_history": [
+    "原作归属：《雷欧奥特曼》《泽塔奥特曼》。",
+    "形态口径：赛文加独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "C+",
+  "sources": [
+    {
+      "title": "SEVENGER",
+      "url": "https://tsuburaya-prod.com/encyclopedia/sevenger-2",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Sevenger-Top.jpg"
+    }
+  ]
+}

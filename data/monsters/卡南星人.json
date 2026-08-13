@@ -1,0 +1,30 @@
+{
+  "id": "monster:d24ffb8834",
+  "type": "monster",
+  "name_zh": "卡南星人",
+  "name_en": "ALIEN CANNAN",
+  "aliases": [
+    "卡南星人"
+  ],
+  "image": "assets/monsters/卡南星人/portrait.webp",
+  "image_original": "assets/monsters/卡南星人/portrait.png",
+  "first_appearance": {
+    "work": "《奥特赛文》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "头脑宇宙人，候选阶段为第3阶段。",
+  "summary": "原作常态评级C+；典型能力包括机械操纵、催眠电波与寒冷环境适应。",
+  "notable_history": [
+    "原作归属：《奥特赛文》。",
+    "形态口径：卡南星人独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "C+",
+  "sources": [
+    {
+      "title": "ALIEN CANNAN",
+      "url": "https://tsuburaya-prod.com/encyclopedia/alien-cannan",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/08/Alien-Canan.jpg"
+    }
+  ]
+}

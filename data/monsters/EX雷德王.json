@@ -1,0 +1,30 @@
+{
+  "id": "monster:2f42536ae5",
+  "type": "monster",
+  "name_zh": "EX雷德王",
+  "name_en": "EX RED KING",
+  "aliases": [
+    "EX雷德王"
+  ],
+  "image": "assets/monsters/EX雷德王/portrait.webp",
+  "image_original": "assets/monsters/EX雷德王/portrait.png",
+  "first_appearance": {
+    "work": "《大怪兽格斗》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "EX进化怪兽，候选阶段为第2阶段。",
+  "summary": "原作常态评级B+；典型能力包括爆炎拳、超怪力与强化甲壳。",
+  "notable_history": [
+    "原作归属：《大怪兽格斗》。",
+    "形态口径：EX雷德王独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": [
+    {
+      "title": "EX RED KING",
+      "url": "",
+      "image_url": "https://vignette.wikia.nocookie.net/ultra/images/5/50/Ex_Red-King_S.png/revision/latest?cb=20180409064443&path-prefix=id"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "monster:a9ceb1eed6",
+  "type": "monster",
+  "name_zh": "夏德星人",
+  "name_en": "ALIEN SHADOW",
+  "aliases": [
+    "夏德星人"
+  ],
+  "image": "assets/monsters/夏德星人/portrait.webp",
+  "image_original": "assets/monsters/夏德星人/portrait.png",
+  "first_appearance": {
+    "work": "《奥特赛文》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "暗杀宇宙人，候选阶段为第3阶段。",
+  "summary": "原作常态评级C+；典型能力包括拟态、爆破装置与秘密渗透。",
+  "notable_history": [
+    "原作归属：《奥特赛文》。",
+    "形态口径：夏德星人独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "C+",
+  "sources": [
+    {
+      "title": "ALIEN SHADOW",
+      "url": "https://tsuburaya-prod.com/encyclopedia/alien-shadow",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Alien-Shadow_list.jpg"
+    }
+  ]
+}

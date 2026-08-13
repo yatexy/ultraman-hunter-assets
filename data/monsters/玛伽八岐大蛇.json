@@ -1,0 +1,24 @@
+{
+  "id": "monster:666afa690f",
+  "type": "monster",
+  "name_zh": "玛伽八岐大蛇",
+  "name_en": "MAGA TANO-OROCHI",
+  "aliases": [
+    "玛伽八岐大蛇"
+  ],
+  "image": "assets/monsters/玛伽八岐大蛇/portrait.webp",
+  "image_original": "assets/monsters/玛伽八岐大蛇/portrait.png",
+  "first_appearance": {
+    "work": "《欧布奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "超大魔王兽，候选阶段为第5阶段。",
+  "summary": "原作常态评级A+；典型能力包括全身魔王兽器官、能量吸收与多属性攻击。",
+  "notable_history": [
+    "原作归属：《欧布奥特曼》。",
+    "形态口径：玛伽八岐大蛇独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "A+",
+  "sources": []
+}

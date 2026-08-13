@@ -1,0 +1,30 @@
+{
+  "id": "monster:6f001bb315",
+  "type": "monster",
+  "name_zh": "雷吉内德",
+  "name_en": "LEGIONOID",
+  "aliases": [
+    "雷吉内德"
+  ],
+  "image": "assets/monsters/雷吉内德/portrait.webp",
+  "image_original": "assets/monsters/雷吉内德/portrait.png",
+  "first_appearance": {
+    "work": "《超决战！贝利亚银河帝国》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "帝国机械兵，候选阶段为第4阶段。",
+  "summary": "原作常态评级B；典型能力包括枪炮型号与格斗型号的制式武装。",
+  "notable_history": [
+    "原作归属：《超决战！贝利亚银河帝国》。",
+    "形态口径：雷吉内德独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "B",
+  "sources": [
+    {
+      "title": "LEGIONOID",
+      "url": "https://tsuburaya-prod.com/encyclopedia/legionoid",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/04/レギオノイド-1.jpg"
+    }
+  ]
+}

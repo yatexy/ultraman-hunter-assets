@@ -1,0 +1,30 @@
+{
+  "id": "monster:e4507a13c4",
+  "type": "monster",
+  "name_zh": "萨拉曼多拉",
+  "name_en": "SARAMANDORA",
+  "aliases": [
+    "萨拉曼多拉"
+  ],
+  "image": "assets/monsters/萨拉曼多拉/portrait.webp",
+  "image_original": "assets/monsters/萨拉曼多拉/portrait.png",
+  "first_appearance": {
+    "work": "《爱迪奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "再生怪兽，候选阶段为第2阶段。",
+  "summary": "原作常态评级B-；典型能力包括高速再生、火焰与钳状尾部。",
+  "notable_history": [
+    "原作归属：《爱迪奥特曼》。",
+    "形态口径：萨拉曼多拉独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "B-",
+  "sources": [
+    {
+      "title": "SARAMANDORA",
+      "url": "https://tsuburaya-prod.com/encyclopedia/saramandora",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Saramandra-Top.jpg"
+    }
+  ]
+}

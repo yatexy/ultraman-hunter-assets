@@ -1,0 +1,30 @@
+{
+  "id": "monster:1ef899dc84",
+  "type": "monster",
+  "name_zh": "三帝王",
+  "name_en": "TRI-KING",
+  "aliases": [
+    "三帝王"
+  ],
+  "image": "assets/monsters/三帝王/portrait.webp",
+  "image_original": "assets/monsters/三帝王/portrait.png",
+  "first_appearance": {
+    "work": "《泽塔奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "合体怪兽，候选阶段为第6阶段。",
+  "summary": "原作常态评级B+；典型能力包括融合哥尔赞、美尔巴与超戈布的光线和飞行器官。",
+  "notable_history": [
+    "原作归属：《泽塔奥特曼》。",
+    "形态口径：三帝王独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": [
+    {
+      "title": "TRI-KING",
+      "url": "https://tsuburaya-prod.com/encyclopedia/tri-king",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2021/10/トライキング-2.jpg"
+    }
+  ]
+}

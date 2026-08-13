@@ -1,0 +1,30 @@
+{
+  "id": "monster:8e8859f4fd",
+  "type": "monster",
+  "name_zh": "帝国星人",
+  "name_en": "ALIEN TEMPEROR",
+  "aliases": [
+    "帝国星人"
+  ],
+  "image": "assets/monsters/帝国星人/portrait.webp",
+  "image_original": "assets/monsters/帝国星人/portrait.png",
+  "first_appearance": {
+    "work": "《泰罗奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "极恶宇宙人，候选阶段为第3阶段。",
+  "summary": "原作常态评级B+；典型能力包括双手光线、火焰与近战压制。",
+  "notable_history": [
+    "原作归属：《泰罗奥特曼》。",
+    "形态口径：帝国星人独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": [
+    {
+      "title": "ALIEN TEMPEROR",
+      "url": "https://tsuburaya-prod.com/encyclopedia/alien-temperor",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Temperor-Top.jpg"
+    }
+  ]
+}

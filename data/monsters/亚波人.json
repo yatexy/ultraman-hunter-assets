@@ -1,0 +1,30 @@
+{
+  "id": "monster:3fb47d9dcd",
+  "type": "monster",
+  "name_zh": "亚波人",
+  "name_en": "YAPOOL",
+  "aliases": [
+    "亚波人"
+  ],
+  "image": "assets/monsters/亚波人/portrait.webp",
+  "image_original": "assets/monsters/亚波人/portrait.png",
+  "first_appearance": {
+    "work": "《艾斯奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "异次元人，候选阶段为第3阶段。",
+  "summary": "原作常态评级B；典型能力包括异次元空间、怨念再生与超兽制造。",
+  "notable_history": [
+    "原作归属：《艾斯奥特曼》。",
+    "形态口径：亚波人独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "B",
+  "sources": [
+    {
+      "title": "YAPOOL",
+      "url": "https://tsuburaya-prod.com/encyclopedia/yapool",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/04/ヤプール（縦長）.jpg"
+    }
+  ]
+}

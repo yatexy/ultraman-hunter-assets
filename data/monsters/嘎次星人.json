@@ -1,0 +1,31 @@
+{
+  "id": "monster:a8d12df5ec",
+  "type": "monster",
+  "name_zh": "嘎次星人",
+  "name_en": "ALIEN GUTS",
+  "aliases": [
+    "嘎次星人",
+    "噶次星人"
+  ],
+  "image": "assets/monsters/嘎次星人/portrait.webp",
+  "image_original": "assets/monsters/嘎次星人/portrait.png",
+  "first_appearance": {
+    "work": "《奥特赛文》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "分身宇宙人，候选阶段为第2阶段。",
+  "summary": "原作常态评级B-；典型能力包括分身、瞬移、束缚十字架与战术分析。",
+  "notable_history": [
+    "原作归属：《奥特赛文》。",
+    "形态口径：嘎次星人独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "B-",
+  "sources": [
+    {
+      "title": "ALIEN GUTS",
+      "url": "https://tsuburaya-prod.com/encyclopedia/alien-guts",
+      "image_url": "https://m-78.jp/wp-content/uploads/2021/01/ultraseven_alien_guts_kv_1.jpg"
+    }
+  ]
+}

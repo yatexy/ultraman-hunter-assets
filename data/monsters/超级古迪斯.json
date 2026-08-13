@@ -1,0 +1,30 @@
+{
+  "id": "monster:e54c009315",
+  "type": "monster",
+  "name_zh": "超级古迪斯",
+  "name_en": "SUPER GUDIS",
+  "aliases": [
+    "超级古迪斯"
+  ],
+  "image": "assets/monsters/超级古迪斯/portrait.webp",
+  "image_original": "assets/monsters/超级古迪斯/portrait.png",
+  "first_appearance": {
+    "work": "《葛雷奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "传说邪恶生命体，候选阶段为第5阶段。",
+  "summary": "原作常态评级A+；典型能力包括行星级细胞同化、精神攻击与再生。",
+  "notable_history": [
+    "原作归属：《葛雷奥特曼》。",
+    "形态口径：超级古迪斯独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "A+",
+  "sources": [
+    {
+      "title": "SUPER GUDIS",
+      "url": "https://tsuburaya-prod.com/encyclopedia/super-gudis",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Go2_list-1.jpg"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "monster:96022c241c",
+  "type": "monster",
+  "name_zh": "卡蜜拉",
+  "name_en": "CAMEARRA",
+  "aliases": [
+    "卡蜜拉"
+  ],
+  "image": "assets/monsters/卡蜜拉/portrait.webp",
+  "image_original": "assets/monsters/卡蜜拉/portrait.png",
+  "first_appearance": {
+    "work": "《迪迦奥特曼最终圣战》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "爱憎战士，候选阶段为第5阶段。",
+  "summary": "原作常态评级A；典型能力包括光鞭、光剑与黑暗能量。",
+  "notable_history": [
+    "原作归属：《迪迦奥特曼最终圣战》。",
+    "形态口径：卡蜜拉独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "A",
+  "sources": [
+    {
+      "title": "CAMEARRA",
+      "url": "",
+      "image_url": "https://storage.moegirl.org.cn/moegirl/commons/f/f0/Camearra.png"
+    }
+  ]
+}

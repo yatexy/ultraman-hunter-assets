@@ -1,0 +1,30 @@
+{
+  "id": "monster:1081f3b9cf",
+  "type": "monster",
+  "name_zh": "瓦尔基星人",
+  "name_en": "ALIEN VALKY",
+  "aliases": [
+    "瓦尔基星人"
+  ],
+  "image": "assets/monsters/瓦尔基星人/portrait.webp",
+  "image_original": "assets/monsters/瓦尔基星人/portrait.png",
+  "first_appearance": {
+    "work": "《泰罗奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "宇宙海人，候选阶段为第3阶段。",
+  "summary": "原作常态评级C+；典型能力包括火焰、敏捷格斗与水域行动。",
+  "notable_history": [
+    "原作归属：《泰罗奥特曼》。",
+    "形态口径：瓦尔基星人独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "C+",
+  "sources": [
+    {
+      "title": "ALIEN VALKY",
+      "url": "https://tsuburaya-prod.com/encyclopedia/alien-valky",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Alien-Valky-Top.jpg"
+    }
+  ]
+}

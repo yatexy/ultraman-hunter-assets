@@ -1,0 +1,30 @@
+{
+  "id": "monster:986475f0eb",
+  "type": "monster",
+  "name_zh": "米克拉斯",
+  "name_en": "MICLAS",
+  "aliases": [
+    "米克拉斯"
+  ],
+  "image": "assets/monsters/米克拉斯/portrait.webp",
+  "image_original": "assets/monsters/米克拉斯/portrait.png",
+  "first_appearance": {
+    "work": "《奥特赛文》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "胶囊怪兽，候选阶段为第4阶段。",
+  "summary": "原作常态评级C+；典型能力包括怪力、电击抗性与冲撞。",
+  "notable_history": [
+    "原作归属：《奥特赛文》。",
+    "形态口径：米克拉斯独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "C+",
+  "sources": [
+    {
+      "title": "MICLAS",
+      "url": "https://tsuburaya-prod.com/encyclopedia/miclas",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Miclas_list.jpg"
+    }
+  ]
+}

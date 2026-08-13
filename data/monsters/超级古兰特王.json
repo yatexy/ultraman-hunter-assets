@@ -1,0 +1,24 @@
+{
+  "id": "monster:3b5a47cb1a",
+  "type": "monster",
+  "name_zh": "超级古兰特王",
+  "name_en": "SUPER GRAND KING",
+  "aliases": [
+    "超级古兰特王"
+  ],
+  "image": "assets/monsters/超级古兰特王/portrait.webp",
+  "image_original": "assets/monsters/超级古兰特王/portrait.png",
+  "first_appearance": {
+    "work": "《银河奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "强化超合体怪兽，候选阶段为第6阶段。",
+  "summary": "原作常态评级A+；典型能力包括强化装甲、多向炮击与高能光线。",
+  "notable_history": [
+    "原作归属：《银河奥特曼》。",
+    "形态口径：超级古兰特王独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "A+",
+  "sources": []
+}

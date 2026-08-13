@@ -1,0 +1,31 @@
+{
+  "id": "monster:62f8ccd9e9",
+  "type": "monster",
+  "name_zh": "普利茨魔",
+  "name_en": "PRIS-MA",
+  "aliases": [
+    "普利茨魔",
+    "普利茨玛"
+  ],
+  "image": "assets/monsters/普利茨魔/portrait.webp",
+  "image_original": "assets/monsters/普利茨魔/portrait.png",
+  "first_appearance": {
+    "work": "《归来的奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "光怪兽，候选阶段为第2阶段。",
+  "summary": "原作常态评级B-；典型能力包括光能吸收、结晶化躯体与高热光线。",
+  "notable_history": [
+    "原作归属：《归来的奥特曼》。",
+    "形态口径：普利茨魔独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "B-",
+  "sources": [
+    {
+      "title": "PRIS-MA",
+      "url": "https://tsuburaya-prod.com/encyclopedia/pris-ma",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Prizuma-Top.png"
+    }
+  ]
+}

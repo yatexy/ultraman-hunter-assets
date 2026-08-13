@@ -1,0 +1,30 @@
+{
+  "id": "monster:761a87bcf3",
+  "type": "monster",
+  "name_zh": "巴特星人",
+  "name_en": "ALIEN BAT",
+  "aliases": [
+    "巴特星人"
+  ],
+  "image": "assets/monsters/巴特星人/portrait.webp",
+  "image_original": "assets/monsters/巴特星人/portrait.png",
+  "first_appearance": {
+    "work": "《奥特曼传奇》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "触角宇宙人，候选阶段为第3阶段。",
+  "summary": "原作常态评级B；典型能力包括怪兽兵器控制、能量弹与空间技术。",
+  "notable_history": [
+    "原作归属：《奥特曼传奇》。",
+    "形态口径：巴特星人独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "B",
+  "sources": [
+    {
+      "title": "ALIEN BAT",
+      "url": "https://tsuburaya-prod.com/encyclopedia/alien-bat",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Alien-Bat.jpg"
+    }
+  ]
+}

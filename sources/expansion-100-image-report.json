@@ -1,0 +1,702 @@
+[
+  {
+    "name": "贝姆拉",
+    "official": "BEMULAR",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2001/01/ベムラー-1.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "内隆嘎",
+    "official": "NERONGA",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Neronga_list.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "加勃拉",
+    "official": "GABORA",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2001/01/ガボラ.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "吉拉斯",
+    "official": "JIRAHS",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Jirahs_list.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "佩斯塔",
+    "official": "PESTER",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Pester_List.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "凯姆拉",
+    "official": "KEMULAR",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Kemular.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "贾米拉",
+    "official": "JAMILA",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Jamila_list.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "史盖顿",
+    "official": "SKYDON",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/skydon.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "西博兹",
+    "official": "SEABOZU",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/seabozu_list.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "扎拉加斯",
+    "official": "ZARAGAS",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/zaragas_list.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "杰罗尼蒙",
+    "official": "GERONIMON",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Geronimon_list.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "匹格蒙",
+    "official": "PIGMON",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2001/01/ピグモン.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "雷德王二代",
+    "official": "RED KING II",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Red-King-II.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "哥美斯",
+    "official": "GOMESS",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/Gomes.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "帕戈斯",
+    "official": "PAGOS",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/09/UltraQ_Pagos-profile.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "卡内贡",
+    "official": "KANEGON",
+    "image_url": "https://www.scifijapan.com/images/xplus/kanegon10.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "M1号",
+    "official": "M1",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/05/ultra-kaiju_m1_profile.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "美尔巴",
+    "official": "MELBA",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/04/Melba_list.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "哥尔赞",
+    "official": "GOLZA",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2002/01/ゴルザ.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "杰顿",
+    "official": "ZETTON",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/12/zetton.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "杰顿二代",
+    "official": "ZETTON II",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Zetton-II-Top.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "贝蒙斯坦",
+    "official": "BEMSTAR",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Bemstar-Top.png",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "萨沃尔斯王三世",
+    "official": "KINGSAURUS III",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2002/01/キングザウルス三世.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "普利茨魔",
+    "official": "PRIS-MA",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Prizuma-Top.png",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "黑王",
+    "official": "BLACK KING",
+    "image_url": "https://vignette2.wikia.nocookie.net/villains/images/9/95/Black_King.png/revision/latest?cb=20170405231323",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "希波利特星人",
+    "official": "ALIEN HIPPORIT",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/AlienHipporit-Top.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "嘎次星人",
+    "official": "ALIEN GUTS",
+    "image_url": "local-user-supplied",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "火焰哥尔赞",
+    "official": "FIRE GOLZA",
+    "image_url": "https://p3-sdbk2-media.byteimg.com/tos-cn-i-xv4ileqgde/89f24796ae844aa1bf69be22a4476391~tplv-xv4ileqgde-resize-w%3A750.image",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "希尔巴贡",
+    "official": "SILVERGON",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2026/02/シルバゴン.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "迪玛迦",
+    "official": "DEMAAGA",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/08/デマーガ.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "格斯拉王",
+    "official": "KING GUESRA",
+    "image_url": "https://img.atwiki.jp/niconicomugen/attach/9709/23623/kingguesra.png",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "EX雷德王",
+    "official": "EX RED KING",
+    "image_url": "https://vignette.wikia.nocookie.net/ultra/images/5/50/Ex_Red-King_S.png/revision/latest?cb=20180409064443&path-prefix=id",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "EX艾雷王",
+    "official": "EX ELEKING",
+    "image_url": "local-user-supplied",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "EX哥莫拉",
+    "official": "EX GOMORA",
+    "image_url": "https://img2.wikia.nocookie.net/__cb20140928014644/ultra/images/a/a2/Ex_Gomora_data.png",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "EX杰顿",
+    "official": "EX ZETTON",
+    "image_url": "https://p3-sdbk2-media.byteimg.com/tos-cn-i-xv4ileqgde/aa9f7d84c3a64243928a46bab2c3728f~tplv-xv4ileqgde-image.image",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "吉迈拉",
+    "official": "GYMAIRA",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Gymaira-Top.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "萨拉曼多拉",
+    "official": "SARAMANDORA",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Saramandra-Top.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "伊卡尔斯星人",
+    "official": "ALIEN ICARUS",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Alien-Icarus_list.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "帝国星人",
+    "official": "ALIEN TEMPEROR",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Temperor-Top.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "匹特星人",
+    "official": "ALIEN PITT",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/pitt_l.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "佩盖萨星人",
+    "official": "ALIEN PEGASSA",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Alien-Pegassa_list.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "巴巴尔星人",
+    "official": "ALIEN BABARUE",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2002/01/ババルウ星人.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "瓦尔基星人",
+    "official": "ALIEN VALKY",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Alien-Valky-Top.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "巴特星人",
+    "official": "ALIEN BAT",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Alien-Bat.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "巴罗萨星人",
+    "official": "ALIEN BAROSSA",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2021/10/バロッサ星人.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "卡南星人",
+    "official": "ALIEN CANNAN",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/08/Alien-Canan.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "夏德星人",
+    "official": "ALIEN SHADOW",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Alien-Shadow_list.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "扎姆夏",
+    "official": "ZAMSHER",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2008/02/ザムシャー.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "雷布朗多星人",
+    "official": "ALIEN REIBLOOD",
+    "image_url": "local-user-supplied",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "亚波人",
+    "official": "YAPOOL",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/04/ヤプール（縦長）.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "艾斯杀手",
+    "official": "ACE-KILLER",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Ace-Killer-Top.png",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "巨大亚波人",
+    "official": "GIANT YAPOOL",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Giant-Yapool-Top.png",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "巴拉巴",
+    "official": "BARABA",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Barava-Top.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "阿里蓬塔",
+    "official": "ARIBUNTA",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Aribunta-Top.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "强博王",
+    "official": "JUMBO KING",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Jumboking-Top.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "鲁纳蒂克斯",
+    "official": "LUNATICKS",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Lunaticks-Top.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "阿斯托罗姆斯",
+    "official": "ASTROMONS",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Astromons-Top.png",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "赛文加",
+    "official": "SEVENGER",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Sevenger-Top.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "乌英达姆",
+    "official": "WINDOM",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2002/01/Windom_new.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "米克拉斯",
+    "official": "MICLAS",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Miclas_list.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "阿基拉",
+    "official": "AGIRA",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Agira_list.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "机械哥莫拉",
+    "official": "MECHA GOMORA",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/05/メカゴモラ（縦長）.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "黑暗洛普斯赛罗",
+    "official": "DARKLOPS ZERO",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/04/ダークロプスゼロ.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "雷吉内德",
+    "official": "LEGIONOID",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/04/レギオノイド-1.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "加拉特隆",
+    "official": "GALACTRON",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/10/ギャラクトロン.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "乌尔特洛伊德赛罗",
+    "official": "ULTROID ZERO",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/UltroidZero-Top.png",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "特拉菲扎",
+    "official": "TERRAPHASER",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/Terraphaser-Top.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "暗黑铠甲",
+    "official": "ARMORED DARKNESS",
+    "image_url": "https://canvas-lb.tubitv.com/opts/m8wYTHEhN5mzQA%3D%3D/37b0fb38-568e-43f8-8871-b3c6e75bf6d9/CJgDEMcEOgUxLjEuNg%3D%3D",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "U杀手萨乌鲁斯",
+    "official": "U-KILLERSAURUS",
+    "image_url": "local-user-supplied",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "卡蜜拉",
+    "official": "CAMEARRA",
+    "image_url": "https://storage.moegirl.org.cn/moegirl/commons/f/f0/Camearra.png",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "达拉姆",
+    "official": "DARRAMB",
+    "image_url": "local-user-supplied",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "希特拉",
+    "official": "HUDRA",
+    "image_url": "local-user-supplied",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "邪恶迪迦",
+    "official": "EVIL TIGA",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/04/EvilTiga_list.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "蒙斯王",
+    "official": "KING OF MONS",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/06/キングオブモンス-2.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "玛伽大蛇",
+    "official": "MAGA-OROCHI",
+    "image_url": "https://www.nicepng.com/png/detail/369-3697566_maga-orochi-render-profile-kaiju.png",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "玛伽八岐大蛇",
+    "official": "MAGA TANO-OROCHI",
+    "image_url": "local-user-supplied",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "赛高古",
+    "official": "ZAIGORG",
+    "image_url": "local-user-supplied",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "古迪斯",
+    "official": "GUDIS",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Go_list-1.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "超级古迪斯",
+    "official": "SUPER GUDIS",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Go2_list-1.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "科达拉",
+    "official": "KODALAR",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Koda_list-1.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "希拉利",
+    "official": "KILAZEE",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Si_list-1.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "五帝王",
+    "official": "FIVE KING (SDU)",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/02/Five-King_profile.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "三帝王",
+    "official": "TRI-KING",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2021/10/トライキング-2.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "杰庞顿",
+    "official": "ZEPPANDON",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/10/Zeppandon-profile.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "佩丹尼姆杰顿",
+    "official": "PEDANIUM ZETTON",
+    "image_url": "https://p3-sdbk2-media.byteimg.com/tos-cn-i-xv4ileqgde/48e21d14c2a04504a0fc438ab1dbc30e~tplv-xv4ileqgde-image.image",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "古兰特王",
+    "official": "GRAND KING",
+    "image_url": "local-user-supplied",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "超级古兰特王",
+    "official": "SUPER GRAND KING",
+    "image_url": "local-user-supplied",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "玛伽古兰特王",
+    "official": "MAGA-GRAND KING",
+    "image_url": "local-user-supplied",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "超戈布",
+    "official": "SUPER C.O.V.",
+    "image_url": "local-user-supplied",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "雷丘巴斯",
+    "official": "REICUBAS",
+    "image_url": "local-user-supplied",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "斯菲亚扎沃尔斯",
+    "official": "SPHERESAURUS",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/Spheresaurus-Top.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "斯菲亚尼奥美加斯",
+    "official": "SPHERE-NEOMEGAS",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/Sphere-Neomegas-Top.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "斯菲亚梅加洛杰厄",
+    "official": "SPHERE-MEGALOTHOR",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/スフィアメガロゾーア.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "戴亚博里古",
+    "official": "DIABOLIC",
+    "image_url": "local-user-supplied",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "鲁格赛特",
+    "official": "LEUGOCYTE",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/05/ルーゴサイト.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "吉尔巴利斯",
+    "official": "GILLVALIS",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/05/ギルバリス.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "艾塔尔加",
+    "official": "ETELGAR",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/03/エタルガー.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "吉咖奇美拉",
+    "official": "GIGA KHIMAIRA",
+    "image_url": "local-user-supplied",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "贝琉多拉",
+    "official": "BERYUDORA",
+    "image_url": "https://dafunda.com/wp-content/uploads/2023/02/Belyudra.jpg",
+    "needs_review": false,
+    "error": ""
+  },
+  {
+    "name": "U杀手萨乌鲁斯·新",
+    "official": "U-KILLERSAURUS NEO",
+    "image_url": "https://static.tvtropes.org/pmwiki/pub/images/2970dc2916b4d999646a262156156ec5_3.png",
+    "needs_review": false,
+    "error": ""
+  }
+]

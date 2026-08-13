@@ -1,0 +1,30 @@
+{
+  "id": "monster:9f48eb559d",
+  "type": "monster",
+  "name_zh": "贾米拉",
+  "name_en": "JAMILA",
+  "aliases": [
+    "贾米拉"
+  ],
+  "image": "assets/monsters/贾米拉/portrait.webp",
+  "image_original": "assets/monsters/贾米拉/portrait.png",
+  "first_appearance": {
+    "work": "《奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "棲星怪兽，候选阶段为第1阶段。",
+  "summary": "原作常态评级C+；典型能力包括高热火焰与对水的致命弱点。",
+  "notable_history": [
+    "原作归属：《奥特曼》。",
+    "形态口径：贾米拉独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "C+",
+  "sources": [
+    {
+      "title": "JAMILA",
+      "url": "https://tsuburaya-prod.com/encyclopedia/jamila",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Jamila_list.jpg"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "monster:806a8dd3b9",
+  "type": "monster",
+  "name_zh": "贝蒙斯坦",
+  "name_en": "BEMSTAR",
+  "aliases": [
+    "贝蒙斯坦"
+  ],
+  "image": "assets/monsters/贝蒙斯坦/portrait.webp",
+  "image_original": "assets/monsters/贝蒙斯坦/portrait.png",
+  "first_appearance": {
+    "work": "《归来的奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "宇宙大怪兽，候选阶段为第2阶段。",
+  "summary": "原作常态评级B-；典型能力包括腹部吸收口、光线吞噬与啄击。",
+  "notable_history": [
+    "原作归属：《归来的奥特曼》。",
+    "形态口径：贝蒙斯坦独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "B-",
+  "sources": [
+    {
+      "title": "BEMSTAR",
+      "url": "https://tsuburaya-prod.com/encyclopedia/bemstar",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Bemstar-Top.png"
+    }
+  ]
+}

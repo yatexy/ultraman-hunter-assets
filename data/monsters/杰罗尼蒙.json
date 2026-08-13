@@ -1,0 +1,30 @@
+{
+  "id": "monster:b7678b380b",
+  "type": "monster",
+  "name_zh": "杰罗尼蒙",
+  "name_en": "GERONIMON",
+  "aliases": [
+    "杰罗尼蒙"
+  ],
+  "image": "assets/monsters/杰罗尼蒙/portrait.webp",
+  "image_original": "assets/monsters/杰罗尼蒙/portrait.png",
+  "first_appearance": {
+    "work": "《奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "怪兽酋长，候选阶段为第1阶段。",
+  "summary": "原作常态评级B-；典型能力包括念力、羽毛飞针与复活怪兽。",
+  "notable_history": [
+    "原作归属：《奥特曼》。",
+    "形态口径：杰罗尼蒙独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "B-",
+  "sources": [
+    {
+      "title": "GERONIMON",
+      "url": "https://tsuburaya-prod.com/encyclopedia/geronimon",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/Geronimon_list.jpg"
+    }
+  ]
+}

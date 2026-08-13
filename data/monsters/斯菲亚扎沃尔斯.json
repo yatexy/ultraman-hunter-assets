@@ -1,0 +1,30 @@
+{
+  "id": "monster:4dc93a9a8f",
+  "type": "monster",
+  "name_zh": "斯菲亚扎沃尔斯",
+  "name_en": "SPHERESAURUS",
+  "aliases": [
+    "斯菲亚扎沃尔斯"
+  ],
+  "image": "assets/monsters/斯菲亚扎沃尔斯/portrait.webp",
+  "image_original": "assets/monsters/斯菲亚扎沃尔斯/portrait.png",
+  "first_appearance": {
+    "work": "《德凯奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "精强融合兽，候选阶段为第6阶段。",
+  "summary": "原作常态评级A；典型能力包括斯菲亚屏障、能量吸收与多重冲击波。",
+  "notable_history": [
+    "原作归属：《德凯奥特曼》。",
+    "形态口径：斯菲亚扎沃尔斯独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "A",
+  "sources": [
+    {
+      "title": "SPHERESAURUS",
+      "url": "https://tsuburaya-prod.com/encyclopedia/spheresaurus",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/11/Spheresaurus-Top.jpg"
+    }
+  ]
+}

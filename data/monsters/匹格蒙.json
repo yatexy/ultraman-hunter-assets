@@ -1,0 +1,30 @@
+{
+  "id": "monster:4315dbf5e1",
+  "type": "monster",
+  "name_zh": "匹格蒙",
+  "name_en": "PIGMON",
+  "aliases": [
+    "匹格蒙"
+  ],
+  "image": "assets/monsters/匹格蒙/portrait.webp",
+  "image_original": "assets/monsters/匹格蒙/portrait.png",
+  "first_appearance": {
+    "work": "《奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "友好珍兽，候选阶段为第1阶段。",
+  "summary": "原作常态评级D；典型能力包括敏锐警觉、沟通与引导。",
+  "notable_history": [
+    "原作归属：《奥特曼》。",
+    "形态口径：匹格蒙独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "D",
+  "sources": [
+    {
+      "title": "PIGMON",
+      "url": "https://tsuburaya-prod.com/encyclopedia/pigmon",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2001/01/ピグモン.jpg"
+    }
+  ]
+}

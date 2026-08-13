@@ -1,0 +1,30 @@
+{
+  "id": "monster:03d9643bff",
+  "type": "monster",
+  "name_zh": "古兰特王",
+  "name_en": "GRAND KING",
+  "aliases": [
+    "古兰特王"
+  ],
+  "image": "assets/monsters/古兰特王/portrait.webp",
+  "image_original": "assets/monsters/古兰特王/portrait.png",
+  "first_appearance": {
+    "work": "《奥特物语》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "超合体怪兽，候选阶段为第6阶段。",
+  "summary": "原作常态评级A；典型能力包括全身炮口、装甲与古兰激光。",
+  "notable_history": [
+    "原作归属：《奥特物语》。",
+    "形态口径：古兰特王独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "A",
+  "sources": [
+    {
+      "title": "GRAND KING",
+      "url": "",
+      "image_url": "https://i.pinimg.com/originals/56/8d/d4/568dd47e22a0b9b1e0999a79026ac823.png"
+    }
+  ]
+}

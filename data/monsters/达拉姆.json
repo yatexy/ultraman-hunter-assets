@@ -1,0 +1,30 @@
+{
+  "id": "monster:47c42181dc",
+  "type": "monster",
+  "name_zh": "达拉姆",
+  "name_en": "DARRAMB",
+  "aliases": [
+    "达拉姆"
+  ],
+  "image": "assets/monsters/达拉姆/portrait.webp",
+  "image_original": "assets/monsters/达拉姆/portrait.png",
+  "first_appearance": {
+    "work": "《迪迦奥特曼最终圣战》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "刚力战士，候选阶段为第5阶段。",
+  "summary": "原作常态评级B+；典型能力包括极限蛮力、火焰冲拳与地面震击。",
+  "notable_history": [
+    "原作归属：《迪迦奥特曼最终圣战》。",
+    "形态口径：达拉姆独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": [
+    {
+      "title": "DARRAMB",
+      "url": "",
+      "image_url": "https://i.pinimg.com/564x/17/1f/ba/171fbaf5470230fac293d74496a60a08.jpg"
+    }
+  ]
+}

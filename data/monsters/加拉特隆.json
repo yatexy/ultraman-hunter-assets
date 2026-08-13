@@ -1,0 +1,30 @@
+{
+  "id": "monster:87f7be83a9",
+  "type": "monster",
+  "name_zh": "加拉特隆",
+  "name_en": "GALACTRON",
+  "aliases": [
+    "加拉特隆"
+  ],
+  "image": "assets/monsters/加拉特隆/portrait.webp",
+  "image_original": "assets/monsters/加拉特隆/portrait.png",
+  "first_appearance": {
+    "work": "《欧布奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "文明裁决机器，候选阶段为第4阶段。",
+  "summary": "原作常态评级B+；典型能力包括加拉特隆之轴、魔法阵、光线与装甲。",
+  "notable_history": [
+    "原作归属：《欧布奥特曼》。",
+    "形态口径：加拉特隆独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": [
+    {
+      "title": "GALACTRON",
+      "url": "https://tsuburaya-prod.com/encyclopedia/galactron",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/10/ギャラクトロン.jpg"
+    }
+  ]
+}

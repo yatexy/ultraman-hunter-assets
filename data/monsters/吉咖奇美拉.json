@@ -1,0 +1,30 @@
+{
+  "id": "monster:966f3afc33",
+  "type": "monster",
+  "name_zh": "吉咖奇美拉",
+  "name_en": "GIGA KHIMAIRA",
+  "aliases": [
+    "吉咖奇美拉"
+  ],
+  "image": "assets/monsters/吉咖奇美拉/portrait.webp",
+  "image_original": "assets/monsters/吉咖奇美拉/portrait.png",
+  "first_appearance": {
+    "work": "《超奥特8兄弟》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "究极合体怪兽，候选阶段为第8阶段。",
+  "summary": "原作常态评级S；典型能力包括六体怪兽融合、多头光线与巨型翼尾攻击。",
+  "notable_history": [
+    "原作归属：《超奥特8兄弟》。",
+    "形态口径：吉咖奇美拉独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "S",
+  "sources": [
+    {
+      "title": "GIGA KHIMAIRA",
+      "url": "",
+      "image_url": "https://i.pinimg.com/736x/04/eb/5d/04eb5d99255a6ec7a50bbe9fafd3cb0c.jpg"
+    }
+  ]
+}

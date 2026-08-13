@@ -1,0 +1,30 @@
+{
+  "id": "monster:211f1a6edc",
+  "type": "monster",
+  "name_zh": "邪恶迪迦",
+  "name_en": "EVIL TIGA",
+  "aliases": [
+    "邪恶迪迦"
+  ],
+  "image": "assets/monsters/邪恶迪迦/portrait.webp",
+  "image_original": "assets/monsters/邪恶迪迦/portrait.png",
+  "first_appearance": {
+    "work": "《迪迦奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "邪恶巨人，候选阶段为第5阶段。",
+  "summary": "原作常态评级B+；典型能力包括邪恶射线、格斗与能量爆发。",
+  "notable_history": [
+    "原作归属：《迪迦奥特曼》。",
+    "形态口径：邪恶迪迦独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": [
+    {
+      "title": "EVIL TIGA",
+      "url": "https://tsuburaya-prod.com/encyclopedia/evil-tiga",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/04/EvilTiga_list.jpg"
+    }
+  ]
+}

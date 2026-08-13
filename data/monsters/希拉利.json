@@ -1,0 +1,30 @@
+{
+  "id": "monster:25110e9059",
+  "type": "monster",
+  "name_zh": "希拉利",
+  "name_en": "KILAZEE",
+  "aliases": [
+    "希拉利"
+  ],
+  "image": "assets/monsters/希拉利/portrait.webp",
+  "image_original": "assets/monsters/希拉利/portrait.png",
+  "first_appearance": {
+    "work": "《葛雷奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "传说宇宙怪兽，候选阶段为第5阶段。",
+  "summary": "原作常态评级A；典型能力包括飞行、光线、怪力与科达拉联合作战。",
+  "notable_history": [
+    "原作归属：《葛雷奥特曼》。",
+    "形态口径：希拉利独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "A",
+  "sources": [
+    {
+      "title": "KILAZEE",
+      "url": "https://tsuburaya-prod.com/encyclopedia/kilazee",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Si_list-1.jpg"
+    }
+  ]
+}

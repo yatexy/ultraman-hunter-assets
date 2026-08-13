@@ -1,0 +1,30 @@
+{
+  "id": "monster:819e6efafa",
+  "type": "monster",
+  "name_zh": "M1号",
+  "name_en": "M1",
+  "aliases": [
+    "M1号"
+  ],
+  "image": "assets/monsters/M1号/portrait.webp",
+  "image_original": "assets/monsters/M1号/portrait.png",
+  "first_appearance": {
+    "work": "《奥特Q》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "人工生命，候选阶段为第1阶段。",
+  "summary": "原作常态评级D；典型能力包括高智力、模仿与耐久生命力。",
+  "notable_history": [
+    "原作归属：《奥特Q》。",
+    "形态口径：M1号独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "D",
+  "sources": [
+    {
+      "title": "M1",
+      "url": "https://tsuburaya-prod.com/encyclopedia/m1",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2024/05/ultra-kaiju_m1_profile.jpg"
+    }
+  ]
+}

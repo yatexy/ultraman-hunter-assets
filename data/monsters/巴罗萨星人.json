@@ -1,0 +1,30 @@
+{
+  "id": "monster:e651d74a85",
+  "type": "monster",
+  "name_zh": "巴罗萨星人",
+  "name_en": "ALIEN BAROSSA",
+  "aliases": [
+    "巴罗萨星人"
+  ],
+  "image": "assets/monsters/巴罗萨星人/portrait.webp",
+  "image_original": "assets/monsters/巴罗萨星人/portrait.png",
+  "first_appearance": {
+    "work": "《泽塔奥特曼》",
+    "detail": "",
+    "year": null
+  },
+  "origin": "海贼宇宙人，候选阶段为第3阶段。",
+  "summary": "原作常态评级B-；典型能力包括掠夺武器、巨大化与多样宇宙道具。",
+  "notable_history": [
+    "原作归属：《泽塔奥特曼》。",
+    "形态口径：巴罗萨星人独立建档，不与同词根形态串档。"
+  ],
+  "hunter_contract_rating": "B-",
+  "sources": [
+    {
+      "title": "ALIEN BAROSSA",
+      "url": "https://tsuburaya-prod.com/encyclopedia/alien-barossa",
+      "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2021/10/バロッサ星人.jpg"
+    }
+  ]
+}
