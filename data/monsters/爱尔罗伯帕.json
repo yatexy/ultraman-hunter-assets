@@ -1,0 +1,39 @@
+{
+  "id": "monster:bc516b2925",
+  "type": "monster",
+  "name_zh": "爱尔罗伯帕",
+  "name_en": "AEROVIPER",
+  "aliases": [
+    "爱尔罗伯帕",
+    "时空怪兽爱尔罗伯帕",
+    "艾尔罗伯帕",
+    "Aeroviper"
+  ],
+  "image": "assets/monsters/爱尔罗伯帕/portrait.webp",
+  "image_original": "assets/monsters/爱尔罗伯帕/portrait_original.png",
+  "first_appearance": {
+    "work": "《盖亚奥特曼》第32话",
+    "detail": "",
+    "year": null
+  },
+  "story_stage": 6,
+  "faction": "时空异常生命",
+  "category": "时空怪兽",
+  "appearance": "甲胄状双足怪兽，头部有长角与鸟喙轮廓，背部延伸翼状结构。",
+  "habits": "在时空缝隙中建立巢域并捕捉闯入者，会将目标困在反复循环的时间片段中。",
+  "attacks": "时空转移、时间循环、飞行、能量光弹、利爪与角部冲击。",
+  "combat_notes": "先稳定坐标并识别循环锚点；未解除时空干扰前，单纯追击会重复进入同一失败路径。",
+  "origin": "《盖亚奥特曼》第32话；候选阶段为第6阶段；剧情势力：时空异常生命。",
+  "summary": "能把人类与载具卷入时空循环的异常怪兽，威胁核心不是纯火力，而是让目标失去正常时间参照。",
+  "notable_history": [
+    "将XIG队员卷入反复发生的时空事件",
+    "被盖亚进入异常空间后击破"
+  ],
+  "hunter_contract_rating": "B-",
+  "sources": [
+    {
+      "title": "《盖亚奥特曼》第32话",
+      "url": "https://ultra.fandom.com/wiki/Aeroviper"
+    }
+  ]
+}

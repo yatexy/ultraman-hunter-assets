@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "ultraman-hunter-assets",
-  "updated_at": "2026-08-13",
+  "updated_at": "2026-08-20",
   "cdn_base": "https://testingcf.jsdelivr.net/gh/yatexy/ultraman-hunter-assets@main/",
   "entities": {
     "ultra:ultraman": {
@@ -2303,6 +2303,177 @@
       ],
       "image": "assets/monsters/U杀手萨乌鲁斯·新/portrait.webp",
       "profile": "data/monsters/U杀手萨乌鲁斯·新.json"
+    },
+    "monster:e0fca1d332": {
+      "type": "monster",
+      "name": "浮莱古拉",
+      "aliases": [
+        "浮莱古拉",
+        "飞鱼怪兽浮莱古拉",
+        "弗莱古拉",
+        "Flygler"
+      ],
+      "image": "assets/monsters/浮莱古拉/portrait.webp",
+      "profile": "data/monsters/浮莱古拉.json"
+    },
+    "monster:fdd1909839": {
+      "type": "monster",
+      "name": "古兰贡",
+      "aliases": [
+        "古兰贡",
+        "火山怪兽古兰贡",
+        "格兰贡",
+        "Grangon"
+      ],
+      "image": "assets/monsters/古兰贡/portrait.webp",
+      "profile": "data/monsters/古兰贡.json"
+    },
+    "monster:955e5caaae": {
+      "type": "monster",
+      "name": "黑雷恩",
+      "aliases": [
+        "黑雷恩",
+        "超音速怪兽黑雷恩",
+        "海伦",
+        "Halen",
+        "Helen",
+        "ヘイレン"
+      ],
+      "image": "assets/monsters/黑雷恩/portrait.webp",
+      "profile": "data/monsters/黑雷恩.json"
+    },
+    "monster:962515e742": {
+      "type": "monster",
+      "name": "叶腐",
+      "aliases": [
+        "叶腐",
+        "完全生命体叶腐",
+        "IF",
+        "If"
+      ],
+      "image": "assets/monsters/叶腐/portrait.webp",
+      "profile": "data/monsters/叶腐.json"
+    },
+    "monster:ed38d7baab": {
+      "type": "monster",
+      "name": "卢加诺加",
+      "aliases": [
+        "卢加诺加",
+        "星兽卢加诺加",
+        "茹伽诺伽",
+        "卢加诺格",
+        "Luganoger"
+      ],
+      "image": "assets/monsters/卢加诺加/portrait.webp",
+      "profile": "data/monsters/卢加诺加.json"
+    },
+    "monster:4af1ed8379": {
+      "type": "monster",
+      "name": "魔天神艾拉嘎",
+      "aliases": [
+        "魔天神艾拉嘎",
+        "艾拉嘎",
+        "Eraga"
+      ],
+      "image": "assets/monsters/魔天神艾拉嘎/portrait.webp",
+      "profile": "data/monsters/魔天神艾拉嘎.json"
+    },
+    "monster:9df14f5e8d": {
+      "type": "monster",
+      "name": "夏之守望龙",
+      "aliases": [
+        "夏之守望龙",
+        "夏守龙",
+        "Natsunomeryu"
+      ],
+      "image": "assets/monsters/夏之守望龙/portrait.webp",
+      "profile": "data/monsters/夏之守望龙.json"
+    },
+    "monster:a06070c041": {
+      "type": "monster",
+      "name": "巴格达拉斯",
+      "aliases": [
+        "巴格达拉斯",
+        "甲虫型宇宙怪兽巴格达拉斯",
+        "巴古达拉斯",
+        "Bugdalas"
+      ],
+      "image": "assets/monsters/巴格达拉斯/portrait.webp",
+      "profile": "data/monsters/巴格达拉斯.json"
+    },
+    "monster:560997246c": {
+      "type": "monster",
+      "name": "乌尼津",
+      "aliases": [
+        "乌尼津",
+        "神话怪兽乌尼津",
+        "独角兽怪兽乌尼津",
+        "Unizin"
+      ],
+      "image": "assets/monsters/乌尼津/portrait.webp",
+      "profile": "data/monsters/乌尼津.json"
+    },
+    "monster:566a9614a5": {
+      "type": "monster",
+      "name": "百万巴萨库",
+      "aliases": [
+        "百万巴萨库",
+        "机械兽百万巴萨库",
+        "百万巴萨克",
+        "Giga Berserke",
+        "Giga Basark"
+      ],
+      "image": "assets/monsters/百万巴萨库/portrait.webp",
+      "profile": "data/monsters/百万巴萨库.json"
+    },
+    "monster:9f042b5e1f": {
+      "type": "monster",
+      "name": "盖琉加",
+      "aliases": [
+        "盖琉加",
+        "光波怪兽盖琉加",
+        "盖留加",
+        "Gairyuga"
+      ],
+      "image": "assets/monsters/盖琉加/portrait.webp",
+      "profile": "data/monsters/盖琉加.json"
+    },
+    "monster:2ec7be3535": {
+      "type": "monster",
+      "name": "超巴茨斯",
+      "aliases": [
+        "超巴茨斯",
+        "宇宙雷兽超巴茨斯",
+        "超级巴茨斯",
+        "Super Pazuzu"
+      ],
+      "image": "assets/monsters/超巴茨斯/portrait.webp",
+      "profile": "data/monsters/超巴茨斯.json"
+    },
+    "monster:d936992d95": {
+      "type": "monster",
+      "name": "奇拉",
+      "aliases": [
+        "奇拉",
+        "光热怪兽奇拉",
+        "凯拉",
+        "Keylla",
+        "Kiyla"
+      ],
+      "image": "assets/monsters/奇拉/portrait.webp",
+      "profile": "data/monsters/奇拉.json"
+    },
+    "monster:bc516b2925": {
+      "type": "monster",
+      "name": "爱尔罗伯帕",
+      "aliases": [
+        "爱尔罗伯帕",
+        "时空怪兽爱尔罗伯帕",
+        "艾尔罗伯帕",
+        "Aeroviper"
+      ],
+      "image": "assets/monsters/爱尔罗伯帕/portrait.webp",
+      "profile": "data/monsters/爱尔罗伯帕.json"
     }
   }
 }

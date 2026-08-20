@@ -1,0 +1,39 @@
+{
+  "id": "monster:560997246c",
+  "type": "monster",
+  "name_zh": "乌尼津",
+  "name_en": "UNIZIN",
+  "aliases": [
+    "乌尼津",
+    "神话怪兽乌尼津",
+    "独角兽怪兽乌尼津",
+    "Unizin"
+  ],
+  "image": "assets/monsters/乌尼津/portrait.webp",
+  "image_original": "assets/monsters/乌尼津/portrait_original.png",
+  "first_appearance": {
+    "work": "《麦克斯奥特曼》第26话",
+    "detail": "",
+    "year": null
+  },
+  "story_stage": 6,
+  "faction": "无明确归属",
+  "category": "神话怪兽",
+  "appearance": "白色独角兽状生命体，四肢细长，头顶独角与体表蓝色纹路带有非实体光泽。",
+  "habits": "在特定日期穿越时间与空间短暂出现，不以捕食或破坏为目的；会回收自身遗留物以维持时间秩序。",
+  "attacks": "时空穿梭、相位变化、瞬间移动、空间干涉与高速冲击。",
+  "combat_notes": "评级主要来自时空机动而非破坏欲；未经敌意确认不得把无法捕捉等同于主动攻击。",
+  "origin": "《麦克斯奥特曼》第26话；候选阶段为第6阶段；剧情势力：无明确归属。",
+  "summary": "每隔固定周期短暂显现的时空生命体，常规武器难以锁定；目击事件更适合作为追踪和接触任务。",
+  "notable_history": [
+    "在圣诞夜现身寻找遗失物",
+    "完成回收后跨越时空离去"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": [
+    {
+      "title": "《麦克斯奥特曼》第26话",
+      "url": "https://ultra.fandom.com/wiki/Unizin"
+    }
+  ]
+}

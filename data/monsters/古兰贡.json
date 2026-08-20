@@ -1,0 +1,39 @@
+{
+  "id": "monster:fdd1909839",
+  "type": "monster",
+  "name_zh": "古兰贡",
+  "name_en": "GRANGON",
+  "aliases": [
+    "古兰贡",
+    "火山怪兽古兰贡",
+    "格兰贡",
+    "Grangon"
+  ],
+  "image": "assets/monsters/古兰贡/portrait.webp",
+  "image_original": "assets/monsters/古兰贡/portrait_original.png",
+  "first_appearance": {
+    "work": "《麦克斯奥特曼》第1、30话",
+    "detail": "",
+    "year": null
+  },
+  "story_stage": 1,
+  "faction": "地球原生怪兽",
+  "category": "火山怪兽",
+  "appearance": "四足厚甲躯体布满暗红熔岩纹，背部与头冠生有火山岩般尖角。",
+  "habits": "栖息火山地带，以地热维持活动；与冷冻怪兽拉格拉斯互为天敌，领地冲突会引发大规模灾害。",
+  "attacks": "喷吐高热火球、释放熔岩热能、冲撞与角部顶击。",
+  "combat_notes": "常态强度属于基础怪兽层级；在火山口与熔岩区续航更强，离开高热环境后恢复能力有限。",
+  "origin": "《麦克斯奥特曼》第1、30话；候选阶段为第1阶段；剧情势力：地球原生怪兽。",
+  "summary": "依靠岩浆核心活动的火山怪兽，耐热且擅长正面冲撞；个体死亡后残留核心仍可能被其他怪兽吸收。",
+  "notable_history": [
+    "与拉格拉斯在龙严岳交战",
+    "遗骸的岩浆核心促成进化拉格拉斯诞生"
+  ],
+  "hunter_contract_rating": "D",
+  "sources": [
+    {
+      "title": "《麦克斯奥特曼》第1、30话",
+      "url": "https://ultra.fandom.com/wiki/Grangon"
+    }
+  ]
+}

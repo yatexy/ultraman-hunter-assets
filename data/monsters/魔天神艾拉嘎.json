@@ -1,0 +1,38 @@
+{
+  "id": "monster:4af1ed8379",
+  "type": "monster",
+  "name_zh": "魔天神艾拉嘎",
+  "name_en": "ERAGA",
+  "aliases": [
+    "魔天神艾拉嘎",
+    "艾拉嘎",
+    "Eraga"
+  ],
+  "image": "assets/monsters/魔天神艾拉嘎/portrait.webp",
+  "image_original": "assets/monsters/魔天神艾拉嘎/portrait_original.png",
+  "first_appearance": {
+    "work": "《麦克斯奥特曼》第19话",
+    "detail": "",
+    "year": null
+  },
+  "story_stage": 3,
+  "faction": "宇宙侵略势力",
+  "category": "魔天神",
+  "appearance": "银黑甲壳上生有红色棘角，头部和四肢粗壮，外形兼具甲兽与龙兽特征。",
+  "habits": "受塔拉星人操纵，通过外部能量补给持续强化；操纵者会把其当作消耗战兵器使用。",
+  "attacks": "能量吸收强化、口部光弹、冲撞、重击与强化后高耐久。",
+  "combat_notes": "评级按稳定强化状态计算；切断塔拉星人的供能后会回落，不得把一次性饱和增幅视为永久基础能力。",
+  "origin": "《麦克斯奥特曼》第19话；候选阶段为第3阶段；剧情势力：宇宙侵略势力。",
+  "summary": "能够接收外部能源不断提升战斗力的宇宙怪兽，若不切断补给，常规攻击会被拖入持续消耗。",
+  "notable_history": [
+    "在塔拉星人供能下反复强化",
+    "供能中断后被麦克斯击败"
+  ],
+  "hunter_contract_rating": "B",
+  "sources": [
+    {
+      "title": "《麦克斯奥特曼》第19话",
+      "url": "https://ultra.fandom.com/wiki/Eraga"
+    }
+  ]
+}

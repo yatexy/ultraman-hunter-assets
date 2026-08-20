@@ -1,0 +1,41 @@
+{
+  "id": "monster:566a9614a5",
+  "type": "monster",
+  "name_zh": "百万巴萨库",
+  "name_en": "GIGA BERSERKE",
+  "aliases": [
+    "百万巴萨库",
+    "机械兽百万巴萨库",
+    "百万巴萨克",
+    "Giga Berserke",
+    "Giga Basark"
+  ],
+  "image": "assets/monsters/百万巴萨库/portrait.webp",
+  "image_original": "assets/monsters/百万巴萨库/portrait_original.png",
+  "first_appearance": {
+    "work": "《麦克斯奥特曼》第39话",
+    "detail": "",
+    "year": null
+  },
+  "story_stage": 8,
+  "faction": "德洛斯文明防卫系统",
+  "category": "机械兽",
+  "appearance": "高达近千米的黑白机械要塞，装甲表面分布大量炮口、尖塔与能量节点。",
+  "habits": "依据德洛斯防卫程序自动执行地表歼灭，完成启动后缺乏停止指令；会使用侦察型收集的麦克斯战斗数据。",
+  "attacks": "全身能量炮、能量触手、超巨型装甲、战斗数据预判与广域设施瘫痪。",
+  "combat_notes": "常规巨人尺寸难以突破其装甲与火力网；必须先解决能源、数据预判或控制系统，再集中超规格力量完成破坏。",
+  "origin": "《麦克斯奥特曼》第39话；候选阶段为第8阶段；剧情势力：德洛斯文明防卫系统。",
+  "summary": "拥有麦克斯战斗数据的超巨大机械兽，曾以能量触手束缚麦克斯并令其石化，是需要全域联合应对的终局兵器。",
+  "notable_history": [
+    "作为无法停机的巴萨库系统最终兵器启动",
+    "击败能量不足的麦克斯",
+    "被复活并超巨大化的麦克斯以银河巨剑摧毁"
+  ],
+  "hunter_contract_rating": "A",
+  "sources": [
+    {
+      "title": "《麦克斯奥特曼》第39话",
+      "url": "https://ultra.fandom.com/wiki/Berserke"
+    }
+  ]
+}

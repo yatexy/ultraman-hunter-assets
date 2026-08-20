@@ -1,0 +1,39 @@
+{
+  "id": "monster:962515e742",
+  "type": "monster",
+  "name_zh": "叶腐",
+  "name_en": "IF",
+  "aliases": [
+    "叶腐",
+    "完全生命体叶腐",
+    "IF",
+    "If"
+  ],
+  "image": "assets/monsters/叶腐/portrait.webp",
+  "image_original": "assets/monsters/叶腐/portrait_original.png",
+  "first_appearance": {
+    "work": "《麦克斯奥特曼》第15话",
+    "detail": "",
+    "year": null
+  },
+  "story_stage": 8,
+  "faction": "无明确归属",
+  "category": "完全生命体",
+  "appearance": "形态随外界刺激反复变化，战斗阶段会生成装甲、刀刃、炮口与模仿攻击器官。",
+  "habits": "初始没有明确敌意，会对作用于自身的力量进行适应、复制并以更强形式返还；交流方式也会随输入改变。",
+  "attacks": "无限适应、能力复制、再生进化、能量炮击与多器官复合攻击。",
+  "combat_notes": "不得按普通强敌处理；禁止用连续升级火力强行磨死。有效解法优先是停止刺激、改变交流输入、隔离或和平引导。",
+  "origin": "《麦克斯奥特曼》第15话；候选阶段为第8阶段；剧情势力：无明确归属。",
+  "summary": "会复制外界行为并不断进化的完全生命体；暴力越强，反馈出的破坏形态越强，常规歼灭手段只会扩大灾害。",
+  "notable_history": [
+    "吸收DASH与麦克斯攻击后成长为无法压制的战斗形态",
+    "因少女笛声转化为音乐形态并被送往宇宙"
+  ],
+  "hunter_contract_rating": "S",
+  "sources": [
+    {
+      "title": "《麦克斯奥特曼》第15话",
+      "url": "https://ultra.fandom.com/wiki/IF"
+    }
+  ]
+}

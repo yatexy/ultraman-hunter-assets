@@ -1,0 +1,40 @@
+{
+  "id": "monster:d936992d95",
+  "type": "monster",
+  "name_zh": "奇拉",
+  "name_en": "KEYLLA",
+  "aliases": [
+    "奇拉",
+    "光热怪兽奇拉",
+    "凯拉",
+    "Keylla",
+    "Kiyla"
+  ],
+  "image": "assets/monsters/奇拉/portrait.webp",
+  "image_original": "assets/monsters/奇拉/portrait_original.png",
+  "first_appearance": {
+    "work": "《初代奥特曼》第38话",
+    "detail": "",
+    "year": null
+  },
+  "story_stage": 3,
+  "faction": "宇宙野生生命",
+  "category": "光热怪兽",
+  "appearance": "褐色甲壳怪兽拥有巨大圆眼、短角、粗尾和昆虫般分节外骨骼。",
+  "habits": "栖息Q星，受攻击后会利用眼部强光反击；行动更接近领地防御而非有组织侵略。",
+  "attacks": "眼部致盲闪光、爆炸性光热、坚硬外骨骼、尾部拦截与怪力。",
+  "combat_notes": "强光会暂时剥夺视觉并制造连续受击窗口；需要使用非视觉索敌或先破坏眼部，避免依赖单一光线终结。",
+  "origin": "《初代奥特曼》第38话；候选阶段为第3阶段；剧情势力：宇宙野生生命。",
+  "summary": "以巨大双眼释放致盲光热的宇宙怪兽，体表能承受斯派修姆光线，尾巴还曾弹开八分光轮。",
+  "notable_history": [
+    "在Q星阻碍科学特搜队修复飞船",
+    "令初代奥特曼短暂失明并承受其多种必杀技"
+  ],
+  "hunter_contract_rating": "C+",
+  "sources": [
+    {
+      "title": "《初代奥特曼》第38话",
+      "url": "https://ultra.fandom.com/wiki/Keylla"
+    }
+  ]
+}

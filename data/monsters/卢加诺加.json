@@ -1,0 +1,40 @@
+{
+  "id": "monster:ed38d7baab",
+  "type": "monster",
+  "name_zh": "卢加诺加",
+  "name_en": "LUGANOGER",
+  "aliases": [
+    "卢加诺加",
+    "星兽卢加诺加",
+    "茹伽诺伽",
+    "卢加诺格",
+    "Luganoger"
+  ],
+  "image": "assets/monsters/卢加诺加/portrait.webp",
+  "image_original": "assets/monsters/卢加诺加/portrait_original.png",
+  "first_appearance": {
+    "work": "《麦克斯奥特曼》第28话",
+    "detail": "",
+    "year": null
+  },
+  "story_stage": 7,
+  "faction": "宇宙侵略势力",
+  "category": "星兽",
+  "appearance": "全身覆盖黑白骨甲与红色棘刺，双肩、四肢和头部均分布武器化器官。",
+  "habits": "在宇宙中游猎并毁灭有生命的行星，缺乏谈判动机，会追踪幸存者直到目标消失。",
+  "attacks": "多方向能量光束、胸部破坏光线、棘刺射击、腕刃与高强度近战。",
+  "combat_notes": "初次交战先展示全向火力和耐久优势；需要分散射界、破坏发射器官并避免正面火力交换。",
+  "origin": "《麦克斯奥特曼》第28话；候选阶段为第7阶段；剧情势力：宇宙侵略势力。",
+  "summary": "曾毁灭整颗行星的凶恶星兽，全身武器可覆盖多个射界，近身与远程都没有明显空档。",
+  "notable_history": [
+    "毁灭莉莉卡的故乡并追踪她来到地球",
+    "以复合火力压制麦克斯后被麦克斯银河击破"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": [
+    {
+      "title": "《麦克斯奥特曼》第28话",
+      "url": "https://ultra.fandom.com/wiki/Luganoger"
+    }
+  ]
+}

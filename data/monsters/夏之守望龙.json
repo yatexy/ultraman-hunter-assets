@@ -1,0 +1,38 @@
+{
+  "id": "monster:9df14f5e8d",
+  "type": "monster",
+  "name_zh": "夏之守望龙",
+  "name_en": "NATSUNOMERYU",
+  "aliases": [
+    "夏之守望龙",
+    "夏守龙",
+    "Natsunomeryu"
+  ],
+  "image": "assets/monsters/夏之守望龙/portrait.webp",
+  "image_original": "assets/monsters/夏之守望龙/portrait_original.png",
+  "first_appearance": {
+    "work": "《麦克斯奥特曼》第9话",
+    "detail": "",
+    "year": null
+  },
+  "story_stage": 2,
+  "faction": "地球原生怪兽",
+  "category": "传说怪龙",
+  "appearance": "银灰长龙覆盖密集棘鳞，四肢短小，头部生有多重角冠与长尾。",
+  "habits": "作为地方传说中的守护存在维持山林与水脉秩序，通常不主动毁灭城市；异常唤醒或领地受扰时才现身。",
+  "attacks": "飞行、雷电与风雨操纵、尾击、咬合及长躯缠绕。",
+  "combat_notes": "优先调查唤醒原因和祭祀关系；直接歼灭会制造长期生态与信仰后果，战斗评级不等于必须击杀。",
+  "origin": "《麦克斯奥特曼》第9话；候选阶段为第2阶段；剧情势力：地球原生怪兽。",
+  "summary": "与地方祭祀和自然循环相连的传说怪龙，能够改变天气；它更接近守护性自然神而非侵略者。",
+  "notable_history": [
+    "因人类与龙之传说再次苏醒",
+    "在理解与告别后回归长眠"
+  ],
+  "hunter_contract_rating": "B",
+  "sources": [
+    {
+      "title": "《麦克斯奥特曼》第9话",
+      "url": "https://ultra.fandom.com/wiki/Natsunomeryu"
+    }
+  ]
+}

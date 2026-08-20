@@ -1,0 +1,39 @@
+{
+  "id": "monster:a06070c041",
+  "type": "monster",
+  "name_zh": "巴格达拉斯",
+  "name_en": "BUGDALAS",
+  "aliases": [
+    "巴格达拉斯",
+    "甲虫型宇宙怪兽巴格达拉斯",
+    "巴古达拉斯",
+    "Bugdalas"
+  ],
+  "image": "assets/monsters/巴格达拉斯/portrait.webp",
+  "image_original": "assets/monsters/巴格达拉斯/portrait_original.png",
+  "first_appearance": {
+    "work": "《麦克斯奥特曼》第8话",
+    "detail": "",
+    "year": null
+  },
+  "story_stage": 3,
+  "faction": "宇宙侵略势力",
+  "category": "甲虫型宇宙怪兽",
+  "appearance": "灰黑甲虫型直立躯体，复眼发红，肩背甲壳隆起并带昆虫节肢结构。",
+  "habits": "以有机物和生命能量为食，潜入设施后通过快速繁殖或蜕变扩大危害。",
+  "attacks": "高速移动、坚硬甲壳、能量弹、利爪与生命能量吸收。",
+  "combat_notes": "应在幼体或潜伏期追踪隔离；成熟后正面耐久提高，但关节和腹部仍是相对薄弱区域。",
+  "origin": "《麦克斯奥特曼》第8话；候选阶段为第3阶段；剧情势力：宇宙侵略势力。",
+  "summary": "擅长潜伏和突然成长的甲虫型宇宙怪兽，单体战力并非顶尖，真正风险是进入人口区后的扩散。",
+  "notable_history": [
+    "潜入DASH泰坦基地附近活动",
+    "巨大化后与麦克斯交战"
+  ],
+  "hunter_contract_rating": "C+",
+  "sources": [
+    {
+      "title": "《麦克斯奥特曼》第8话",
+      "url": "https://ultra.fandom.com/wiki/Bugdalas"
+    }
+  ]
+}

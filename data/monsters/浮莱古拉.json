@@ -1,0 +1,39 @@
+{
+  "id": "monster:e0fca1d332",
+  "type": "monster",
+  "name_zh": "浮莱古拉",
+  "name_en": "FLYGLER",
+  "aliases": [
+    "浮莱古拉",
+    "飞鱼怪兽浮莱古拉",
+    "弗莱古拉",
+    "Flygler"
+  ],
+  "image": "assets/monsters/浮莱古拉/portrait.webp",
+  "image_original": "assets/monsters/浮莱古拉/portrait_original.png",
+  "first_appearance": {
+    "work": "《麦克斯奥特曼》第23话",
+    "detail": "",
+    "year": null
+  },
+  "story_stage": 2,
+  "faction": "地球原生怪兽",
+  "category": "飞鱼怪兽",
+  "appearance": "白色飞鱼状巨兽，胸腹直立，四肢与宽大翼鳍连成流线轮廓。",
+  "habits": "长期潜伏于深海，受海洋环境异常与人类设施刺激后升空活动；以高速飞行拉开交战距离。",
+  "attacks": "翼鳍高速飞行、俯冲撞击、口部能量弹与强风冲击。",
+  "combat_notes": "空战机动明显强于地面缠斗；限制其转向空间或迫使落地后，威胁会显著下降。",
+  "origin": "《麦克斯奥特曼》第23话；候选阶段为第2阶段；剧情势力：地球原生怪兽。",
+  "summary": "栖息深海并能转入空战的飞鱼怪兽，兼具水下机动与高速飞行，最危险的区间是高空连续俯冲。",
+  "notable_history": [
+    "袭击UDF海上基地波塞冬",
+    "与麦克斯进行海空追逐战"
+  ],
+  "hunter_contract_rating": "C+",
+  "sources": [
+    {
+      "title": "《麦克斯奥特曼》第23话",
+      "url": "https://ultra.fandom.com/wiki/Flygler"
+    }
+  ]
+}

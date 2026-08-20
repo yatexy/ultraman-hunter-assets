@@ -1,0 +1,40 @@
+{
+  "id": "monster:9f042b5e1f",
+  "type": "monster",
+  "name_zh": "盖琉加",
+  "name_en": "GAIRYUGA",
+  "aliases": [
+    "盖琉加",
+    "光波怪兽盖琉加",
+    "盖留加",
+    "Gairyuga"
+  ],
+  "image": "assets/monsters/盖琉加/portrait.webp",
+  "image_original": "assets/monsters/盖琉加/portrait_original.png",
+  "first_appearance": {
+    "work": "《奥特曼奥美伽》第23话",
+    "detail": "",
+    "year": null
+  },
+  "story_stage": 6,
+  "faction": "地球原生怪兽",
+  "category": "光波怪兽",
+  "appearance": "棘背恐龙型躯体覆盖厚重甲壳，长吻布满利齿，胸部有储存高能物质的发光器官。",
+  "habits": "在地下活动并追逐Kaen-102能量，受威胁时优先以穿透性光束清除目标，受创后仍会伺机反击。",
+  "attacks": "地底移动、强力咬合、胸部能量储存与口部光波射线。",
+  "combat_notes": "胸部储存器官既是火力来源也是关键弱点；必须先暴露或扰乱该器官，避免在正面射线上与其对轰。",
+  "origin": "《奥特曼奥美伽》第23话；候选阶段为第6阶段；剧情势力：地球原生怪兽。",
+  "summary": "能将体内储存的Kaen-102转化为毁灭光波的恐龙型怪兽，其射线足以摧毁山体并一击杀死较弱怪兽。",
+  "notable_history": [
+    "击毁NDF的Kaen-102激光炮阵地",
+    "以近距离光波射线杀死佩古诺斯",
+    "与奥美伽交战后逃脱，后来被佐梅拉吞噬"
+  ],
+  "hunter_contract_rating": "B+",
+  "sources": [
+    {
+      "title": "《奥特曼奥美伽》第23话",
+      "url": "https://m-78.jp/character/omega-23/"
+    }
+  ]
+}

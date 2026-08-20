@@ -1,0 +1,41 @@
+{
+  "id": "monster:955e5caaae",
+  "type": "monster",
+  "name_zh": "黑雷恩",
+  "name_en": "HALEN",
+  "aliases": [
+    "黑雷恩",
+    "超音速怪兽黑雷恩",
+    "海伦",
+    "Halen",
+    "Helen",
+    "ヘイレン"
+  ],
+  "image": "assets/monsters/黑雷恩/portrait.webp",
+  "image_original": "assets/monsters/黑雷恩/portrait_original.png",
+  "first_appearance": {
+    "work": "《麦克斯奥特曼》第12话",
+    "detail": "",
+    "year": null
+  },
+  "story_stage": 2,
+  "faction": "地球原生怪兽",
+  "category": "超音速怪兽",
+  "appearance": "黑褐色鸟兽拥有可变后掠翼、尖长翼刃与红色头冠，翼下带喷射器般发光结构。",
+  "habits": "听觉极度敏锐且神经质，会把特定高频噪声判断为挑衅并持续追击声源。",
+  "attacks": "十马赫飞行、音爆冲击、空气牢笼、高热火球与高速撞击。",
+  "combat_notes": "优势集中在高速空战与连续转向；同时出现两个强声源时容易迟疑，可借此制造短暂射击窗口。",
+  "origin": "《麦克斯奥特曼》第12话；候选阶段为第2阶段；剧情势力：地球原生怪兽。",
+  "summary": "能在起步瞬间进入超音速的空战怪兽，曾凭十马赫速度压制麦克斯；其攻击行为可被特定声音诱导。",
+  "notable_history": [
+    "袭击DASH新型战机试飞",
+    "在演唱会附近与麦克斯展开高速空战"
+  ],
+  "hunter_contract_rating": "B-",
+  "sources": [
+    {
+      "title": "《麦克斯奥特曼》第12话",
+      "url": "https://ultra.fandom.com/wiki/Halen"
+    }
+  ]
+}
